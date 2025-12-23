@@ -1,0 +1,8265 @@
+{
+  "ok": true,
+  "classes": {
+    "ZSI1_ICT_CABLE": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_ICT_CABLE",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "TYPE_ICT_CABLE",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "BRAND_EXTERNAL",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZSI1_COMPUTER_EQP": [
+      {
+        "sequence": 2,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_COMPUTER_EQP",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "TYPE_COMPUTER_EQP",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 4,
+        "characteristic": "SIZE_INCH_COMPUTER_EQP",
+        "case": "P",
+        "prefix": "",
+        "suffix": "In",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZSI1_COMP_HARDDISK": [
+      {
+        "sequence": 3,
+        "characteristic": "BRAND_EXTERNAL",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_COMP_HARDDISK",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 4,
+        "characteristic": "STORAGE_COMP_HARDDISK",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 5,
+        "characteristic": "DIMENSION_COMP_HARDDISK",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "MFR_NO_COMP_HARDDISK",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZSI1_COMPUTER": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_COMPUTER",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "TYPE_COMPUTER",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "BRAND_EXTERNAL",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 4,
+        "characteristic": "PROCESSOR_COMPUTER",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 6,
+        "characteristic": "RAM_DIMENSION_COMPUTER",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 5,
+        "characteristic": "RAM_CAPACITY_COMPUTER",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 8,
+        "characteristic": "HARDDISK_DIMENSION_COMPUTER",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 7,
+        "characteristic": "HARDDISK_CAPACITY_COMPUTER",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZSI1_NETWORK_EQP": [
+      {
+        "sequence": 4,
+        "characteristic": "ADDTIONAL_SPECIFICATION",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "BRAND_EXTERNAL",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_NETWORK_EQP",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "MFR_NO_NETWORK_EQP",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZSI1_OEM_PART": [
+      {
+        "sequence": 3,
+        "characteristic": "BRAND_EXTERNAL",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_OEM_PART",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "MFR_NO_OEM_PART",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 4,
+        "characteristic": "ADDTIONAL_SPECIFICATION",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZSI1_COM_TAB_ACCS": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_COM_TAB_ACCS",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "BRAND_EXTERNAL",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 4,
+        "characteristic": "ADDTIONAL_SPECIFICATION",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZSI1_COMM_DEVICE": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_COMM_DEVICE",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "SERIES_COMM_DEVICE",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 4,
+        "characteristic": "BRAND_EXTERNAL",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZSI1_COMM_ACCS": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_COMM_ACCS",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "BRAND_EXTERNAL",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 4,
+        "characteristic": "ADDTIONAL_SPECIFICATION",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZSI1_BRACKET_TRIPD": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_BRACKET",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "TIPE_BRACKET",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "BRAND_EXTERNAL",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 4,
+        "characteristic": "BRACKET_ITEM_APA",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 5,
+        "characteristic": "USAGE_BRACKET",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZPI1_ACC_PAKAIAN": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_ACC_PAKAIAN",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "MATERIAL_ACC_PAKAIAN",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "SPECIAL_ACTIVITY",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 4,
+        "characteristic": "EMBOSSED_BRAND_WINGS",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 5,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 6,
+        "characteristic": "EXTERNAL_BRAND",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 7,
+        "characteristic": "BRAND_EXTERNAL_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 8,
+        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 9,
+        "characteristic": "SIZE_UNIT_PAKAIAN",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 10,
+        "characteristic": "ITEM_SHAPE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 11,
+        "characteristic": "DIAMETER_PCS_PI",
+        "case": "P",
+        "prefix": "D=",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 12,
+        "characteristic": "LENGTH_PCS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 13,
+        "characteristic": "WIDTH_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 14,
+        "characteristic": "HEIGHT_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 15,
+        "characteristic": "SIZE_UNIT_DIMENSI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 16,
+        "characteristic": "HAS_SPESIFIC_COLOUR",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 17,
+        "characteristic": "COLOUR",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 18,
+        "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 19,
+        "characteristic": "DESAIN_NAME",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 20,
+        "characteristic": "DESAIN_MONTH",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 21,
+        "characteristic": "DESAIN_YEAR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 22,
+        "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 16,
+        "characteristic": "QTY_IN_ONE_BUNDLE",
+        "case": "P",
+        "prefix": "@",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZPI1_ALAT_KEBRSIHAN": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_ALAT_KEBERSIHN",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "MATERIAL_ALAT_KEBERSIHN",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "SPECIAL_ACTIVITY",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 4,
+        "characteristic": "EMBOSSED_BRAND_WINGS",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 5,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 6,
+        "characteristic": "EXTERNAL_BRAND",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 7,
+        "characteristic": "BRAND_EXTERNAL_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 8,
+        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 9,
+        "characteristic": "ITEM_SHAPE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 10,
+        "characteristic": "DIAMETER_PCS_PI",
+        "case": "P",
+        "prefix": "D=",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 11,
+        "characteristic": "LENGTH_PCS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 12,
+        "characteristic": "WIDTH_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 13,
+        "characteristic": "HEIGHT_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 14,
+        "characteristic": "SIZE_UNIT_DIMENSI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 15,
+        "characteristic": "HAS_SPESIFIC_COLOUR",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 16,
+        "characteristic": "COLOUR",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 17,
+        "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 18,
+        "characteristic": "DESAIN_NAME",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 19,
+        "characteristic": "DESAIN_MONTH",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 20,
+        "characteristic": "DESAIN_YEAR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 21,
+        "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 22,
+        "characteristic": "QTY_IN_ONE_BUNDLE",
+        "case": "P",
+        "prefix": "@",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZPI1_BANTL_SELIMUT": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_BANTAL_SELIMUT",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "MATERIAL_BANTAL_SELIMUT",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "SPECIAL_ACTIVITY",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 4,
+        "characteristic": "EMBOSSED_BRAND_WINGS",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 5,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 6,
+        "characteristic": "EXTERNAL_BRAND",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 7,
+        "characteristic": "BRAND_EXTERNAL_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 8,
+        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 9,
+        "characteristic": "ITEM_SHAPE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 10,
+        "characteristic": "DIAMETER_PCS_PI",
+        "case": "P",
+        "prefix": "D=",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 11,
+        "characteristic": "LENGTH_PCS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 12,
+        "characteristic": "WIDTH_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 13,
+        "characteristic": "HEIGHT_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 14,
+        "characteristic": "SIZE_UNIT_DIMENSI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 15,
+        "characteristic": "HAS_SPESIFIC_COLOUR",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 16,
+        "characteristic": "COLOUR",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 17,
+        "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 18,
+        "characteristic": "DESAIN_NAME",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 19,
+        "characteristic": "DESAIN_MONTH",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 20,
+        "characteristic": "DESAIN_YEAR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 21,
+        "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 22,
+        "characteristic": "QTY_IN_ONE_BUNDLE",
+        "case": "P",
+        "prefix": "@",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZPI1_BUKU_KERTAS": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_BUKU_KERTAS",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "MATERIAL_BUKU_KERTAS",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "SPECIAL_ACTIVITY",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 4,
+        "characteristic": "EMBOSSED_BRAND_WINGS",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 5,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 6,
+        "characteristic": "EXTERNAL_BRAND",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 7,
+        "characteristic": "BRAND_EXTERNAL_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 8,
+        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 9,
+        "characteristic": "ITEM_SHAPE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 10,
+        "characteristic": "DIAMETER_PCS_PI",
+        "case": "P",
+        "prefix": "D=",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 11,
+        "characteristic": "LENGTH_PCS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 12,
+        "characteristic": "WIDTH_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 13,
+        "characteristic": "HEIGHT_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 14,
+        "characteristic": "SIZE_UNIT_DIMENSI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 15,
+        "characteristic": "HAS_SPESIFIC_COLOUR",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 16,
+        "characteristic": "COLOUR",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 17,
+        "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 18,
+        "characteristic": "DESAIN_NAME",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 19,
+        "characteristic": "DESAIN_MONTH",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 20,
+        "characteristic": "DESAIN_YEAR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 21,
+        "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 22,
+        "characteristic": "QTY_IN_ONE_BUNDLE",
+        "case": "P",
+        "prefix": "@",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZPI1_HANDUK": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_HANDUK",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "MATERIAL_HANDUK",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "SPECIAL_ACTIVITY",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 4,
+        "characteristic": "EMBOSSED_BRAND_WINGS",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 5,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 6,
+        "characteristic": "EXTERNAL_BRAND",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 7,
+        "characteristic": "BRAND_EXTERNAL_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 8,
+        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 9,
+        "characteristic": "ITEM_SHAPE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 10,
+        "characteristic": "DIAMETER_PCS_PI",
+        "case": "P",
+        "prefix": "D=",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 11,
+        "characteristic": "LENGTH_PCS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 12,
+        "characteristic": "WIDTH_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 13,
+        "characteristic": "HEIGHT_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 14,
+        "characteristic": "SIZE_UNIT_DIMENSI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 15,
+        "characteristic": "HAS_SPESIFIC_COLOUR",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 16,
+        "characteristic": "COLOUR",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 17,
+        "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 18,
+        "characteristic": "DESAIN_NAME",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 19,
+        "characteristic": "DESAIN_MONTH",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 20,
+        "characteristic": "DESAIN_YEAR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 21,
+        "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 22,
+        "characteristic": "QTY_IN_ONE_BUNDLE",
+        "case": "P",
+        "prefix": "@",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZPI1_JAM": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_JAM",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "SPECIAL_ACTIVITY",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 3,
+        "characteristic": "EMBOSSED_BRAND_WINGS",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 4,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 5,
+        "characteristic": "EXTERNAL_BRAND",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 6,
+        "characteristic": "BRAND_EXTERNAL_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 7,
+        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 8,
+        "characteristic": "ITEM_SHAPE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 9,
+        "characteristic": "DIAMETER_PCS_PI",
+        "case": "P",
+        "prefix": "D=",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 10,
+        "characteristic": "LENGTH_PCS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 11,
+        "characteristic": "WIDTH_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 12,
+        "characteristic": "HEIGHT_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 13,
+        "characteristic": "SIZE_UNIT_DIMENSI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 14,
+        "characteristic": "HAS_SPESIFIC_COLOUR",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 15,
+        "characteristic": "COLOUR",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 16,
+        "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 17,
+        "characteristic": "DESAIN_NAME",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 18,
+        "characteristic": "DESAIN_MONTH",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 19,
+        "characteristic": "DESAIN_YEAR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 20,
+        "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 21,
+        "characteristic": "QTY_IN_ONE_BUNDLE",
+        "case": "P",
+        "prefix": "@",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZPI1_LOGAM_MULIA": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_LOGAM_MULIA",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "SPECIAL_ACTIVITY",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 3,
+        "characteristic": "EMBOSSED_BRAND_WINGS",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 4,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 5,
+        "characteristic": "EXTERNAL_BRAND",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 6,
+        "characteristic": "BRAND_EXTERNAL_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 7,
+        "characteristic": "SIZE_INPUT",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 8,
+        "characteristic": "SIZE_UNIT_LOGAM_MULIA",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 9,
+        "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 10,
+        "characteristic": "DESAIN_NAME",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 11,
+        "characteristic": "DESAIN_MONTH",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 12,
+        "characteristic": "DESAIN_YEAR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      }
+    ],
+    "ZPI1_MAINAN_BONEKA": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_MAINAN_BONEKA",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "MATERIAL_MAINAN_BONEKA",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "SPECIAL_ACTIVITY",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 4,
+        "characteristic": "EMBOSSED_BRAND_WINGS",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 5,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 6,
+        "characteristic": "EXTERNAL_BRAND",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 7,
+        "characteristic": "BRAND_EXTERNAL_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 8,
+        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 9,
+        "characteristic": "ITEM_SHAPE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 10,
+        "characteristic": "DIAMETER_PCS_PI",
+        "case": "P",
+        "prefix": "D=",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 11,
+        "characteristic": "LENGTH_PCS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 12,
+        "characteristic": "WIDTH_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 13,
+        "characteristic": "HEIGHT_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 14,
+        "characteristic": "SIZE_UNIT_DIMENSI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 15,
+        "characteristic": "HAS_SPESIFIC_COLOUR",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 16,
+        "characteristic": "COLOUR",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 17,
+        "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 18,
+        "characteristic": "DESAIN_NAME",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 19,
+        "characteristic": "DESAIN_MONTH",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 20,
+        "characteristic": "DESAIN_YEAR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 21,
+        "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 22,
+        "characteristic": "QTY_IN_ONE_BUNDLE",
+        "case": "P",
+        "prefix": "@",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZPI1_PAKAIAN": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_PAKAIAN",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "MATERIAL_PAKAIAN",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "SPECIAL_ACTIVITY",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 4,
+        "characteristic": "EMBOSSED_BRAND_WINGS",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 5,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 6,
+        "characteristic": "EXTERNAL_BRAND",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 7,
+        "characteristic": "BRAND_EXTERNAL_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 8,
+        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 9,
+        "characteristic": "SIZE_UNIT_PAKAIAN",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 10,
+        "characteristic": "HAS_SPESIFIC_COLOUR",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 11,
+        "characteristic": "COLOUR",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 12,
+        "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 13,
+        "characteristic": "DESAIN_NAME",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 14,
+        "characteristic": "DESAIN_MONTH",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 15,
+        "characteristic": "DESAIN_YEAR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 16,
+        "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 17,
+        "characteristic": "QTY_IN_ONE_BUNDLE",
+        "case": "P",
+        "prefix": "@",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZPI1_PERLKP_DAPUR": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_PERLKP_DAPUR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "MATERIAL_PERLKP_DAPUR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "SPECIAL_ACTIVITY",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 4,
+        "characteristic": "EMBOSSED_BRAND_WINGS",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 5,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 6,
+        "characteristic": "EXTERNAL_BRAND",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 7,
+        "characteristic": "BRAND_EXTERNAL_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 8,
+        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 9,
+        "characteristic": "ITEM_CAPACITY",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 10,
+        "characteristic": "ITEM_CAPACITY_UNIT",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 11,
+        "characteristic": "ITEM_SHAPE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 12,
+        "characteristic": "DIAMETER_PCS_PI",
+        "case": "P",
+        "prefix": "D=",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 13,
+        "characteristic": "LENGTH_PCS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 14,
+        "characteristic": "WIDTH_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 15,
+        "characteristic": "HEIGHT_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 16,
+        "characteristic": "SIZE_UNIT_DIMENSI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 17,
+        "characteristic": "HAS_SPESIFIC_COLOUR",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 18,
+        "characteristic": "COLOUR",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 19,
+        "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 20,
+        "characteristic": "DESAIN_NAME",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 21,
+        "characteristic": "DESAIN_MONTH",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 22,
+        "characteristic": "DESAIN_YEAR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 23,
+        "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 24,
+        "characteristic": "QTY_IN_ONE_BUNDLE",
+        "case": "P",
+        "prefix": "@",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZPI1_PERLKP_HUJAN": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_PERLKP_HUJAN",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "MATERIAL_PERLKP_HUJAN",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "SPECIAL_ACTIVITY",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 4,
+        "characteristic": "EMBOSSED_BRAND_WINGS",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 5,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 6,
+        "characteristic": "EXTERNAL_BRAND",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 7,
+        "characteristic": "BRAND_EXTERNAL_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 8,
+        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 9,
+        "characteristic": "SIZE_UNIT_PAKAIAN",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 10,
+        "characteristic": "ITEM_SHAPE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 11,
+        "characteristic": "DIAMETER_PCS_PI",
+        "case": "P",
+        "prefix": "D=",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 12,
+        "characteristic": "LENGTH_PCS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 13,
+        "characteristic": "WIDTH_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 14,
+        "characteristic": "HEIGHT_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 15,
+        "characteristic": "SIZE_UNIT_DIMENSI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 16,
+        "characteristic": "HAS_SPESIFIC_COLOUR",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 17,
+        "characteristic": "COLOUR",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 18,
+        "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 19,
+        "characteristic": "DESAIN_NAME",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 20,
+        "characteristic": "DESAIN_MONTH",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 21,
+        "characteristic": "DESAIN_YEAR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 22,
+        "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 23,
+        "characteristic": "QTY_IN_ONE_BUNDLE",
+        "case": "P",
+        "prefix": "@",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZPI1_PERLKP_OLHRGA": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_PERLKP_OLHRAGA",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "MATERIAL_PERLKP_OLHRAGA",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "SPECIAL_ACTIVITY",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 4,
+        "characteristic": "EMBOSSED_BRAND_WINGS",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 5,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 6,
+        "characteristic": "EXTERNAL_BRAND",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 7,
+        "characteristic": "BRAND_EXTERNAL_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 8,
+        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 9,
+        "characteristic": "ITEM_SHAPE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 10,
+        "characteristic": "DIAMETER_PCS_PI",
+        "case": "P",
+        "prefix": "D=",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 11,
+        "characteristic": "LENGTH_PCS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 12,
+        "characteristic": "WIDTH_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 13,
+        "characteristic": "HEIGHT_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 14,
+        "characteristic": "SIZE_UNIT_DIMENSI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 15,
+        "characteristic": "HAS_SPESIFIC_COLOUR",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 16,
+        "characteristic": "COLOUR",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 17,
+        "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 18,
+        "characteristic": "DESAIN_NAME",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 19,
+        "characteristic": "DESAIN_MONTH",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 20,
+        "characteristic": "DESAIN_YEAR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 21,
+        "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 22,
+        "characteristic": "QTY_IN_ONE_BUNDLE",
+        "case": "P",
+        "prefix": "@",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZPI1_POSM_DISPLAY": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_POSM_DISPLAY",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "MATERIAL_POSM",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "SPECIAL_ACTIVITY",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 4,
+        "characteristic": "EMBOSSED_BRAND_WINGS",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 5,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 6,
+        "characteristic": "EXTERNAL_BRAND",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 7,
+        "characteristic": "BRAND_EXTERNAL_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 8,
+        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 9,
+        "characteristic": "ITEM_SHAPE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 10,
+        "characteristic": "DIAMETER_PCS_PI",
+        "case": "P",
+        "prefix": "D=",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 11,
+        "characteristic": "LENGTH_PCS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 12,
+        "characteristic": "WIDTH_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 13,
+        "characteristic": "HEIGHT_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 14,
+        "characteristic": "SIZE_UNIT_DIMENSI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 15,
+        "characteristic": "HAS_SPESIFIC_COLOUR",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 16,
+        "characteristic": "COLOUR",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 17,
+        "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 18,
+        "characteristic": "DESAIN_NAME",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 19,
+        "characteristic": "DESAIN_MONTH",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 20,
+        "characteristic": "DESAIN_YEAR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 21,
+        "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 22,
+        "characteristic": "QTY_IN_ONE_BUNDLE",
+        "case": "P",
+        "prefix": "@",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZPI1_POSM_MECHNDSE": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_POSM_MECHNDSE",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "MATERIAL_POSM",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "SPECIAL_ACTIVITY",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 4,
+        "characteristic": "EMBOSSED_BRAND_WINGS",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 5,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 6,
+        "characteristic": "EXTERNAL_BRAND",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 7,
+        "characteristic": "BRAND_EXTERNAL_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 8,
+        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 9,
+        "characteristic": "ITEM_SHAPE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 10,
+        "characteristic": "DIAMETER_PCS_PI",
+        "case": "P",
+        "prefix": "D=",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 11,
+        "characteristic": "LENGTH_PCS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 12,
+        "characteristic": "WIDTH_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 13,
+        "characteristic": "HEIGHT_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 14,
+        "characteristic": "SIZE_UNIT_DIMENSI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 15,
+        "characteristic": "HAS_SPESIFIC_COLOUR",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 16,
+        "characteristic": "COLOUR",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 17,
+        "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 18,
+        "characteristic": "DESAIN_NAME",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 19,
+        "characteristic": "DESAIN_MONTH",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 20,
+        "characteristic": "DESAIN_YEAR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 21,
+        "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 22,
+        "characteristic": "QTY_IN_ONE_BUNDLE",
+        "case": "P",
+        "prefix": "@",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZPI1_SERAGAM_KARY": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_SERAGAM_KARY",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "MATERIAL_PAKAIAN",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "GENDER_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 4,
+        "characteristic": "COMPANY_SERAGAM_KARY",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 5,
+        "characteristic": "EXTERNAL_BRAND",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 6,
+        "characteristic": "BRAND_EXTERNAL_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 7,
+        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 8,
+        "characteristic": "SIZE_UNIT_PAKAIAN",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 9,
+        "characteristic": "HAS_SPESIFIC_COLOUR",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 10,
+        "characteristic": "COLOUR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 11,
+        "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 12,
+        "characteristic": "DESAIN_NAME",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 13,
+        "characteristic": "DESAIN_MONTH",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 14,
+        "characteristic": "DESAIN_YEAR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 15,
+        "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 16,
+        "characteristic": "QTY_IN_ONE_BUNDLE",
+        "case": "P",
+        "prefix": "@",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZPI1_SIGNAGE_LABEL": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_SIGNAGE_LABEL",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "MATERIAL_SIGNAGE_LABEL",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "SPECIAL_ACTIVITY",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 4,
+        "characteristic": "EMBOSSED_BRAND_WINGS",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 5,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 6,
+        "characteristic": "EXTERNAL_BRAND",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 7,
+        "characteristic": "BRAND_EXTERNAL_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 8,
+        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 9,
+        "characteristic": "ITEM_SHAPE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 10,
+        "characteristic": "DIAMETER_PCS_PI",
+        "case": "P",
+        "prefix": "D=",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 11,
+        "characteristic": "LENGTH_PCS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 12,
+        "characteristic": "WIDTH_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 13,
+        "characteristic": "HEIGHT_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 14,
+        "characteristic": "SIZE_UNIT_DIMENSI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 15,
+        "characteristic": "HAS_SPESIFIC_COLOUR",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 16,
+        "characteristic": "COLOUR",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 17,
+        "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 18,
+        "characteristic": "DESAIN_NAME",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 19,
+        "characteristic": "DESAIN_MONTH",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 20,
+        "characteristic": "DESAIN_YEAR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 21,
+        "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 22,
+        "characteristic": "QTY_IN_ONE_BUNDLE",
+        "case": "P",
+        "prefix": "@",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZPI1_TAS_DOMPET": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_TAS_DOMPET",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "MATERIAL_TAS_DOMPET",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "SPECIAL_ACTIVITY",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 4,
+        "characteristic": "EMBOSSED_BRAND_WINGS",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 5,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 6,
+        "characteristic": "EXTERNAL_BRAND",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 7,
+        "characteristic": "BRAND_EXTERNAL_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 8,
+        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 9,
+        "characteristic": "ITEM_SHAPE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 10,
+        "characteristic": "DIAMETER_PCS_PI",
+        "case": "P",
+        "prefix": "D=",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 11,
+        "characteristic": "LENGTH_PCS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 12,
+        "characteristic": "WIDTH_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 13,
+        "characteristic": "HEIGHT_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 14,
+        "characteristic": "SIZE_UNIT_DIMENSI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 15,
+        "characteristic": "HAS_SPESIFIC_COLOUR",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 16,
+        "characteristic": "COLOUR",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 17,
+        "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 18,
+        "characteristic": "DESAIN_NAME",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 19,
+        "characteristic": "DESAIN_MONTH",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 20,
+        "characteristic": "DESAIN_YEAR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 21,
+        "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 22,
+        "characteristic": "QTY_IN_ONE_BUNDLE",
+        "case": "P",
+        "prefix": "@",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ]
+  },
+  "char_desc": {
+    "BRAND_EXTERNAL_PI": "Brand External",
+    "BRAND_WINGS_SIPI": "Brand Wings",
+    "EMBOSSED_BRAND_WINGS": "Emboss Brand Wings ?",
+    "EXTERNAL_BRAND": "Ada Brand External ?",
+    "ITEM_NAME_BRACKET": "Item Name",
+    "ITEM_NAME_COMM_ACCS": "Item Name",
+    "ITEM_NAME_COMM_DEVICE": "Item Name",
+    "ITEM_NAME_COMP_HARDDISK": "Item Name",
+    "ITEM_NAME_COMPUTER_EQP": "Item Name",
+    "ITEM_NAME_NETWORK_EQP": "Item Name",
+    "ITEM_NAME_OEM_PART": "Item Name",
+    "COMPANY_SERAGAM_KARY": "Company",
+    "MFR_NO_COMP_HARDDISK": "Manufacture Number",
+    "MFR_NO_NETWORK_EQP": "Manufacture Number",
+    "MFR_NO_OEM_PART": "Manufacture Number",
+    "GENDER_PI": "Gender",
+    "ITEM_NAME_TAS_DOMPET": "Nama Item",
+    "SERIES_COMM_DEVICE": "Series",
+    "SPECIAL_ACTIVITY": "Pgms Activity ?",
+    "TYPE_COMPUTER_EQP": "Type",
+    "USAGE_BRACKET": "Kegunaan",
+    "ITEM_NAME_COMPUTER": "Item Name",
+    "TYPE_COMPUTER": "Type",
+    "PROCESSOR_COMPUTER": "Processor",
+    "RAM_DIMENSION_COMPUTER": "Satuan Ram Capacity",
+    "RAM_CAPACITY_COMPUTER": "Ram Capacity",
+    "HARDDISK_DIMENSION_COMPUTER": "Satuan Harddisk Capacity",
+    "HARDDISK_CAPACITY_COMPUTER": "Harddisk Capacity",
+    "ADDTIONAL_SPECIFICATION": "Additional Specification",
+    "COLOUR": "Warna",
+    "DESAIN_MONTH": "Bulan Desain",
+    "DESAIN_NAME": "Nama Desain",
+    "DESAIN_YEAR": "Tahun Desain",
+    "DIAMETER_PCS_PI": "Diameter Per Pcs",
+    "EMBOSSED_SPESIFIC_DESAIN": "Emboss Spesifik Desain ?",
+    "HAS_SPESIFIC_COLOUR": "Ada Warna Spesifik ?",
+    "HEIGHT_PCS_PI": "Tinggi Per Pcs",
+    "ITEM_CAPACITY": "Jumlah Kapasitas",
+    "ITEM_CAPACITY_UNIT": "Kapasitas Unit",
+    "ITEM_NAME_ACC_PAKAIAN": "Nama Item",
+    "ITEM_NAME_BANTAL_SELIMUT": "Nama Item",
+    "ITEM_NAME_BUKU_KERTAS": "Nama Item",
+    "ITEM_NAME_HANDUK": "Nama Item",
+    "ITEM_NAME_JAM": "Nama Item",
+    "ITEM_NAME_LOGAM_MULIA": "Nama Item",
+    "ITEM_NAME_MAINAN_BONEKA": "Nama Item",
+    "ITEM_NAME_PAKAIAN": "Nama Item",
+    "ITEM_NAME_PERLKP_DAPUR": "Nama Item",
+    "ITEM_NAME_PERLKP_HUJAN": "Nama Item",
+    "ITEM_NAME_PERLKP_OLHRAGA": "Nama Item",
+    "ITEM_NAME_POSM_DISPLAY": "Nama Item",
+    "ITEM_NAME_POSM_MECHNDSE": "Nama Item",
+    "ITEM_NAME_SIGNAGE_LABEL": "Nama Item",
+    "ITEM_NAME_SERAGAM_KARY": "Nama Item",
+    "ITEM_SHAPE": "Bentuk Item Per Pcs",
+    "MATERIAL_ACC_PAKAIAN": "Bahan Item",
+    "MATERIAL_BANTAL_SELIMUT": "Bahan Item",
+    "MATERIAL_BUKU_KERTAS": "Bahan Item",
+    "MATERIAL_HANDUK": "Bahan Item",
+    "MATERIAL_MAINAN_BONEKA": "Bahan Item",
+    "MATERIAL_PAKAIAN": "Bahan Item",
+    "MATERIAL_PERLKP_DAPUR": "Bahan Item",
+    "MATERIAL_PERLKP_HUJAN": "Bahan Item",
+    "MATERIAL_PERLKP_OLHRAGA": "Bahan Item",
+    "MATERIAL_POSM": "Bahan Item",
+    "MATERIAL_SIGNAGE_LABEL": "Bahan Item",
+    "MATERIAL_TAS_DOMPET": "Bahan Item",
+    "NO_SERI_BRAND_EXTERNAL_PI": "No. Seri Brand External",
+    "QTY_IN_ONE_BUNDLE": "Qty Satu Bundle",
+    "SIZE_INPUT": "Size",
+    "SIZE_UNIT_DIMENSI": "Size Unit",
+    "SIZE_UNIT_LOGAM_MULIA": "Satuan Unit",
+    "SIZE_UNIT_PAKAIAN": "Size",
+    "SPEC_QTY_IN_ONE_BUNDLE": "Jumlah Dalam Satu Bundle ?",
+    "WIDTH_PCS_PI": "Lebar Per Pcs"
+  },
+  "char_attr": {
+    "BRAND_EXTERNAL": {
+      "entry_required": true,
+      "additional_values": true
+    },
+    "BRAND_EXTERNAL_PI": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "BRAND_WINGS_SIPI": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "COLOUR": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "COMPANY_SERAGAM_KARY": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "DESAIN_MONTH": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "DESAIN_NAME": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "DESAIN_YEAR": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "DIAMETER_PCS_PI": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "EMBOSSED_BRAND_WINGS": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "EMBOSSED_SPESIFIC_DESAIN": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "GENDER_PI": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "HAS_SPESIFIC_COLOUR": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "HEIGHT_PCS_PI": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "ITEM_CAPACITY": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "ITEM_CAPACITY_UNIT": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "ITEM_NAME_ACC_PAKAIAN": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_BANTAL_SELIMUT": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_BUKU_KERTAS": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_HANDUK": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_JAM": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_LOGAM_MULIA": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_MAINAN_BONEKA": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_PAKAIAN": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_PERLKP_DAPUR": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_PERLKP_HUJAN": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_PERLKP_OLHRAGA": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_POSM_DISPLAY": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_POSM_MECHNDSE": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_SIGNAGE_LABEL": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_TAS_DOMPET": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_SERAGAM_KARY": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_SHAPE": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "MATERIAL_ACC_PAKAIAN": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "MATERIAL_BANTAL_SELIMUT": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "MATERIAL_BUKU_KERTAS": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "MATERIAL_HANDUK": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "MATERIAL_MAINAN_BONEKA": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "MATERIAL_PAKAIAN": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "MATERIAL_PERLKP_DAPUR": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "MATERIAL_PERLKP_HUJAN": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "MATERIAL_PERLKP_OLHRAGA": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "MATERIAL_POSM": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "MATERIAL_SIGNAGE_LABEL": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "MATERIAL_TAS_DOMPET": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "NO_SERI_BRAND_EXTERNAL_PI": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "QTY_IN_ONE_BUNDLE": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "SIZE_INPUT": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "SIZE_UNIT_DIMENSI": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "SIZE_UNIT_LOGAM_MULIA": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "SIZE_UNIT_PAKAIAN": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "SPEC_QTY_IN_ONE_BUNDLE": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "SPECIAL_ACTIVITY": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "WIDTH_PCS_PI": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "EXTERNAL_BRAND": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "ADDTIONAL_SPECIFICATION": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "HARDDISK_CAPACITY_COMPUTER": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "HARDDISK_DIMENSION_COMPUTER": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_BRACKET": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_COMM_ACCS": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_COMM_DEVICE": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_COMPUTER": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_COMPUTER_EQP": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_NETWORK_EQP": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_OEM_PART": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "MFR_NO_NETWORK_EQP": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "MFR_NO_OEM_PART": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "PROCESSOR_COMPUTER": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "RAM_CAPACITY_COMPUTER": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "RAM_DIMENSION_COMPUTER": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "SERIES_COMM_DEVICE": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "TYPE_COMPUTER": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "TYPE_COMPUTER_EQP": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "USAGE_BRACKET": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "DIMENSION_COMP_HARDDISK": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "ITEM_NAME_COMP_HARDDISK": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "MFR_NO_COMP_HARDDISK": {
+      "entry_required": false,
+      "additional_values": false
+    },
+    "STORAGE_COMP_HARDDISK": {
+      "entry_required": false,
+      "additional_values": false
+    }
+  },
+  "char_values": {
+    "BRAND_EXTERNAL": [
+      {
+        "value": "SKF",
+        "default": false
+      },
+      {
+        "value": "FAG",
+        "default": false
+      },
+      {
+        "value": "NTN",
+        "default": false
+      },
+      {
+        "value": "SCHNEIDER",
+        "default": false
+      },
+      {
+        "value": "ALLEN BRADLEY",
+        "default": false
+      },
+      {
+        "value": "NICHIYU",
+        "default": false
+      },
+      {
+        "value": "KOMATSU",
+        "default": false
+      },
+      {
+        "value": "MITSUBISHI",
+        "default": false
+      },
+      {
+        "value": "TOYOTA",
+        "default": false
+      },
+      {
+        "value": "INFORMA",
+        "default": false
+      },
+      {
+        "value": "MORELLI",
+        "default": false
+      },
+      {
+        "value": "MERCK",
+        "default": false
+      },
+      {
+        "value": "S ALDRICH",
+        "default": false
+      },
+      {
+        "value": "METTLER TOLEDO",
+        "default": false
+      },
+      {
+        "value": "KRISBOW",
+        "default": false
+      },
+      {
+        "value": "NBR",
+        "default": false
+      },
+      {
+        "value": "VITTON",
+        "default": false
+      },
+      {
+        "value": "IWAKI",
+        "default": false
+      },
+      {
+        "value": "PYREX",
+        "default": false
+      },
+      {
+        "value": "HERMA",
+        "default": false
+      },
+      {
+        "value": "BRIDGESTONE",
+        "default": false
+      },
+      {
+        "value": "COOCAA",
+        "default": false
+      },
+      {
+        "value": "OXOID",
+        "default": false
+      },
+      {
+        "value": "AMATEK",
+        "default": false
+      },
+      {
+        "value": "THERMO FISCHER",
+        "default": false
+      },
+      {
+        "value": "SARTORIUS",
+        "default": false
+      },
+      {
+        "value": "KERN",
+        "default": false
+      },
+      {
+        "value": "FUYUE",
+        "default": false
+      },
+      {
+        "value": "AND",
+        "default": false
+      },
+      {
+        "value": "ACIS",
+        "default": false
+      },
+      {
+        "value": "ALLA",
+        "default": false
+      },
+      {
+        "value": "CHITOSE",
+        "default": false
+      },
+      {
+        "value": "TENZO LIVING",
+        "default": false
+      },
+      {
+        "value": "OLYMPIC",
+        "default": false
+      },
+      {
+        "value": "FUTURA",
+        "default": false
+      },
+      {
+        "value": "INDACHI",
+        "default": false
+      },
+      {
+        "value": "ALBA",
+        "default": false
+      },
+      {
+        "value": "VOX",
+        "default": false
+      },
+      {
+        "value": "MARSHALL",
+        "default": false
+      },
+      {
+        "value": "PHILIPS",
+        "default": false
+      },
+      {
+        "value": "JOYKO",
+        "default": false
+      },
+      {
+        "value": "STANDARD",
+        "default": false
+      },
+      {
+        "value": "GREE",
+        "default": false
+      },
+      {
+        "value": "CHANG HONG",
+        "default": false
+      },
+      {
+        "value": "DAIKIN",
+        "default": false
+      },
+      {
+        "value": "MIDEA",
+        "default": false
+      },
+      {
+        "value": "AQUA",
+        "default": false
+      },
+      {
+        "value": "MILAN CERAMIC TILES",
+        "default": false
+      },
+      {
+        "value": "ROMAN",
+        "default": false
+      },
+      {
+        "value": "MULIA CERAMICS",
+        "default": false
+      },
+      {
+        "value": "ASIA TILE",
+        "default": false
+      },
+      {
+        "value": "TAJIMA",
+        "default": false
+      },
+      {
+        "value": "BAILAN",
+        "default": false
+      },
+      {
+        "value": "AP BOOTS",
+        "default": false
+      },
+      {
+        "value": "SHOGUN",
+        "default": false
+      },
+      {
+        "value": "ANDO",
+        "default": false
+      },
+      {
+        "value": "BOSCH",
+        "default": false
+      },
+      {
+        "value": "ELECTROLUX",
+        "default": false
+      },
+      {
+        "value": "COSMOS",
+        "default": false
+      },
+      {
+        "value": "RINNAI",
+        "default": false
+      },
+      {
+        "value": "HIKVISION",
+        "default": false
+      },
+      {
+        "value": "SEAGATE",
+        "default": false
+      },
+      {
+        "value": "OMRON",
+        "default": false
+      },
+      {
+        "value": "PAPERLINE",
+        "default": false
+      },
+      {
+        "value": "SIEMENS",
+        "default": false
+      },
+      {
+        "value": "TIGA RODA",
+        "default": false
+      },
+      {
+        "value": "TIMKEN",
+        "default": false
+      },
+      {
+        "value": "NSK",
+        "default": false
+      },
+      {
+        "value": "NACHI",
+        "default": false
+      },
+      {
+        "value": "KOYO",
+        "default": false
+      },
+      {
+        "value": "INA",
+        "default": false
+      },
+      {
+        "value": "IKO",
+        "default": false
+      },
+      {
+        "value": "NMB",
+        "default": false
+      }
+    ],
+    "BRAND_EXTERNAL_PI": [
+      {
+        "value": "3M",
+        "default": false
+      },
+      {
+        "value": "AA",
+        "default": false
+      },
+      {
+        "value": "ACE",
+        "default": false
+      },
+      {
+        "value": "ADIDAS",
+        "default": false
+      },
+      {
+        "value": "AION",
+        "default": false
+      },
+      {
+        "value": "AL-ARABIA",
+        "default": false
+      },
+      {
+        "value": "ALASKA",
+        "default": false
+      },
+      {
+        "value": "AL-BUCHORI",
+        "default": false
+      },
+      {
+        "value": "AL-FADILAH",
+        "default": false
+      },
+      {
+        "value": "AL-LUQMAN",
+        "default": false
+      },
+      {
+        "value": "ANTAM",
+        "default": false
+      },
+      {
+        "value": "APPLE",
+        "default": false
+      },
+      {
+        "value": "ATLAS",
+        "default": false
+      },
+      {
+        "value": "AZ.KO",
+        "default": false
+      },
+      {
+        "value": "AZUMI",
+        "default": false
+      },
+      {
+        "value": "BAGUS",
+        "default": false
+      },
+      {
+        "value": "BEKO",
+        "default": false
+      },
+      {
+        "value": "BERWYN",
+        "default": false
+      },
+      {
+        "value": "BIGGY",
+        "default": false
+      },
+      {
+        "value": "BLUDOT",
+        "default": false
+      },
+      {
+        "value": "BOLDE",
+        "default": false
+      },
+      {
+        "value": "CALESTA",
+        "default": false
+      },
+      {
+        "value": "CASIO",
+        "default": false
+      },
+      {
+        "value": "CLARIS",
+        "default": false
+      },
+      {
+        "value": "COOGER",
+        "default": false
+      },
+      {
+        "value": "CORKCICLE",
+        "default": false
+      },
+      {
+        "value": "DELTAPLUS",
+        "default": false
+      },
+      {
+        "value": "DOROTA",
+        "default": false
+      },
+      {
+        "value": "DRAGON",
+        "default": false
+      },
+      {
+        "value": "ECENTIO",
+        "default": false
+      },
+      {
+        "value": "EKO",
+        "default": false
+      },
+      {
+        "value": "ELEGANT",
+        "default": false
+      },
+      {
+        "value": "ENVI",
+        "default": false
+      },
+      {
+        "value": "EXECUTIVE",
+        "default": false
+      },
+      {
+        "value": "FMI",
+        "default": false
+      },
+      {
+        "value": "FNG",
+        "default": false
+      },
+      {
+        "value": "GAJAH",
+        "default": false
+      },
+      {
+        "value": "GARDA",
+        "default": false
+      },
+      {
+        "value": "GARMIN",
+        "default": false
+      },
+      {
+        "value": "GIORDANO",
+        "default": false
+      },
+      {
+        "value": "GOSAVE",
+        "default": false
+      },
+      {
+        "value": "GREEN LEAF",
+        "default": false
+      },
+      {
+        "value": "GSHOCK",
+        "default": false
+      },
+      {
+        "value": "H&M",
+        "default": false
+      },
+      {
+        "value": "HANDYTA",
+        "default": false
+      },
+      {
+        "value": "HAUCOOK",
+        "default": false
+      },
+      {
+        "value": "HAWAII",
+        "default": false
+      },
+      {
+        "value": "HELLODREAM",
+        "default": false
+      },
+      {
+        "value": "HUAWEI",
+        "default": false
+      },
+      {
+        "value": "HUSH PUPIES",
+        "default": false
+      },
+      {
+        "value": "IKEA",
+        "default": false
+      },
+      {
+        "value": "ISHIHARA",
+        "default": false
+      },
+      {
+        "value": "IZMIR",
+        "default": false
+      },
+      {
+        "value": "JAYA",
+        "default": false
+      },
+      {
+        "value": "JBP",
+        "default": false
+      },
+      {
+        "value": "JOYCO",
+        "default": false
+      },
+      {
+        "value": "KENKO",
+        "default": false
+      },
+      {
+        "value": "KENMASTER",
+        "default": false
+      },
+      {
+        "value": "KIIP",
+        "default": false
+      },
+      {
+        "value": "KINTAKUN",
+        "default": false
+      },
+      {
+        "value": "KIRAMAS",
+        "default": false
+      },
+      {
+        "value": "KLEANER",
+        "default": false
+      },
+      {
+        "value": "KLIR",
+        "default": false
+      },
+      {
+        "value": "KOMET STAR",
+        "default": false
+      },
+      {
+        "value": "KOPIN",
+        "default": false
+      },
+      {
+        "value": "KORNET STAR",
+        "default": false
+      },
+      {
+        "value": "KRISBOW",
+        "default": false
+      },
+      {
+        "value": "KUMBO",
+        "default": false
+      },
+      {
+        "value": "LACOSTE",
+        "default": false
+      },
+      {
+        "value": "LEKA GO!",
+        "default": false
+      },
+      {
+        "value": "LEVIS",
+        "default": false
+      },
+      {
+        "value": "LION STAR",
+        "default": false
+      },
+      {
+        "value": "LIONSTAR",
+        "default": false
+      },
+      {
+        "value": "LOCK N LOCK",
+        "default": false
+      },
+      {
+        "value": "LOCKNLOCK",
+        "default": false
+      },
+      {
+        "value": "LOCO",
+        "default": false
+      },
+      {
+        "value": "LOTTO",
+        "default": false
+      },
+      {
+        "value": "LOVELY",
+        "default": false
+      },
+      {
+        "value": "MAP",
+        "default": false
+      },
+      {
+        "value": "MIAMI",
+        "default": false
+      },
+      {
+        "value": "MIISO",
+        "default": false
+      },
+      {
+        "value": "MIKASA",
+        "default": false
+      },
+      {
+        "value": "MINISO",
+        "default": false
+      },
+      {
+        "value": "MOLTEN",
+        "default": false
+      },
+      {
+        "value": "NAGATA",
+        "default": false
+      },
+      {
+        "value": "NAGOYA",
+        "default": false
+      },
+      {
+        "value": "NIKE",
+        "default": false
+      },
+      {
+        "value": "NINTENDO",
+        "default": false
+      },
+      {
+        "value": "ODELE",
+        "default": false
+      },
+      {
+        "value": "OHSOME",
+        "default": false
+      },
+      {
+        "value": "OLIVER",
+        "default": false
+      },
+      {
+        "value": "ORLEANS",
+        "default": false
+      },
+      {
+        "value": "OSAKA",
+        "default": false
+      },
+      {
+        "value": "OSCAR",
+        "default": false
+      },
+      {
+        "value": "OXONE",
+        "default": false
+      },
+      {
+        "value": "PAPERLINE",
+        "default": false
+      },
+      {
+        "value": "PISIN",
+        "default": false
+      },
+      {
+        "value": "PLUXEE",
+        "default": false
+      },
+      {
+        "value": "POLYTEX",
+        "default": false
+      },
+      {
+        "value": "POST IT",
+        "default": false
+      },
+      {
+        "value": "PRONTO",
+        "default": false
+      },
+      {
+        "value": "PUMA",
+        "default": false
+      },
+      {
+        "value": "REDMI",
+        "default": false
+      },
+      {
+        "value": "RIA",
+        "default": false
+      },
+      {
+        "value": "ROSEGOLD",
+        "default": false
+      },
+      {
+        "value": "ROYAL",
+        "default": false
+      },
+      {
+        "value": "SAMSUNG",
+        "default": false
+      },
+      {
+        "value": "SCOTCH BRITE",
+        "default": false
+      },
+      {
+        "value": "SCOTLITE",
+        "default": false
+      },
+      {
+        "value": "SCTCH BRGHT",
+        "default": false
+      },
+      {
+        "value": "SEIKO",
+        "default": false
+      },
+      {
+        "value": "SHINPO",
+        "default": false
+      },
+      {
+        "value": "SIDU",
+        "default": false
+      },
+      {
+        "value": "SIMIKO",
+        "default": false
+      },
+      {
+        "value": "SM5",
+        "default": false
+      },
+      {
+        "value": "SNI",
+        "default": false
+      },
+      {
+        "value": "SODEXO",
+        "default": false
+      },
+      {
+        "value": "SOLVO",
+        "default": false
+      },
+      {
+        "value": "SONY",
+        "default": false
+      },
+      {
+        "value": "SPEEDS",
+        "default": false
+      },
+      {
+        "value": "STEINCOOKWARE",
+        "default": false
+      },
+      {
+        "value": "SULE",
+        "default": false
+      },
+      {
+        "value": "SUPER MAP",
+        "default": false
+      },
+      {
+        "value": "TACO",
+        "default": false
+      },
+      {
+        "value": "TAKUMA",
+        "default": false
+      },
+      {
+        "value": "TEFAL",
+        "default": false
+      },
+      {
+        "value": "TNT",
+        "default": false
+      },
+      {
+        "value": "TOM&JERRY",
+        "default": false
+      },
+      {
+        "value": "TOPDEC",
+        "default": false
+      },
+      {
+        "value": "TORCH",
+        "default": false
+      },
+      {
+        "value": "TOSCANO",
+        "default": false
+      },
+      {
+        "value": "TOUCHNTUFF",
+        "default": false
+      },
+      {
+        "value": "TRRY PALMER",
+        "default": false
+      },
+      {
+        "value": "TYESO",
+        "default": false
+      },
+      {
+        "value": "UBS",
+        "default": false
+      },
+      {
+        "value": "UNIQLO",
+        "default": false
+      },
+      {
+        "value": "VICENZA",
+        "default": false
+      },
+      {
+        "value": "VIENTO",
+        "default": false
+      },
+      {
+        "value": "WILSON",
+        "default": false
+      },
+      {
+        "value": "XIAOMI",
+        "default": false
+      },
+      {
+        "value": "YOSHINOYA",
+        "default": false
+      }
+    ],
+    "BRAND_WINGS_SIPI": [
+      {
+        "value": "ACR",
+        "default": false
+      },
+      {
+        "value": "ALE",
+        "default": false
+      },
+      {
+        "value": "ABS",
+        "default": false
+      },
+      {
+        "value": "APV",
+        "default": false
+      },
+      {
+        "value": "AQU",
+        "default": false
+      },
+      {
+        "value": "ACP",
+        "default": false
+      },
+      {
+        "value": "ACS",
+        "default": false
+      },
+      {
+        "value": "ACM",
+        "default": false
+      },
+      {
+        "value": "ACV",
+        "default": false
+      },
+      {
+        "value": "ASL",
+        "default": false
+      },
+      {
+        "value": "ASM",
+        "default": false
+      },
+      {
+        "value": "ALP",
+        "default": false
+      },
+      {
+        "value": "ATC",
+        "default": false
+      },
+      {
+        "value": "BHP",
+        "default": false
+      },
+      {
+        "value": "BRK",
+        "default": false
+      },
+      {
+        "value": "BTP",
+        "default": false
+      },
+      {
+        "value": "BBL",
+        "default": false
+      },
+      {
+        "value": "BBO",
+        "default": false
+      },
+      {
+        "value": "BMO",
+        "default": false
+      },
+      {
+        "value": "BEL",
+        "default": false
+      },
+      {
+        "value": "BCA",
+        "default": false
+      },
+      {
+        "value": "BCO",
+        "default": false
+      },
+      {
+        "value": "BSA",
+        "default": false
+      },
+      {
+        "value": "BSO",
+        "default": false
+      },
+      {
+        "value": "BHL",
+        "default": false
+      },
+      {
+        "value": "BML",
+        "default": false
+      },
+      {
+        "value": "BRD",
+        "default": false
+      },
+      {
+        "value": "BSH",
+        "default": false
+      },
+      {
+        "value": "BEV",
+        "default": false
+      },
+      {
+        "value": "BLU",
+        "default": false
+      },
+      {
+        "value": "BCC",
+        "default": false
+      },
+      {
+        "value": "BCR",
+        "default": false
+      },
+      {
+        "value": "BCL",
+        "default": false
+      },
+      {
+        "value": "BCD",
+        "default": false
+      },
+      {
+        "value": "BCP",
+        "default": false
+      },
+      {
+        "value": "BPD",
+        "default": false
+      },
+      {
+        "value": "CLV",
+        "default": false
+      },
+      {
+        "value": "CDR",
+        "default": false
+      },
+      {
+        "value": "CTB",
+        "default": false
+      },
+      {
+        "value": "CTP",
+        "default": false
+      },
+      {
+        "value": "CLG",
+        "default": false
+      },
+      {
+        "value": "CRP",
+        "default": false
+      },
+      {
+        "value": "DBD",
+        "default": false
+      },
+      {
+        "value": "DFC",
+        "default": false
+      },
+      {
+        "value": "DAL",
+        "default": false
+      },
+      {
+        "value": "DPD",
+        "default": false
+      },
+      {
+        "value": "DAG",
+        "default": false
+      },
+      {
+        "value": "DAV",
+        "default": false
+      },
+      {
+        "value": "DCR",
+        "default": false
+      },
+      {
+        "value": "BDO",
+        "default": false
+      },
+      {
+        "value": "EMO",
+        "default": false
+      },
+      {
+        "value": "EMB",
+        "default": false
+      },
+      {
+        "value": "ECR",
+        "default": false
+      },
+      {
+        "value": "EDW",
+        "default": false
+      },
+      {
+        "value": "EHV",
+        "default": false
+      },
+      {
+        "value": "ELO",
+        "default": false
+      },
+      {
+        "value": "ELW",
+        "default": false
+      },
+      {
+        "value": "ECP",
+        "default": false
+      },
+      {
+        "value": "ELP",
+        "default": false
+      },
+      {
+        "value": "ELL",
+        "default": false
+      },
+      {
+        "value": "ESH",
+        "default": false
+      },
+      {
+        "value": "ECO",
+        "default": false
+      },
+      {
+        "value": "ESW",
+        "default": false
+      },
+      {
+        "value": "EBD",
+        "default": false
+      },
+      {
+        "value": "FMI",
+        "default": false
+      },
+      {
+        "value": "FLB",
+        "default": false
+      },
+      {
+        "value": "FLO",
+        "default": false
+      },
+      {
+        "value": "FMC",
+        "default": false
+      },
+      {
+        "value": "FNB",
+        "default": false
+      },
+      {
+        "value": "FNC",
+        "default": false
+      },
+      {
+        "value": "FNL",
+        "default": false
+      },
+      {
+        "value": "FRA",
+        "default": false
+      },
+      {
+        "value": "FRM",
+        "default": false
+      },
+      {
+        "value": "FBT",
+        "default": false
+      },
+      {
+        "value": "GBV",
+        "default": false
+      },
+      {
+        "value": "GBB",
+        "default": false
+      },
+      {
+        "value": "GBL",
+        "default": false
+      },
+      {
+        "value": "GLV",
+        "default": false
+      },
+      {
+        "value": "GWB",
+        "default": false
+      },
+      {
+        "value": "GWL",
+        "default": false
+      },
+      {
+        "value": "GPD",
+        "default": false
+      },
+      {
+        "value": "GOL",
+        "default": false
+      },
+      {
+        "value": "GMP",
+        "default": false
+      },
+      {
+        "value": "GRB",
+        "default": false
+      },
+      {
+        "value": "HKU",
+        "default": false
+      },
+      {
+        "value": "HAP",
+        "default": false
+      },
+      {
+        "value": "ISO",
+        "default": false
+      },
+      {
+        "value": "JPR",
+        "default": false
+      },
+      {
+        "value": "JJS",
+        "default": false
+      },
+      {
+        "value": "JAV",
+        "default": false
+      },
+      {
+        "value": "JCN",
+        "default": false
+      },
+      {
+        "value": "KNB",
+        "default": false
+      },
+      {
+        "value": "KNL",
+        "default": false
+      },
+      {
+        "value": "KBP",
+        "default": false
+      },
+      {
+        "value": "KBS",
+        "default": false
+      },
+      {
+        "value": "KBG",
+        "default": false
+      },
+      {
+        "value": "KSH",
+        "default": false
+      },
+      {
+        "value": "KSG",
+        "default": false
+      },
+      {
+        "value": "KTB",
+        "default": false
+      },
+      {
+        "value": "KTP",
+        "default": false
+      },
+      {
+        "value": "KTT",
+        "default": false
+      },
+      {
+        "value": "KDV",
+        "default": false
+      },
+      {
+        "value": "KWW",
+        "default": false
+      },
+      {
+        "value": "KMA",
+        "default": false
+      },
+      {
+        "value": "KNE",
+        "default": false
+      },
+      {
+        "value": "KNO",
+        "default": false
+      },
+      {
+        "value": "KTO",
+        "default": false
+      },
+      {
+        "value": "TCO",
+        "default": false
+      },
+      {
+        "value": "KFF",
+        "default": false
+      },
+      {
+        "value": "KKY",
+        "default": false
+      },
+      {
+        "value": "KPL",
+        "default": false
+      },
+      {
+        "value": "LVD",
+        "default": false
+      },
+      {
+        "value": "MCB",
+        "default": false
+      },
+      {
+        "value": "MDV",
+        "default": false
+      },
+      {
+        "value": "MLM",
+        "default": false
+      },
+      {
+        "value": "MLI",
+        "default": false
+      },
+      {
+        "value": "MPS",
+        "default": false
+      },
+      {
+        "value": "MSP",
+        "default": false
+      },
+      {
+        "value": "MJS",
+        "default": false
+      },
+      {
+        "value": "MIL",
+        "default": false
+      },
+      {
+        "value": "NVB",
+        "default": false
+      },
+      {
+        "value": "NVL",
+        "default": false
+      },
+      {
+        "value": "NSA",
+        "default": false
+      },
+      {
+        "value": "NSO",
+        "default": false
+      },
+      {
+        "value": "NVV",
+        "default": false
+      },
+      {
+        "value": "NWW",
+        "default": false
+      },
+      {
+        "value": "OLA",
+        "default": false
+      },
+      {
+        "value": "PDC",
+        "default": false
+      },
+      {
+        "value": "PFF",
+        "default": false
+      },
+      {
+        "value": "PMW",
+        "default": false
+      },
+      {
+        "value": "PDL",
+        "default": false
+      },
+      {
+        "value": "PET",
+        "default": false
+      },
+      {
+        "value": "PBS",
+        "default": false
+      },
+      {
+        "value": "PRO",
+        "default": false
+      },
+      {
+        "value": "PTP",
+        "default": false
+      },
+      {
+        "value": "PTR",
+        "default": false
+      },
+      {
+        "value": "PWF",
+        "default": false
+      },
+      {
+        "value": "PGB",
+        "default": false
+      },
+      {
+        "value": "PGL",
+        "default": false
+      },
+      {
+        "value": "PTX",
+        "default": false
+      },
+      {
+        "value": "RPK",
+        "default": false
+      },
+      {
+        "value": "RPB",
+        "default": false
+      },
+      {
+        "value": "ROF",
+        "default": false
+      },
+      {
+        "value": "ROP",
+        "default": false
+      },
+      {
+        "value": "ROS",
+        "default": false
+      },
+      {
+        "value": "SBM",
+        "default": false
+      },
+      {
+        "value": "STX",
+        "default": false
+      },
+      {
+        "value": "SNL",
+        "default": false
+      },
+      {
+        "value": "SSO",
+        "default": false
+      },
+      {
+        "value": "SNR",
+        "default": false
+      },
+      {
+        "value": "SDB",
+        "default": false
+      },
+      {
+        "value": "SDK",
+        "default": false
+      },
+      {
+        "value": "SMI",
+        "default": false
+      },
+      {
+        "value": "SMB",
+        "default": false
+      },
+      {
+        "value": "SMC",
+        "default": false
+      },
+      {
+        "value": "SMT",
+        "default": false
+      },
+      {
+        "value": "SDM",
+        "default": false
+      },
+      {
+        "value": "SGD",
+        "default": false
+      },
+      {
+        "value": "SCO",
+        "default": false
+      },
+      {
+        "value": "SSH",
+        "default": false
+      },
+      {
+        "value": "SDH",
+        "default": false
+      },
+      {
+        "value": "SKE",
+        "default": false
+      },
+      {
+        "value": "SFH",
+        "default": false
+      },
+      {
+        "value": "SSL",
+        "default": false
+      },
+      {
+        "value": "SYM",
+        "default": false
+      },
+      {
+        "value": "S31",
+        "default": false
+      },
+      {
+        "value": "AN1",
+        "default": false
+      },
+      {
+        "value": "SKA",
+        "default": false
+      },
+      {
+        "value": "SBF",
+        "default": false
+      },
+      {
+        "value": "SKF",
+        "default": false
+      },
+      {
+        "value": "HGS",
+        "default": false
+      },
+      {
+        "value": "SKL",
+        "default": false
+      },
+      {
+        "value": "SLM",
+        "default": false
+      },
+      {
+        "value": "SKN",
+        "default": false
+      },
+      {
+        "value": "SKM",
+        "default": false
+      },
+      {
+        "value": "SKW",
+        "default": false
+      },
+      {
+        "value": "SP1",
+        "default": false
+      },
+      {
+        "value": "SPD",
+        "default": false
+      },
+      {
+        "value": "SPV",
+        "default": false
+      },
+      {
+        "value": "SKP",
+        "default": false
+      },
+      {
+        "value": "SKS",
+        "default": false
+      },
+      {
+        "value": "SKO",
+        "default": false
+      },
+      {
+        "value": "SKB",
+        "default": false
+      },
+      {
+        "value": "SKG",
+        "default": false
+      },
+      {
+        "value": "SWB",
+        "default": false
+      },
+      {
+        "value": "WSL",
+        "default": false
+      },
+      {
+        "value": "SDW",
+        "default": false
+      },
+      {
+        "value": "SLV",
+        "default": false
+      },
+      {
+        "value": "SOS",
+        "default": false
+      },
+      {
+        "value": "SSM",
+        "default": false
+      },
+      {
+        "value": "SPS",
+        "default": false
+      },
+      {
+        "value": "SUP",
+        "default": false
+      },
+      {
+        "value": "SMW",
+        "default": false
+      },
+      {
+        "value": "STB",
+        "default": false
+      },
+      {
+        "value": "STP",
+        "default": false
+      },
+      {
+        "value": "TJS",
+        "default": false
+      },
+      {
+        "value": "TSA",
+        "default": false
+      },
+      {
+        "value": "TSO",
+        "default": false
+      },
+      {
+        "value": "RIO",
+        "default": false
+      },
+      {
+        "value": "WKW",
+        "default": false
+      },
+      {
+        "value": "WCR",
+        "default": false
+      },
+      {
+        "value": "WIL",
+        "default": false
+      },
+      {
+        "value": "W24",
+        "default": false
+      },
+      {
+        "value": "WIN",
+        "default": false
+      },
+      {
+        "value": "WWW",
+        "default": false
+      },
+      {
+        "value": "WSR",
+        "default": false
+      },
+      {
+        "value": "WPC",
+        "default": false
+      },
+      {
+        "value": "WBD",
+        "default": false
+      },
+      {
+        "value": "WPD",
+        "default": false
+      },
+      {
+        "value": "WTC",
+        "default": false
+      },
+      {
+        "value": "ZTP",
+        "default": false
+      },
+      {
+        "value": "ZSH",
+        "default": false
+      }
+    ],
+    "COLOUR": [
+      {
+        "value": "NOT SPEC.",
+        "default": false
+      },
+      {
+        "value": "ABU",
+        "default": false
+      },
+      {
+        "value": "BGE",
+        "default": false
+      },
+      {
+        "value": "BNG",
+        "default": false
+      },
+      {
+        "value": "BRU",
+        "default": false
+      },
+      {
+        "value": "CKL",
+        "default": false
+      },
+      {
+        "value": "CRM",
+        "default": false
+      },
+      {
+        "value": "EMS",
+        "default": false
+      },
+      {
+        "value": "HJA",
+        "default": false
+      },
+      {
+        "value": "HTM",
+        "default": false
+      },
+      {
+        "value": "KHI",
+        "default": false
+      },
+      {
+        "value": "KNG",
+        "default": false
+      },
+      {
+        "value": "LVN",
+        "default": false
+      },
+      {
+        "value": "MRH",
+        "default": false
+      },
+      {
+        "value": "MRN",
+        "default": false
+      },
+      {
+        "value": "NVY",
+        "default": false
+      },
+      {
+        "value": "OLV",
+        "default": false
+      },
+      {
+        "value": "ORN",
+        "default": false
+      },
+      {
+        "value": "PCH",
+        "default": false
+      },
+      {
+        "value": "PNK",
+        "default": false
+      },
+      {
+        "value": "PTH",
+        "default": false
+      },
+      {
+        "value": "RGD",
+        "default": false
+      },
+      {
+        "value": "RNB",
+        "default": false
+      },
+      {
+        "value": "SVR",
+        "default": false
+      },
+      {
+        "value": "TOF",
+        "default": false
+      },
+      {
+        "value": "TRQ",
+        "default": false
+      },
+      {
+        "value": "TSC",
+        "default": false
+      },
+      {
+        "value": "UNG",
+        "default": false
+      }
+    ],
+    "EMBOSSED_BRAND_WINGS": [
+      {
+        "value": "YES",
+        "default": false
+      },
+      {
+        "value": "NO",
+        "default": false
+      }
+    ],
+    "EMBOSSED_SPESIFIC_DESAIN": [
+      {
+        "value": "YES",
+        "default": false
+      },
+      {
+        "value": "NO",
+        "default": false
+      }
+    ],
+    "EXTERNAL_BRAND": [
+      {
+        "value": "YES",
+        "default": false
+      },
+      {
+        "value": "NO",
+        "default": false
+      }
+    ],
+    "HAS_SPESIFIC_COLOUR": [
+      {
+        "value": "YES",
+        "default": false
+      },
+      {
+        "value": "NO",
+        "default": false
+      }
+    ],
+    "ITEM_CAPACITY_UNIT": [
+      {
+        "value": "ML",
+        "default": false
+      },
+      {
+        "value": "L",
+        "default": false
+      },
+      {
+        "value": "OZ",
+        "default": false
+      },
+      {
+        "value": "KG",
+        "default": false
+      },
+      {
+        "value": "GR",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_ACC_PAKAIAN": [
+      {
+        "value": "BANDO",
+        "default": false
+      },
+      {
+        "value": "BUCKLE",
+        "default": false
+      },
+      {
+        "value": "CARABINER",
+        "default": false
+      },
+      {
+        "value": "CELEMEK BAYI",
+        "default": false
+      },
+      {
+        "value": "CERMIN GENGGAM",
+        "default": false
+      },
+      {
+        "value": "GELANG",
+        "default": false
+      },
+      {
+        "value": "HAIR BRUSH",
+        "default": false
+      },
+      {
+        "value": "HIJAB",
+        "default": false
+      },
+      {
+        "value": "IKAT RAMBUT",
+        "default": false
+      },
+      {
+        "value": "JEPIT RAMBUT",
+        "default": false
+      },
+      {
+        "value": "KAIN",
+        "default": false
+      },
+      {
+        "value": "MASKER KAIN",
+        "default": false
+      },
+      {
+        "value": "PASHMINA",
+        "default": false
+      },
+      {
+        "value": "RAMBUT PALSU",
+        "default": false
+      },
+      {
+        "value": "SAJADAH",
+        "default": false
+      },
+      {
+        "value": "SAJADAH TRVL",
+        "default": false
+      },
+      {
+        "value": "SARUNG TANGAN",
+        "default": false
+      },
+      {
+        "value": "STICKER FACE JEWEL",
+        "default": false
+      },
+      {
+        "value": "TOPI",
+        "default": false
+      },
+      {
+        "value": "TOPI BUCKET",
+        "default": false
+      },
+      {
+        "value": "TOPI JARING",
+        "default": false
+      },
+      {
+        "value": "TOPI KOKI",
+        "default": false
+      },
+      {
+        "value": "TOPI SPORT",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_BANTAL_SELIMUT": [
+      {
+        "value": "BANTAL",
+        "default": false
+      },
+      {
+        "value": "BANTAL DUDUK",
+        "default": false
+      },
+      {
+        "value": "BANTAL KEPALA",
+        "default": false
+      },
+      {
+        "value": "BANTAL LEHER",
+        "default": false
+      },
+      {
+        "value": "BEANBAG",
+        "default": false
+      },
+      {
+        "value": "SARUNG BANTAL",
+        "default": false
+      },
+      {
+        "value": "SELIMUT",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_BUKU_KERTAS": [
+      {
+        "value": "AMPLOP",
+        "default": false
+      },
+      {
+        "value": "BOOKLET",
+        "default": false
+      },
+      {
+        "value": "BUKU AGENDA",
+        "default": false
+      },
+      {
+        "value": "BUKU NOTA",
+        "default": false
+      },
+      {
+        "value": "BUKU TULIS",
+        "default": false
+      },
+      {
+        "value": "BUKU WRITING PAD",
+        "default": false
+      },
+      {
+        "value": "HANDBOOK",
+        "default": false
+      },
+      {
+        "value": "KALENDER",
+        "default": false
+      },
+      {
+        "value": "KALENDER MEJA",
+        "default": false
+      },
+      {
+        "value": "KARTU NAMA",
+        "default": false
+      },
+      {
+        "value": "KARTU UCAPAN",
+        "default": false
+      },
+      {
+        "value": "KERTAS FOTO",
+        "default": false
+      },
+      {
+        "value": "KUPON",
+        "default": false
+      },
+      {
+        "value": "KUPON GOSOK",
+        "default": false
+      },
+      {
+        "value": "KWITANSI",
+        "default": false
+      },
+      {
+        "value": "NOTEBOOK",
+        "default": false
+      },
+      {
+        "value": "PAPERWORK",
+        "default": false
+      },
+      {
+        "value": "STICKY NOTE",
+        "default": false
+      },
+      {
+        "value": "TEST BOOK",
+        "default": false
+      },
+      {
+        "value": "TIKET FEST.",
+        "default": false
+      },
+      {
+        "value": "VOUCHER",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_HANDUK": [
+      {
+        "value": "HANDUK",
+        "default": false
+      },
+      {
+        "value": "HANDUK MUKA",
+        "default": false
+      },
+      {
+        "value": "HANDUK SPORT",
+        "default": false
+      },
+      {
+        "value": "HANDUK TANGAN",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_JAM": [
+      {
+        "value": "JAM DIGITAL",
+        "default": false
+      },
+      {
+        "value": "JAM DINDING",
+        "default": false
+      },
+      {
+        "value": "JAM MEJA",
+        "default": false
+      },
+      {
+        "value": "JAM TANGAN",
+        "default": false
+      },
+      {
+        "value": "SMART WATCH",
+        "default": false
+      },
+      {
+        "value": "TIMER DAPUR",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_LOGAM_MULIA": [
+      {
+        "value": "LM",
+        "default": false
+      },
+      {
+        "value": "LM",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_MAINAN_BONEKA": [
+      {
+        "value": "BALON",
+        "default": false
+      },
+      {
+        "value": "BALON SKYDANCER",
+        "default": false
+      },
+      {
+        "value": "BALON TEPUK",
+        "default": false
+      },
+      {
+        "value": "BOARD GAME",
+        "default": false
+      },
+      {
+        "value": "BONEKA",
+        "default": false
+      },
+      {
+        "value": "BOOTH GAMES",
+        "default": false
+      },
+      {
+        "value": "BTL GLMBUNG",
+        "default": false
+      },
+      {
+        "value": "DART",
+        "default": false
+      },
+      {
+        "value": "GASING",
+        "default": false
+      },
+      {
+        "value": "KOLAM BOLA",
+        "default": false
+      },
+      {
+        "value": "GAME KONSOL",
+        "default": false
+      },
+      {
+        "value": "PELAMPUNG",
+        "default": false
+      },
+      {
+        "value": "PISTOL AIR",
+        "default": false
+      },
+      {
+        "value": "SELUNCURAN BALON",
+        "default": false
+      },
+      {
+        "value": "TAMAGOCHI",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_BRACKET": [
+      {
+        "value": "BRACKET",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_COMM_ACCS": [
+      {
+        "value": "PHONE HOLD",
+        "default": false
+      },
+      {
+        "value": "CASING",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_COMM_DEVICE": [
+      {
+        "value": "TPHONE",
+        "default": false
+      },
+      {
+        "value": "HP",
+        "default": false
+      },
+      {
+        "value": "HT",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_COMP_HARDDISK": [
+      {
+        "value": "FDISK",
+        "default": false
+      },
+      {
+        "value": "SSD",
+        "default": false
+      },
+      {
+        "value": "HDD",
+        "default": false
+      },
+      {
+        "value": "SD CARD",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_COMPUTER": [
+      {
+        "value": "CPU",
+        "default": false
+      },
+      {
+        "value": "Mini CPU",
+        "default": false
+      },
+      {
+        "value": "NB",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_COMPUTER_EQP": [
+      {
+        "value": "WEBCAM",
+        "default": false
+      },
+      {
+        "value": "RAK SERVER",
+        "default": false
+      },
+      {
+        "value": "KEYBOARD",
+        "default": false
+      },
+      {
+        "value": "MOUSE",
+        "default": false
+      },
+      {
+        "value": "F ACCS TRMNL",
+        "default": false
+      },
+      {
+        "value": "V INTERCOM",
+        "default": false
+      },
+      {
+        "value": "DISP SCREEN",
+        "default": false
+      },
+      {
+        "value": "KBOARD+MOUSE",
+        "default": false
+      },
+      {
+        "value": "WALLMOUNT",
+        "default": false
+      },
+      {
+        "value": "BCODE SCANNER",
+        "default": false
+      },
+      {
+        "value": "TAB",
+        "default": false
+      },
+      {
+        "value": "TESTER",
+        "default": false
+      },
+      {
+        "value": "HEADSET",
+        "default": false
+      },
+      {
+        "value": "EARPHONE",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_PAKAIAN": [
+      {
+        "value": "BAJU KOKO",
+        "default": false
+      },
+      {
+        "value": "CELANA PANJ",
+        "default": false
+      },
+      {
+        "value": "CELANA PNDK",
+        "default": false
+      },
+      {
+        "value": "DRESS SPG",
+        "default": false
+      },
+      {
+        "value": "JAKET",
+        "default": false
+      },
+      {
+        "value": "JAKET BOMBER",
+        "default": false
+      },
+      {
+        "value": "JAKET VARSITY",
+        "default": false
+      },
+      {
+        "value": "KAOS",
+        "default": false
+      },
+      {
+        "value": "KAOS DRYFIT",
+        "default": false
+      },
+      {
+        "value": "KAOS JERSEY",
+        "default": false
+      },
+      {
+        "value": "KAOS KERAH",
+        "default": false
+      },
+      {
+        "value": "KAOS LENGAN 3/4",
+        "default": false
+      },
+      {
+        "value": "KEMEJA",
+        "default": false
+      },
+      {
+        "value": "KEMEJA LENGAN PANJ",
+        "default": false
+      },
+      {
+        "value": "KEMEJA LENGAN PNDK",
+        "default": false
+      },
+      {
+        "value": "KEMEJA SALES",
+        "default": false
+      },
+      {
+        "value": "ROMPI",
+        "default": false
+      },
+      {
+        "value": "SARUNG",
+        "default": false
+      },
+      {
+        "value": "SET SERAGAM HIJAB SPG",
+        "default": false
+      },
+      {
+        "value": "SET SERAGAM SPG",
+        "default": false
+      },
+      {
+        "value": "SHOULDER BAND",
+        "default": false
+      },
+      {
+        "value": "SYAL",
+        "default": false
+      },
+      {
+        "value": "SYAL SPG",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_PERLKP_DAPUR": [
+      {
+        "value": "APRON DAPUR",
+        "default": false
+      },
+      {
+        "value": "BASKOM PENCUCI BERAS",
+        "default": false
+      },
+      {
+        "value": "BTL",
+        "default": false
+      },
+      {
+        "value": "BTL KAPSUL",
+        "default": false
+      },
+      {
+        "value": "BTL MINUM",
+        "default": false
+      },
+      {
+        "value": "BTL MINYAK",
+        "default": false
+      },
+      {
+        "value": "BTL PARFUM",
+        "default": false
+      },
+      {
+        "value": "BTL PUMP",
+        "default": false
+      },
+      {
+        "value": "BTL SPRAY",
+        "default": false
+      },
+      {
+        "value": "BTL TESTER",
+        "default": false
+      },
+      {
+        "value": "CANGKIR",
+        "default": false
+      },
+      {
+        "value": "CANISTER",
+        "default": false
+      },
+      {
+        "value": "CANNISTER",
+        "default": false
+      },
+      {
+        "value": "CEMPAL TANGAN",
+        "default": false
+      },
+      {
+        "value": "CENTONG NASI",
+        "default": false
+      },
+      {
+        "value": "CONTAINER BOX",
+        "default": false
+      },
+      {
+        "value": "COOLER BOX",
+        "default": false
+      },
+      {
+        "value": "CUP",
+        "default": false
+      },
+      {
+        "value": "CUP & SAUCER",
+        "default": false
+      },
+      {
+        "value": "CUTLERY SET",
+        "default": false
+      },
+      {
+        "value": "DRINK SET",
+        "default": false
+      },
+      {
+        "value": "FRYPAN",
+        "default": false
+      },
+      {
+        "value": "GARPU",
+        "default": false
+      },
+      {
+        "value": "GARPU LIPAT",
+        "default": false
+      },
+      {
+        "value": "GELAS",
+        "default": false
+      },
+      {
+        "value": "GELAS CUCI MATA",
+        "default": false
+      },
+      {
+        "value": "GELAS GAGANG",
+        "default": false
+      },
+      {
+        "value": "GELAS KUMUR",
+        "default": false
+      },
+      {
+        "value": "JAR",
+        "default": false
+      },
+      {
+        "value": "KITCHEN CUTTING SET",
+        "default": false
+      },
+      {
+        "value": "KOTAK BUMBU",
+        "default": false
+      },
+      {
+        "value": "KOTAK MKN",
+        "default": false
+      },
+      {
+        "value": "KOTAK MKN SET",
+        "default": false
+      },
+      {
+        "value": "KOTAK TELUR",
+        "default": false
+      },
+      {
+        "value": "KOTAK TISSUE",
+        "default": false
+      },
+      {
+        "value": "LID CUP",
+        "default": false
+      },
+      {
+        "value": "MANGKOK",
+        "default": false
+      },
+      {
+        "value": "MANGKOK SEREAL",
+        "default": false
+      },
+      {
+        "value": "MUG",
+        "default": false
+      },
+      {
+        "value": "NAMPAN",
+        "default": false
+      },
+      {
+        "value": "PANCI LISTRIK",
+        "default": false
+      },
+      {
+        "value": "PAPER BOWL",
+        "default": false
+      },
+      {
+        "value": "PAPER CUP",
+        "default": false
+      },
+      {
+        "value": "PAPER TRAY",
+        "default": false
+      },
+      {
+        "value": "PENGUPAS BUAH",
+        "default": false
+      },
+      {
+        "value": "PENJEPIT MAKANAN",
+        "default": false
+      },
+      {
+        "value": "PIRING",
+        "default": false
+      },
+      {
+        "value": "PISAU SET",
+        "default": false
+      },
+      {
+        "value": "RANTANG",
+        "default": false
+      },
+      {
+        "value": "RICE/ICE BUCKET",
+        "default": false
+      },
+      {
+        "value": "SARINGAN MIE",
+        "default": false
+      },
+      {
+        "value": "SAUCER",
+        "default": false
+      },
+      {
+        "value": "SEDOTAN",
+        "default": false
+      },
+      {
+        "value": "SEKAT SARINGAN",
+        "default": false
+      },
+      {
+        "value": "SENDOK",
+        "default": false
+      },
+      {
+        "value": "SENDOK SAYUR",
+        "default": false
+      },
+      {
+        "value": "SENDOK TEH",
+        "default": false
+      },
+      {
+        "value": "SENDOK&GARPU",
+        "default": false
+      },
+      {
+        "value": "SERBET",
+        "default": false
+      },
+      {
+        "value": "SPATULA",
+        "default": false
+      },
+      {
+        "value": "SPATULA SET",
+        "default": false
+      },
+      {
+        "value": "SPORK",
+        "default": false
+      },
+      {
+        "value": "SUMPIT",
+        "default": false
+      },
+      {
+        "value": "TALENAN",
+        "default": false
+      },
+      {
+        "value": "TAPLAK MEJA",
+        "default": false
+      },
+      {
+        "value": "TEMPAT AIR",
+        "default": false
+      },
+      {
+        "value": "TERMOS",
+        "default": false
+      },
+      {
+        "value": "TMPT SENDOK",
+        "default": false
+      },
+      {
+        "value": "TOPLES",
+        "default": false
+      },
+      {
+        "value": "TOPLES SET",
+        "default": false
+      },
+      {
+        "value": "TTP BOTOL",
+        "default": false
+      },
+      {
+        "value": "TTP CANNISTER",
+        "default": false
+      },
+      {
+        "value": "TTP GELAS",
+        "default": false
+      },
+      {
+        "value": "TTP KOTAK MKN",
+        "default": false
+      },
+      {
+        "value": "TTP TOPLES",
+        "default": false
+      },
+      {
+        "value": "TUMBLER",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_PERLKP_HUJAN": [
+      {
+        "value": "JAS HUJAN",
+        "default": false
+      },
+      {
+        "value": "JAS HUJAN SET",
+        "default": false
+      },
+      {
+        "value": "PAYUNG",
+        "default": false
+      },
+      {
+        "value": "PAYUNG GOLF",
+        "default": false
+      },
+      {
+        "value": "PAYUNG LIPAT",
+        "default": false
+      },
+      {
+        "value": "PAYUNG LIPAT 2",
+        "default": false
+      },
+      {
+        "value": "PAYUNG LIPAT 3",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_PERLKP_OLHRAGA": [
+      {
+        "value": "BET PINGPONG",
+        "default": false
+      },
+      {
+        "value": "BOLA",
+        "default": false
+      },
+      {
+        "value": "BOLA BASKET",
+        "default": false
+      },
+      {
+        "value": "BOLA FUTSAL",
+        "default": false
+      },
+      {
+        "value": "BOLA KAKI",
+        "default": false
+      },
+      {
+        "value": "BOLA PINGPONG",
+        "default": false
+      },
+      {
+        "value": "NET BADMINTON",
+        "default": false
+      },
+      {
+        "value": "PAPAN SCORE",
+        "default": false
+      },
+      {
+        "value": "RAKET BADMINTON",
+        "default": false
+      },
+      {
+        "value": "RAKET TENIS",
+        "default": false
+      },
+      {
+        "value": "YOGA MAT",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_POSM_DISPLAY": [
+      {
+        "value": "A BOARD",
+        "default": false
+      },
+      {
+        "value": "ASONGAN",
+        "default": false
+      },
+      {
+        "value": "BACKDROP",
+        "default": false
+      },
+      {
+        "value": "BACKDROP TENDA",
+        "default": false
+      },
+      {
+        "value": "BANNER",
+        "default": false
+      },
+      {
+        "value": "BENDERA",
+        "default": false
+      },
+      {
+        "value": "BOOTH",
+        "default": false
+      },
+      {
+        "value": "BOX TESTER",
+        "default": false
+      },
+      {
+        "value": "CLIPSTRIP",
+        "default": false
+      },
+      {
+        "value": "CLIPSTRIP HEADER",
+        "default": false
+      },
+      {
+        "value": "COVER MEJA",
+        "default": false
+      },
+      {
+        "value": "COVER SAMPLE",
+        "default": false
+      },
+      {
+        "value": "COVER TENDA",
+        "default": false
+      },
+      {
+        "value": "DISP BOX",
+        "default": false
+      },
+      {
+        "value": "DUMMY",
+        "default": false
+      },
+      {
+        "value": "EVENT DESK",
+        "default": false
+      },
+      {
+        "value": "FLAGCHAIN",
+        "default": false
+      },
+      {
+        "value": "FLOOR DISP",
+        "default": false
+      },
+      {
+        "value": "FLYER",
+        "default": false
+      },
+      {
+        "value": "FRAME",
+        "default": false
+      },
+      {
+        "value": "FRAME BENTOR",
+        "default": false
+      },
+      {
+        "value": "FRAME FOTO",
+        "default": false
+      },
+      {
+        "value": "FRAME GONDOLA SET",
+        "default": false
+      },
+      {
+        "value": "FRAME POSTER",
+        "default": false
+      },
+      {
+        "value": "FRAME TROLLEY",
+        "default": false
+      },
+      {
+        "value": "HANG MOBILE",
+        "default": false
+      },
+      {
+        "value": "HANG TAG",
+        "default": false
+      },
+      {
+        "value": "HANGER",
+        "default": false
+      },
+      {
+        "value": "HANGER DISP",
+        "default": false
+      },
+      {
+        "value": "HEADER RAK DISP",
+        "default": false
+      },
+      {
+        "value": "INSERT HANGER",
+        "default": false
+      },
+      {
+        "value": "KERTAS PARFUM",
+        "default": false
+      },
+      {
+        "value": "MASKOT",
+        "default": false
+      },
+      {
+        "value": "MEJA LIPAT PORTABLE",
+        "default": false
+      },
+      {
+        "value": "NECKTAG",
+        "default": false
+      },
+      {
+        "value": "PACER FLAG",
+        "default": false
+      },
+      {
+        "value": "PAPAN NAMA",
+        "default": false
+      },
+      {
+        "value": "PARASOL",
+        "default": false
+      },
+      {
+        "value": "PEMB. ANTRIAN",
+        "default": false
+      },
+      {
+        "value": "PEMB. KASIR",
+        "default": false
+      },
+      {
+        "value": "PEMB. TENDA",
+        "default": false
+      },
+      {
+        "value": "PIALA",
+        "default": false
+      },
+      {
+        "value": "PLAKAT",
+        "default": false
+      },
+      {
+        "value": "POSTER",
+        "default": false
+      },
+      {
+        "value": "POSTER NEON BOX",
+        "default": false
+      },
+      {
+        "value": "PRICE BOARD",
+        "default": false
+      },
+      {
+        "value": "RAK DISP",
+        "default": false
+      },
+      {
+        "value": "RAK DISP KOSMETIK",
+        "default": false
+      },
+      {
+        "value": "RAK TEMPEL",
+        "default": false
+      },
+      {
+        "value": "RANGKA EVENT DESK",
+        "default": false
+      },
+      {
+        "value": "RANGKA EVENT TENDA",
+        "default": false
+      },
+      {
+        "value": "ROLL-BANNER",
+        "default": false
+      },
+      {
+        "value": "SHELF FRAME AJUST",
+        "default": false
+      },
+      {
+        "value": "SHELFDIVIDER",
+        "default": false
+      },
+      {
+        "value": "SHELFFRAME",
+        "default": false
+      },
+      {
+        "value": "SHELFTALKER",
+        "default": false
+      },
+      {
+        "value": "SKIRTING DESK",
+        "default": false
+      },
+      {
+        "value": "SPANDUK",
+        "default": false
+      },
+      {
+        "value": "SPANDUK NAMA TOKO",
+        "default": false
+      },
+      {
+        "value": "STANDEE",
+        "default": false
+      },
+      {
+        "value": "STANDEE CHAR",
+        "default": false
+      },
+      {
+        "value": "STICKER CANNISTER",
+        "default": false
+      },
+      {
+        "value": "STICKER CHILLER",
+        "default": false
+      },
+      {
+        "value": "STICKER COOLER BOX",
+        "default": false
+      },
+      {
+        "value": "STICKER FRAME",
+        "default": false
+      },
+      {
+        "value": "STICKER GONDOLA",
+        "default": false
+      },
+      {
+        "value": "STICKER KTK MAKAN",
+        "default": false
+      },
+      {
+        "value": "STICKER PHOTO BOOTH",
+        "default": false
+      },
+      {
+        "value": "STICKER POSTER",
+        "default": false
+      },
+      {
+        "value": "STICKER RAK DISP",
+        "default": false
+      },
+      {
+        "value": "STICKER TOPLES",
+        "default": false
+      },
+      {
+        "value": "STICKER TRUCK",
+        "default": false
+      },
+      {
+        "value": "SUNBLIND",
+        "default": false
+      },
+      {
+        "value": "TABLE TOP",
+        "default": false
+      },
+      {
+        "value": "T-BANNER",
+        "default": false
+      },
+      {
+        "value": "TENDA EVENT",
+        "default": false
+      },
+      {
+        "value": "TERPAL",
+        "default": false
+      },
+      {
+        "value": "TESTER",
+        "default": false
+      },
+      {
+        "value": "TOP ROW",
+        "default": false
+      },
+      {
+        "value": "UMBUL-UMBUL",
+        "default": false
+      },
+      {
+        "value": "WALL STICKER",
+        "default": false
+      },
+      {
+        "value": "WOBBLER",
+        "default": false
+      },
+      {
+        "value": "X-BANNER",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_POSM_MECHNDSE": [
+      {
+        "value": "ALAT GOSOK VOUCHER",
+        "default": false
+      },
+      {
+        "value": "BTL HOLDER",
+        "default": false
+      },
+      {
+        "value": "FIGURIN",
+        "default": false
+      },
+      {
+        "value": "GANT BONEKA",
+        "default": false
+      },
+      {
+        "value": "GANT HP",
+        "default": false
+      },
+      {
+        "value": "GANT KUNCI",
+        "default": false
+      },
+      {
+        "value": "GIFT BOX",
+        "default": false
+      },
+      {
+        "value": "HANGER BAJU",
+        "default": false
+      },
+      {
+        "value": "ID CARD HOLDER",
+        "default": false
+      },
+      {
+        "value": "JIBBITZ",
+        "default": false
+      },
+      {
+        "value": "KTK SAMPLE",
+        "default": false
+      },
+      {
+        "value": "LANYARD",
+        "default": false
+      },
+      {
+        "value": "LANYARD YOYO",
+        "default": false
+      },
+      {
+        "value": "MEDALI",
+        "default": false
+      },
+      {
+        "value": "NEON BOX",
+        "default": false
+      },
+      {
+        "value": "ORGANIZER ATK",
+        "default": false
+      },
+      {
+        "value": "PIN",
+        "default": false
+      },
+      {
+        "value": "PITA UKUR",
+        "default": false
+      },
+      {
+        "value": "STICKER PACK",
+        "default": false
+      },
+      {
+        "value": "TEMPAT CD",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_SIGNAGE_LABEL": [
+      {
+        "value": "FLOOR SIGN",
+        "default": false
+      },
+      {
+        "value": "KARTU",
+        "default": false
+      },
+      {
+        "value": "LABEL",
+        "default": false
+      },
+      {
+        "value": "PAPAN RAMBU",
+        "default": false
+      },
+      {
+        "value": "STICKER BACKDROP",
+        "default": false
+      },
+      {
+        "value": "STICKER EMBLEM",
+        "default": false
+      },
+      {
+        "value": "STICKER INFORMASI",
+        "default": false
+      },
+      {
+        "value": "STICKER NAMA",
+        "default": false
+      },
+      {
+        "value": "STICKER PROMO",
+        "default": false
+      },
+      {
+        "value": "STICKER RAMBU",
+        "default": false
+      },
+      {
+        "value": "STICKER RELEKTOR",
+        "default": false
+      },
+      {
+        "value": "STICKER ROLL",
+        "default": false
+      },
+      {
+        "value": "STICKER VEND MCHN",
+        "default": false
+      },
+      {
+        "value": "TAG OUT",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_SERAGAM_KARY": [
+      {
+        "value": "BLAZER",
+        "default": false
+      },
+      {
+        "value": "CELANA PNDK NON-STAF",
+        "default": false
+      },
+      {
+        "value": "CELANA PANJ NON-STAF",
+        "default": false
+      },
+      {
+        "value": "CELANA PNDK STAF",
+        "default": false
+      },
+      {
+        "value": "CELANA PANJ STAF",
+        "default": false
+      },
+      {
+        "value": "KAOS KERAH NON-STAF",
+        "default": false
+      },
+      {
+        "value": "KAOS KERAH STAF",
+        "default": false
+      },
+      {
+        "value": "KAOS LENGAN PANJ NON-STAF",
+        "default": false
+      },
+      {
+        "value": "KAOS LENGAN PNDK NON-STAF",
+        "default": false
+      },
+      {
+        "value": "KAOS NON-STAF",
+        "default": false
+      },
+      {
+        "value": "KAOS STAF",
+        "default": false
+      },
+      {
+        "value": "KEMEJA BATIK",
+        "default": false
+      },
+      {
+        "value": "KEMEJA DRIVER",
+        "default": false
+      },
+      {
+        "value": "KEMEJA LENGAN PANJ STAF",
+        "default": false
+      },
+      {
+        "value": "KEMEJA LENGAN PNDK STAF",
+        "default": false
+      },
+      {
+        "value": "KEMEJA NON-STAF",
+        "default": false
+      },
+      {
+        "value": "KEMEJA STAF",
+        "default": false
+      },
+      {
+        "value": "ROMPI SAFETY",
+        "default": false
+      },
+      {
+        "value": "SERAGAM NON-STAF",
+        "default": false
+      },
+      {
+        "value": "SERAGAM SECURITY LENGAN PANJ",
+        "default": false
+      },
+      {
+        "value": "SERAGAM SECURITY LENGAN PNDK",
+        "default": false
+      },
+      {
+        "value": "SERAGAM STAF",
+        "default": false
+      },
+      {
+        "value": "SERAGAM WEARPACK",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_TAS_DOMPET": [
+      {
+        "value": "DOMPET",
+        "default": false
+      },
+      {
+        "value": "DOMPET DAUR ULANG",
+        "default": false
+      },
+      {
+        "value": "DOMPET KARTU",
+        "default": false
+      },
+      {
+        "value": "DOMPET KOIN",
+        "default": false
+      },
+      {
+        "value": "DOMPET KOSMETIK",
+        "default": false
+      },
+      {
+        "value": "DOMPET PENSIL",
+        "default": false
+      },
+      {
+        "value": "DOMPET POPOK",
+        "default": false
+      },
+      {
+        "value": "DOMPET SERUT",
+        "default": false
+      },
+      {
+        "value": "KTG TEH",
+        "default": false
+      },
+      {
+        "value": "KTG ZIPPER",
+        "default": false
+      },
+      {
+        "value": "KERANJANG",
+        "default": false
+      },
+      {
+        "value": "KERANJANG BELANJA",
+        "default": false
+      },
+      {
+        "value": "KERANJANG LNDRY",
+        "default": false
+      },
+      {
+        "value": "KERANJANG PIKNIK",
+        "default": false
+      },
+      {
+        "value": "KOPER",
+        "default": false
+      },
+      {
+        "value": "KTG",
+        "default": false
+      },
+      {
+        "value": "KTG KRESEK",
+        "default": false
+      },
+      {
+        "value": "MULTIBAG",
+        "default": false
+      },
+      {
+        "value": "PAPER BAG",
+        "default": false
+      },
+      {
+        "value": "POUCH",
+        "default": false
+      },
+      {
+        "value": "SARUNG KOPER",
+        "default": false
+      },
+      {
+        "value": "TAG LUGGAGE",
+        "default": false
+      },
+      {
+        "value": "TAS",
+        "default": false
+      },
+      {
+        "value": "TAS DAUR ULANG",
+        "default": false
+      },
+      {
+        "value": "TAS HIJAB",
+        "default": false
+      },
+      {
+        "value": "TAS JELLY",
+        "default": false
+      },
+      {
+        "value": "TAS KOSMETIK",
+        "default": false
+      },
+      {
+        "value": "TAS LAPTOP",
+        "default": false
+      },
+      {
+        "value": "TAS LAUNDRY",
+        "default": false
+      },
+      {
+        "value": "TAS LIPAT",
+        "default": false
+      },
+      {
+        "value": "TAS MAKAN",
+        "default": false
+      },
+      {
+        "value": "TAS MUKENA",
+        "default": false
+      },
+      {
+        "value": "TAS PASAR",
+        "default": false
+      },
+      {
+        "value": "TAS PINGGANG",
+        "default": false
+      },
+      {
+        "value": "TAS PRINTER",
+        "default": false
+      },
+      {
+        "value": "TAS RANSEL",
+        "default": false
+      },
+      {
+        "value": "TAS SELEMPANG",
+        "default": false
+      },
+      {
+        "value": "TAS SERUT",
+        "default": false
+      },
+      {
+        "value": "TAS SILINDER",
+        "default": false
+      },
+      {
+        "value": "TAS SPORT",
+        "default": false
+      },
+      {
+        "value": "TAS SPUNBOND",
+        "default": false
+      },
+      {
+        "value": "TAS TOILETRIS",
+        "default": false
+      },
+      {
+        "value": "TAS TRAVEL",
+        "default": false
+      },
+      {
+        "value": "TOTE BAG",
+        "default": false
+      }
+    ],
+    "GENDER_PI": [
+      {
+        "value": "NOT SPEC.",
+        "default": false
+      },
+      {
+        "value": "PRIA",
+        "default": false
+      },
+      {
+        "value": "WANITA",
+        "default": false
+      },
+      {
+        "value": "UNISEX",
+        "default": false
+      }
+    ],
+    "COMPANY_SERAGAM_KARY": [
+      {
+        "value": "NOT SPEC.",
+        "default": false
+      },
+      {
+        "value": "PT.SMU",
+        "default": false
+      },
+      {
+        "value": "PT.PAS",
+        "default": false
+      },
+      {
+        "value": "PT.MIM",
+        "default": false
+      }
+    ],
+    "ITEM_SHAPE": [
+      {
+        "value": "PERSEGI",
+        "default": false
+      },
+      {
+        "value": "BULAT",
+        "default": false
+      }
+    ],
+    "MATERIAL_ACC_PAKAIAN": [
+      {
+        "value": "NOT SPEC.",
+        "default": false
+      },
+      {
+        "value": "BLUDRU",
+        "default": false
+      },
+      {
+        "value": "DENIM",
+        "default": false
+      },
+      {
+        "value": "DRILL",
+        "default": false
+      },
+      {
+        "value": "DRY FIT",
+        "default": false
+      },
+      {
+        "value": "HANDUK",
+        "default": false
+      },
+      {
+        "value": "KARET",
+        "default": false
+      },
+      {
+        "value": "KATUN",
+        "default": false
+      },
+      {
+        "value": "KERAMIK",
+        "default": false
+      },
+      {
+        "value": "MAJUN",
+        "default": false
+      },
+      {
+        "value": "NYLON",
+        "default": false
+      },
+      {
+        "value": "OXFORD",
+        "default": false
+      },
+      {
+        "value": "PLASTIK",
+        "default": false
+      },
+      {
+        "value": "PLASTIK PP",
+        "default": false
+      },
+      {
+        "value": "SCUBA",
+        "default": false
+      },
+      {
+        "value": "SINTETIS",
+        "default": false
+      },
+      {
+        "value": "TERRY CLOTH",
+        "default": false
+      }
+    ],
+    "MATERIAL_BANTAL_SELIMUT": [
+      {
+        "value": "NOT SPEC.",
+        "default": false
+      },
+      {
+        "value": "BAMBOO FIBER",
+        "default": false
+      },
+      {
+        "value": "BULU ANGSA",
+        "default": false
+      },
+      {
+        "value": "DAKRON",
+        "default": false
+      },
+      {
+        "value": "KATUN",
+        "default": false
+      },
+      {
+        "value": "MEMORY FOAM",
+        "default": false
+      },
+      {
+        "value": "WOL",
+        "default": false
+      },
+      {
+        "value": "YELVO",
+        "default": false
+      }
+    ],
+    "MATERIAL_BUKU_KERTAS": [
+      {
+        "value": "NOT SPEC.",
+        "default": false
+      },
+      {
+        "value": "VINYL",
+        "default": false
+      }
+    ],
+    "MATERIAL_HANDUK": [
+      {
+        "value": "NOT SPEC.",
+        "default": false
+      },
+      {
+        "value": "BAMBOO FIBER",
+        "default": false
+      },
+      {
+        "value": "KATUN",
+        "default": false
+      },
+      {
+        "value": "MICROFIBER",
+        "default": false
+      }
+    ],
+    "MATERIAL_MAINAN_BONEKA": [
+      {
+        "value": "NOT SPEC.",
+        "default": false
+      },
+      {
+        "value": "LATEX",
+        "default": false
+      },
+      {
+        "value": "PVC",
+        "default": false
+      },
+      {
+        "value": "YELVO",
+        "default": false
+      }
+    ],
+    "MATERIAL_PAKAIAN": [
+      {
+        "value": "NOT SPEC.",
+        "default": false
+      },
+      {
+        "value": "CVC20S",
+        "default": false
+      },
+      {
+        "value": "FLEECE",
+        "default": false
+      },
+      {
+        "value": "HYGET",
+        "default": false
+      },
+      {
+        "value": "KATUN",
+        "default": false
+      },
+      {
+        "value": "NYLON",
+        "default": false
+      },
+      {
+        "value": "PARASUT",
+        "default": false
+      },
+      {
+        "value": "POLO",
+        "default": false
+      },
+      {
+        "value": "SCUBA",
+        "default": false
+      },
+      {
+        "value": "SPANDEK",
+        "default": false
+      },
+      {
+        "value": "TC20S",
+        "default": false
+      }
+    ],
+    "MATERIAL_PERLKP_DAPUR": [
+      {
+        "value": "NOT SPEC.",
+        "default": false
+      },
+      {
+        "value": "ALUMINIUM",
+        "default": false
+      },
+      {
+        "value": "HANDUK",
+        "default": false
+      },
+      {
+        "value": "KACA",
+        "default": false
+      },
+      {
+        "value": "KAYU",
+        "default": false
+      },
+      {
+        "value": "KERAMIK",
+        "default": false
+      },
+      {
+        "value": "KRISTAL",
+        "default": false
+      },
+      {
+        "value": "MELAMIN",
+        "default": false
+      },
+      {
+        "value": "PARASUT",
+        "default": false
+      },
+      {
+        "value": "PLASTIK",
+        "default": false
+      },
+      {
+        "value": "PLASTIK PP",
+        "default": false
+      },
+      {
+        "value": "PVC",
+        "default": false
+      },
+      {
+        "value": "SILICONE",
+        "default": false
+      },
+      {
+        "value": "STAINLESS",
+        "default": false
+      },
+      {
+        "value": "STEROFOAM",
+        "default": false
+      },
+      {
+        "value": "TISSUE",
+        "default": false
+      },
+      {
+        "value": "VYNIL",
+        "default": false
+      },
+      {
+        "value": "WHEAT STRAW",
+        "default": false
+      }
+    ],
+    "MATERIAL_PERLKP_HUJAN": [
+      {
+        "value": "NOT SPEC.",
+        "default": false
+      },
+      {
+        "value": "NYLON",
+        "default": false
+      },
+      {
+        "value": "POLY",
+        "default": false
+      }
+    ],
+    "MATERIAL_PERLKP_OLHRAGA": [
+      {
+        "value": "NOT SPEC.",
+        "default": false
+      },
+      {
+        "value": "PLASTIK",
+        "default": false
+      },
+      {
+        "value": "RUBBER",
+        "default": false
+      }
+    ],
+    "MATERIAL_POSM": [
+      {
+        "value": "NOT SPEC.",
+        "default": false
+      },
+      {
+        "value": "AC230GR",
+        "default": false
+      },
+      {
+        "value": "ACRY",
+        "default": false
+      },
+      {
+        "value": "ALUMINIUM",
+        "default": false
+      },
+      {
+        "value": "BESI",
+        "default": false
+      },
+      {
+        "value": "CORVIS",
+        "default": false
+      },
+      {
+        "value": "DUPLEX",
+        "default": false
+      },
+      {
+        "value": "FIBER",
+        "default": false
+      },
+      {
+        "value": "HPL",
+        "default": false
+      },
+      {
+        "value": "IMPRA",
+        "default": false
+      },
+      {
+        "value": "KARET PVC",
+        "default": false
+      },
+      {
+        "value": "KAYU",
+        "default": false
+      },
+      {
+        "value": "LEATHER",
+        "default": false
+      },
+      {
+        "value": "MIKA",
+        "default": false
+      },
+      {
+        "value": "PLASTIK",
+        "default": false
+      },
+      {
+        "value": "PLASTIK PE",
+        "default": false
+      },
+      {
+        "value": "RESIN",
+        "default": false
+      },
+      {
+        "value": "STAINLESS",
+        "default": false
+      },
+      {
+        "value": "TISSUE",
+        "default": false
+      },
+      {
+        "value": "VYNIL",
+        "default": false
+      }
+    ],
+    "MATERIAL_SIGNAGE_LABEL": [
+      {
+        "value": "NOT SPEC.",
+        "default": false
+      },
+      {
+        "value": "ACRY",
+        "default": false
+      },
+      {
+        "value": "ALUMINIUM",
+        "default": false
+      },
+      {
+        "value": "CHROMO",
+        "default": false
+      },
+      {
+        "value": "SENG",
+        "default": false
+      },
+      {
+        "value": "VYNIL",
+        "default": false
+      }
+    ],
+    "MATERIAL_TAS_DOMPET": [
+      {
+        "value": "NOT SPEC.",
+        "default": false
+      },
+      {
+        "value": "BABY RIBS.",
+        "default": false
+      },
+      {
+        "value": "BLACU",
+        "default": false
+      },
+      {
+        "value": "CORDURA",
+        "default": false
+      },
+      {
+        "value": "DN300",
+        "default": false
+      },
+      {
+        "value": "DN420",
+        "default": false
+      },
+      {
+        "value": "DN600",
+        "default": false
+      },
+      {
+        "value": "KANVAS",
+        "default": false
+      },
+      {
+        "value": "METALLIZED OPP",
+        "default": false
+      },
+      {
+        "value": "MICROFIBER",
+        "default": false
+      },
+      {
+        "value": "MIKA",
+        "default": false
+      },
+      {
+        "value": "NONWOVEN",
+        "default": false
+      },
+      {
+        "value": "NYLON",
+        "default": false
+      },
+      {
+        "value": "PARASUT",
+        "default": false
+      },
+      {
+        "value": "PLASTIK",
+        "default": false
+      },
+      {
+        "value": "PLASTIK HD",
+        "default": false
+      },
+      {
+        "value": "PLASTIK OPP",
+        "default": false
+      },
+      {
+        "value": "PLASTIK PE",
+        "default": false
+      },
+      {
+        "value": "PLASTIK PP",
+        "default": false
+      },
+      {
+        "value": "PVC",
+        "default": false
+      },
+      {
+        "value": "TASLAN",
+        "default": false
+      }
+    ],
+    "SIZE_UNIT_DIMENSI": [
+      {
+        "value": "IN",
+        "default": false
+      },
+      {
+        "value": "CM",
+        "default": false
+      },
+      {
+        "value": "M",
+        "default": false
+      },
+      {
+        "value": "MM",
+        "default": false
+      }
+    ],
+    "SIZE_UNIT_LOGAM_MULIA": [
+      {
+        "value": "GR",
+        "default": false
+      },
+      {
+        "value": "KG",
+        "default": false
+      }
+    ],
+    "SIZE_UNIT_PAKAIAN": [
+      {
+        "value": "OS",
+        "default": false
+      },
+      {
+        "value": "XS",
+        "default": false
+      },
+      {
+        "value": "S",
+        "default": false
+      },
+      {
+        "value": "M",
+        "default": false
+      },
+      {
+        "value": "L",
+        "default": false
+      },
+      {
+        "value": "XL",
+        "default": false
+      },
+      {
+        "value": "2XL",
+        "default": false
+      },
+      {
+        "value": "3XL",
+        "default": false
+      },
+      {
+        "value": "4XL",
+        "default": false
+      },
+      {
+        "value": "5XL",
+        "default": false
+      },
+      {
+        "value": "6XL",
+        "default": false
+      },
+      {
+        "value": "8XL",
+        "default": false
+      }
+    ],
+    "SPEC_QTY_IN_ONE_BUNDLE": [
+      {
+        "value": "YES",
+        "default": false
+      },
+      {
+        "value": "NO",
+        "default": false
+      }
+    ],
+    "SPECIAL_ACTIVITY": [
+      {
+        "value": "NO",
+        "default": false
+      },
+      {
+        "value": "PGMS",
+        "default": false
+      },
+      {
+        "value": "WINGS ONLINE",
+        "default": false
+      }
+    ],
+    "USAGE_BRACKET": [
+      {
+        "value": "CCTV",
+        "default": false
+      },
+      {
+        "value": "PROJECTOR",
+        "default": false
+      }
+    ]
+  }
+}
