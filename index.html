@@ -1476,7 +1476,7 @@ body {
 const DATA_URL = './data/form_data.json';
 
 // NEW SUBMIT URL
-const SUBMIT_URL = 'https://script.google.com/macros/s/AKfycbx_aQAbwph1HtQP2JJ1uAwKvVicyDnKFd9Un8r3Eg_f65kR2D64W7qTKHiPMciISt9M/exec';
+const SUBMIT_URL = 'https://script.google.com/macros/s/AKfycbzSWVHSQESlbCONYL8ZUNESu5mVGiMLGV97DkILt-psYBznZ0b1sAldelre0LRWSDs9/exec';
 
 // Company to Server Mapping
 const COMPANY_SERVER_MAP = {
@@ -2096,7 +2096,7 @@ async function submitForm() {
     company_use_for: company,
     mat_desc_to_be: matDesc,
     // Include all char values as flat keys
-    ...charData
+    .charData
   };
   
   try {
@@ -2104,7 +2104,6 @@ async function submitForm() {
     
     await fetch(SUBMIT_URL, {
       method: 'POST',
-      mode: 'no-cors',
       headers: { 'Content-Type': 'text/plain;charset=utf-8' },
       body: JSON.stringify(payload)
     });
