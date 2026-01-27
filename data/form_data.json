@@ -15792,6 +15792,2106 @@
       }
     ]
   },
+  "class_meta": {
+    "ZPI1_ACC_PAKAIAN": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "JEPIT RAMBUT",
+        "ZPI1_ACC_PAKAIAN9"
+      ]
+    },
+    "ZPI1_BANTL_SELIMUT": {
+      "description": "6",
+      "keywords": [
+        "EN - ENGLISH",
+        "SELIMUT",
+        "ZPI1_BANTL_SELIMUT6"
+      ]
+    },
+    "ZPI1_BUKU_KERTAS": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "KERTAS SLEEVE",
+        "ZPI1_BUKU_KERTAS9"
+      ]
+    },
+    "ZPI1_HANDUK": {
+      "description": "4",
+      "keywords": [
+        "EN - ENGLISH",
+        "TOWEL",
+        "ZPI1_HANDUK4"
+      ]
+    },
+    "ZPI1_JAM": {
+      "description": "6",
+      "keywords": [
+        "EN - ENGLISH",
+        "WATCH",
+        "ZPI1_JAM6"
+      ]
+    },
+    "ZPI1_LOGAM_MULIA": {
+      "description": "4",
+      "keywords": [
+        "EN - ENGLISH",
+        "LOGAM MULIA",
+        "ZPI1_LOGAM_MULIA4"
+      ]
+    },
+    "ZPI1_MAINAN_BONEKA": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "NINTENDO",
+        "ZPI1_MAINAN_BONEKA9"
+      ]
+    },
+    "ZPI1_PAKAIAN": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "KAOS",
+        "ZPI1_PAKAIAN9"
+      ]
+    },
+    "ZPI1_PERLKP_DAPUR": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "KOTAK MAKAN",
+        "ZPI1_PERLKP_DAPUR9"
+      ]
+    },
+    "ZPI1_PERLKP_HUJAN": {
+      "description": "4",
+      "keywords": [
+        "EN - ENGLISH",
+        "PAYUNG LIPAT",
+        "ZPI1_PERLKP_HUJAN4"
+      ]
+    },
+    "ZPI1_PERLKP_OLHRGA": {
+      "description": "6",
+      "keywords": [
+        "EN - ENGLISH",
+        "YOGA MAT",
+        "ZPI1_PERLKP_OLHRGA6"
+      ]
+    },
+    "ZPI1_POSM_DISPLAY": {
+      "description": "9",
+      "keywords": [
+        "BOX",
+        "EN - ENGLISH",
+        "ZPI1_POSM_DISPLAY9"
+      ]
+    },
+    "ZPI1_POSM_MECHNDSE": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "EVENT DESK HEADER",
+        "ZPI1_POSM_MECHNDSE9"
+      ]
+    },
+    "ZPI1_SERAGAM_KARY": {
+      "description": "40",
+      "keywords": [
+        "EN - ENGLISH",
+        "SALES",
+        "ZPI1_SERAGAM_KARY40"
+      ]
+    },
+    "ZPI1_SIGNAGE_LABEL": {
+      "description": "6",
+      "keywords": [
+        "EN - ENGLISH",
+        "TOM&JERRY",
+        "ZPI1_SIGNAGE_LABEL6"
+      ]
+    },
+    "ZPI1_TAS_DOMPET": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "KERANJANG PIKNIK",
+        "ZPI1_TAS_DOMPET9"
+      ]
+    },
+    "ZSI1_ACTUATOR": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "PNEUMATIC ACTUATOR",
+        "ZSI1_ACTUATOR9"
+      ]
+    },
+    "ZSI1_ADHESIVE_LEM": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "LEM PVC",
+        "ZSI1_ADHESIVE_LEM9"
+      ]
+    },
+    "ZSI1_ADHESIVE_TAPE": {
+      "description": "9",
+      "keywords": [
+        "DOUBLE TAPE",
+        "EN - ENGLISH",
+        "ZSI1_ADHESIVE_TAPE9"
+      ]
+    },
+    "ZSI1_AIR_CONDITION": {
+      "description": "4",
+      "keywords": [
+        "AC SPLIT",
+        "EN - ENGLISH",
+        "ZSI1_AIR_CONDITION4"
+      ]
+    },
+    "ZSI1_AIR_COOLANT": {
+      "description": "7",
+      "keywords": [
+        "EN - ENGLISH",
+        "OIL COOLANT",
+        "ZSI1_AIR_COOLANT7"
+      ]
+    },
+    "ZSI1_AIR_PURIF": {
+      "description": "3",
+      "keywords": [
+        "EN - ENGLISH",
+        "OZONE GENERATOR",
+        "ZSI1_AIR_PURIF3"
+      ]
+    },
+    "ZSI1_AMPLAS": {
+      "description": "9",
+      "keywords": [
+        "AMPLAS BOTOL",
+        "EN - ENGLISH",
+        "ZSI1_AMPLAS9"
+      ]
+    },
+    "ZSI1_ANCHOR": {
+      "description": "6",
+      "keywords": [
+        "ANCHOR GYPSUM",
+        "EN - ENGLISH",
+        "ZSI1_ANCHOR6"
+      ]
+    },
+    "ZSI1_ANGLE_BAR": {
+      "description": "3",
+      "keywords": [
+        "BESI SIKU",
+        "EN - ENGLISH",
+        "ZSI1_ANGLE_BAR3"
+      ]
+    },
+    "ZSI1_ANTI_KARAT": {
+      "description": "2",
+      "keywords": [
+        "CHAIN LUBE",
+        "EN - ENGLISH",
+        "ZSI1_ANTI_KARAT2"
+      ]
+    },
+    "ZSI1_BATTERY_ACCU": {
+      "description": "9",
+      "keywords": [
+        "ACU",
+        "EN - ENGLISH",
+        "ZSI1_BATTERY_ACCU9"
+      ]
+    },
+    "ZSI1_BEARING": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "ROLLER BEARING",
+        "ZSI1_BEARING9"
+      ]
+    },
+    "ZSI1_BLIND_CURTAIN": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "TIRAI LIPAT",
+        "ZSI1_BLIND_CURTAIN9"
+      ]
+    },
+    "ZSI1_BLOCKS": {
+      "description": "2",
+      "keywords": [
+        "EN - ENGLISH",
+        "PRECAST BLOCK",
+        "ZSI1_BLOCKS2"
+      ]
+    },
+    "ZSI1_BOILERS": {
+      "description": "5",
+      "keywords": [
+        "CHEMICAL BOILER",
+        "EN - ENGLISH",
+        "ZSI1_BOILERS5"
+      ]
+    },
+    "ZSI1_BOLT": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "SOC BOLT",
+        "ZSI1_BOLT9"
+      ]
+    },
+    "ZSI1_BRACKET_TRPD": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "STAND HOLDER",
+        "ZSI1_BRACKET_TRPD9"
+      ]
+    },
+    "ZSI1_BRAKE_COMP": {
+      "description": "5",
+      "keywords": [
+        "BRAKE ASSEMBLY",
+        "EN - ENGLISH",
+        "ZSI1_BRAKE_COMP5"
+      ]
+    },
+    "ZSI1_BRICKS": {
+      "description": "8",
+      "keywords": [
+        "BATA COR DOSING",
+        "EN - ENGLISH",
+        "ZSI1_BRICKS8"
+      ]
+    },
+    "ZSI1_BUILDING": {
+      "description": "3",
+      "keywords": [
+        "EN - ENGLISH",
+        "POS SECURITY",
+        "ZSI1_BUILDING3"
+      ]
+    },
+    "ZSI1_BUSHING": {
+      "description": "9",
+      "keywords": [
+        "BUSH INSUL",
+        "EN - ENGLISH",
+        "ZSI1_BUSHING9"
+      ]
+    },
+    "ZSI1_C_CHANNEL": {
+      "description": "4",
+      "keywords": [
+        "CNP",
+        "EN - ENGLISH",
+        "ZSI1_C_CHANNEL4"
+      ]
+    },
+    "ZSI1_CABLE_DUCT": {
+      "description": "5",
+      "keywords": [
+        "EN - ENGLISH",
+        "WIRING DUCT",
+        "ZSI1_CABLE_DUCT5"
+      ]
+    },
+    "ZSI1_CABLE_TRAY": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "JOINT TRAY",
+        "ZSI1_CABLE_TRAY9"
+      ]
+    },
+    "ZSI1_CAPACITOR": {
+      "description": "3",
+      "keywords": [
+        "CAPASITOR BANK",
+        "EN - ENGLISH",
+        "ZSI1_CAPACITOR3"
+      ]
+    },
+    "ZSI1_CCT_PROTECT": {
+      "description": "9",
+      "keywords": [
+        "AUXILIARY",
+        "EN - ENGLISH",
+        "ZSI1_CCT_PROTECT9"
+      ]
+    },
+    "ZSI1_CHAIN_BLOCK": {
+      "description": "2",
+      "keywords": [
+        "EN - ENGLISH",
+        "TACKLE",
+        "ZSI1_CHAIN_BLOCK2"
+      ]
+    },
+    "ZSI1_CHEMICAL_GAS": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "GAS KIMIA",
+        "ZSI1_CHEMICAL_GAS9"
+      ]
+    },
+    "ZSI1_CIRC_VENT": {
+      "description": "9",
+      "keywords": [
+        "AXL FAN",
+        "EN - ENGLISH",
+        "ZSI1_CIRC_VENT9"
+      ]
+    },
+    "ZSI1_CLAMPS": {
+      "description": "9",
+      "keywords": [
+        "CLAMP TK SCTN CUP",
+        "EN - ENGLISH",
+        "ZSI1_CLAMPS9"
+      ]
+    },
+    "ZSI1_CLEANING_EQP": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "HIGH PRS WSHR",
+        "ZSI1_CLEANING_EQP9"
+      ]
+    },
+    "ZSI1_CLEANING_SUPP": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "KANEBO",
+        "ZSI1_CLEANING_SUPP9"
+      ]
+    },
+    "ZSI1_CLUTCH": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "INTERNAL SOLENOID CLUTCH",
+        "ZSI1_CLUTCH9"
+      ]
+    },
+    "ZSI1_COM_RAM_VCARD": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "SOUND CARD",
+        "ZSI1_COM_RAM_VCARD9"
+      ]
+    },
+    "ZSI1_COM_TAB_ACCS": {
+      "description": "6",
+      "keywords": [
+        "EN - ENGLISH",
+        "SCREEN PROTECTOR",
+        "ZSI1_COM_TAB_ACCS6"
+      ]
+    },
+    "ZSI1_COMM_ACCS": {
+      "description": "6",
+      "keywords": [
+        "EN - ENGLISH",
+        "PENGENGGAM HP",
+        "ZSI1_COMM_ACCS6"
+      ]
+    },
+    "ZSI1_COMM_DEVICE": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "REDMI",
+        "ZSI1_COMM_DEVICE9"
+      ]
+    },
+    "ZSI1_COMP_HARDDISK": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "FLASH DISK",
+        "ZSI1_COMP_HARDDISK9"
+      ]
+    },
+    "ZSI1_COMP_MIX_SOLV": {
+      "description": "9",
+      "keywords": [
+        "BASE",
+        "EN - ENGLISH",
+        "ZSI1_COMP_MIX_SOLV9"
+      ]
+    },
+    "ZSI1_COMPRESSOR": {
+      "description": "9",
+      "keywords": [
+        "COMPRESS AC SPLT",
+        "EN - ENGLISH",
+        "ZSI1_COMPRESSOR9"
+      ]
+    },
+    "ZSI1_COMPUTER_EQP": {
+      "description": "9",
+      "keywords": [
+        "COMPUTER SPEAKER",
+        "EN - ENGLISH",
+        "ZSI1_COMPUTER_EQP9"
+      ]
+    },
+    "ZSI1_COMPUTER": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "SET KOMPUTER",
+        "ZSI1_COMPUTER9"
+      ]
+    },
+    "ZSI1_CONCR_REINFOR": {
+      "description": "8",
+      "keywords": [
+        "EN - ENGLISH",
+        "WIRE MESH SPIRAL",
+        "ZSI1_CONCR_REINFOR8"
+      ]
+    },
+    "ZSI1_CONCRT_CEMENT": {
+      "description": "9",
+      "keywords": [
+        "COMPOUND",
+        "EN - ENGLISH",
+        "ZSI1_CONCRT_CEMENT9"
+      ]
+    },
+    "ZSI1_CONDUIT_FIT": {
+      "description": "9",
+      "keywords": [
+        "COUPLING CONDUIT",
+        "EN - ENGLISH",
+        "ZSI1_CONDUIT_FIT9"
+      ]
+    },
+    "ZSI1_CONSTRCT_COIL": {
+      "description": "7",
+      "keywords": [
+        "COIL",
+        "EN - ENGLISH",
+        "ZSI1_CONSTRCT_COIL7"
+      ]
+    },
+    "ZSI1_CONSTRUCT_ROD": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "REBAR DRAT",
+        "ZSI1_CONSTRUCT_ROD9"
+      ]
+    },
+    "ZSI1_CONVEYOR_BELT": {
+      "description": "9",
+      "keywords": [
+        "CONV MDLR FLAT TOP",
+        "EN - ENGLISH",
+        "ZSI1_CONVEYOR_BELT9"
+      ]
+    },
+    "ZSI1_CONVEYOR_ROLL": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "RTRN ROLLER",
+        "ZSI1_CONVEYOR_ROLL9"
+      ]
+    },
+    "ZSI1_COOLING_EQUIP": {
+      "description": "1",
+      "keywords": [
+        "AIR CONDITIONER",
+        "EN - ENGLISH",
+        "ZSI1_COOLING_EQUIP1"
+      ]
+    },
+    "ZSI1_COUPLING": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "RBR COUPLING BINTANG",
+        "ZSI1_COUPLING9"
+      ]
+    },
+    "ZSI1_DECORATIVES": {
+      "description": "1",
+      "keywords": [
+        "DEKOR",
+        "EN - ENGLISH",
+        "ZSI1_DECORATIVES1"
+      ]
+    },
+    "ZSI1_DIAMOND_DRSSR": {
+      "description": "1",
+      "keywords": [
+        "DIAMOND DRESSER",
+        "EN - ENGLISH",
+        "ZSI1_DIAMOND_DRSSR1"
+      ]
+    },
+    "ZSI1_DIODE": {
+      "description": "6",
+      "keywords": [
+        "DIODE PRESS FIT (+)",
+        "EN - ENGLISH",
+        "ZSI1_DIODE6"
+      ]
+    },
+    "ZSI1_DISCRETE_COMP": {
+      "description": "7",
+      "keywords": [
+        "EN - ENGLISH",
+        "MOTOR BRAKE RECTIFIER",
+        "ZSI1_DISCRETE_COMP7"
+      ]
+    },
+    "ZSI1_DISTILLED_WTR": {
+      "description": "3",
+      "keywords": [
+        "AQUABIDES",
+        "EN - ENGLISH",
+        "ZSI1_DISTILLED_WTR3"
+      ]
+    },
+    "ZSI1_DOOR_ACCS": {
+      "description": "5",
+      "keywords": [
+        "DOOR LATCH",
+        "EN - ENGLISH",
+        "ZSI1_DOOR_ACCS5"
+      ]
+    },
+    "ZSI1_DOOR_WINDOW": {
+      "description": "7",
+      "keywords": [
+        "AUTO ROLLING DOOR",
+        "EN - ENGLISH",
+        "ZSI1_DOOR_WINDOW7"
+      ]
+    },
+    "ZSI1_DRIVE_COMP": {
+      "description": "9",
+      "keywords": [
+        "CONV MDLR GRIP TOP",
+        "EN - ENGLISH",
+        "ZSI1_DRIVE_COMP9"
+      ]
+    },
+    "ZSI1_DRUM_EQP": {
+      "description": "8",
+      "keywords": [
+        "ELVTD DRUM POUR",
+        "EN - ENGLISH",
+        "ZSI1_DRUM_EQP8"
+      ]
+    },
+    "ZSI1_E_MONEY_CARD": {
+      "description": "1",
+      "keywords": [
+        "E MONEY",
+        "EN - ENGLISH",
+        "ZSI1_E_MONEY_CARD1"
+      ]
+    },
+    "ZSI1_ELEC_BOX": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "JUNCTION BOX",
+        "ZSI1_ELEC_BOX9"
+      ]
+    },
+    "ZSI1_ELEC_CABLE": {
+      "description": "9",
+      "keywords": [
+        "CABLE LAMP SOCK",
+        "EN - ENGLISH",
+        "ZSI1_ELEC_CABLE9"
+      ]
+    },
+    "ZSI1_ELEC_CONDUIT": {
+      "description": "8",
+      "keywords": [
+        "ELECTRICAL CONDUIT PIPE",
+        "EN - ENGLISH",
+        "ZSI1_ELEC_CONDUIT8"
+      ]
+    },
+    "ZSI1_ELEC_CONN": {
+      "description": "9",
+      "keywords": [
+        "CAP WIRE CONNECT",
+        "EN - ENGLISH",
+        "ZSI1_ELEC_CONN9"
+      ]
+    },
+    "ZSI1_ELEC_CONTROL": {
+      "description": "112",
+      "keywords": [
+        "EN - ENGLISH",
+        "VARIABLE SPEED REDUCER",
+        "ZSI1_ELEC_CONTROL112"
+      ]
+    },
+    "ZSI1_ELEC_DIST_CC": {
+      "description": "6",
+      "keywords": [
+        "COMB BUSBAR",
+        "EN - ENGLISH",
+        "ZSI1_ELEC_DIST_CC6"
+      ]
+    },
+    "ZSI1_ELEC_HARDWARE": {
+      "description": "9",
+      "keywords": [
+        "ELEC ISOLATOR",
+        "EN - ENGLISH",
+        "ZSI1_ELEC_HARDWARE9"
+      ]
+    },
+    "ZSI1_ELEC_LUG": {
+      "description": "4",
+      "keywords": [
+        "EN - ENGLISH",
+        "END CAP",
+        "ZSI1_ELEC_LUG4"
+      ]
+    },
+    "ZSI1_ELEC_RELAY": {
+      "description": "9",
+      "keywords": [
+        "CNTRL RELAY",
+        "EN - ENGLISH",
+        "ZSI1_ELEC_RELAY9"
+      ]
+    },
+    "ZSI1_ELEC_SWITCH": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "FLOW SWITCH",
+        "ZSI1_ELEC_SWITCH9"
+      ]
+    },
+    "ZSI1_ELEC_WIRE": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "KAWAT TEMBAGA",
+        "ZSI1_ELEC_WIRE1"
+      ]
+    },
+    "ZSI1_ELECTROD_HOLD": {
+      "description": "2",
+      "keywords": [
+        "ELECTRODE HOLD",
+        "EN - ENGLISH",
+        "ZSI1_ELECTROD_HOLD2"
+      ]
+    },
+    "ZSI1_ELECTRONICS": {
+      "description": "9",
+      "keywords": [
+        "AMPLIFIER SIGNAL CARD",
+        "EN - ENGLISH",
+        "ZSI1_ELECTRONICS9"
+      ]
+    },
+    "ZSI1_END_MILL": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "END MILL",
+        "ZSI1_END_MILL1"
+      ]
+    },
+    "ZSI1_FABRICAT_ITEM": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "FABRIKASI",
+        "ZSI1_FABRICAT_ITEM1"
+      ]
+    },
+    "ZSI1_FILTER": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "HEPA FILTER",
+        "ZSI1_FILTER9"
+      ]
+    },
+    "ZSI1_FIRE_PROTECT": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "SMOKE DETECTOR",
+        "ZSI1_FIRE_PROTECT9"
+      ]
+    },
+    "ZSI1_FIRE_EXTINGSH": {
+      "description": "5",
+      "keywords": [
+        "EN - ENGLISH",
+        "PEMADAM THERMATIC",
+        "ZSI1_FIRE_EXTINGSH5"
+      ]
+    },
+    "ZSI1_FLEX_JOINT": {
+      "description": "4",
+      "keywords": [
+        "EN - ENGLISH",
+        "FLEXIBLE RUBBER JOINT",
+        "ZSI1_FLEX_JOINT4"
+      ]
+    },
+    "ZSI1_FLEXIBLE_CON": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "FLEXIBLE CONNECTOR",
+        "ZSI1_FLEXIBLE_CON1"
+      ]
+    },
+    "ZSI1_FLEXIBLE_HOSE": {
+      "description": "7",
+      "keywords": [
+        "EN - ENGLISH",
+        "FLEXIBLE HOSE+WATERMUR",
+        "ZSI1_FLEXIBLE_HOSE7"
+      ]
+    },
+    "ZSI1_FOOD_BEV": {
+      "description": "3",
+      "keywords": [
+        "EN - ENGLISH",
+        "SUSU MURNI",
+        "ZSI1_FOOD_BEV3"
+      ]
+    },
+    "ZSI1_FOOD_CUT_MC": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "MESIN POTONG MAKANAN",
+        "ZSI1_FOOD_CUT_MC1"
+      ]
+    },
+    "ZSI1_FOOD_PREP_MC": {
+      "description": "9",
+      "keywords": [
+        "CRUSHER MACHINE",
+        "EN - ENGLISH",
+        "ZSI1_FOOD_PREP_MC9"
+      ]
+    },
+    "ZSI1_FORMS": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "FORMS",
+        "ZSI1_FORMS1"
+      ]
+    },
+    "ZSI1_FUELS": {
+      "description": "4",
+      "keywords": [
+        "BENSIN",
+        "EN - ENGLISH",
+        "ZSI1_FUELS4"
+      ]
+    },
+    "ZSI1_FURNITURE": {
+      "description": "9",
+      "keywords": [
+        "CREDENZA",
+        "EN - ENGLISH",
+        "ZSI1_FURNITURE9"
+      ]
+    },
+    "ZSI1_GASKET_SHEET": {
+      "description": "8",
+      "keywords": [
+        "EN - ENGLISH",
+        "PACKING OIL SHEET",
+        "ZSI1_GASKET_SHEET8"
+      ]
+    },
+    "ZSI1_GASKET_SP_WND": {
+      "description": "3",
+      "keywords": [
+        "EN - ENGLISH",
+        "SPIRAL WOUND GASKET",
+        "ZSI1_GASKET_SP_WND3"
+      ]
+    },
+    "ZSI1_GASKET": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "GASKET FLG",
+        "ZSI1_GASKET9"
+      ]
+    },
+    "ZSI1_GEAR": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "GEAR III",
+        "ZSI1_GEAR9"
+      ]
+    },
+    "ZSI1_GENERAL": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "GENERAL",
+        "ZSI1_GENERAL1"
+      ]
+    },
+    "ZSI1_GREASE": {
+      "description": "5",
+      "keywords": [
+        "EN - ENGLISH",
+        "GREASE HOT MELT PURGE",
+        "ZSI1_GREASE5"
+      ]
+    },
+    "ZSI1_GRIND_WHEEL": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "GRIND WHL ROTOR",
+        "ZSI1_GRIND_WHEEL9"
+      ]
+    },
+    "ZSI1_GYPSUM_BOARD": {
+      "description": "4",
+      "keywords": [
+        "EN - ENGLISH",
+        "GYPSUM UNTAPED",
+        "ZSI1_GYPSUM_BOARD4"
+      ]
+    },
+    "ZSI1_H_BEAM": {
+      "description": "2",
+      "keywords": [
+        "EN - ENGLISH",
+        "WF",
+        "ZSI1_H_BEAM2"
+      ]
+    },
+    "ZSI1_HAND_TOOL": {
+      "description": "89",
+      "keywords": [
+        "EN - ENGLISH",
+        "OBENG",
+        "ZSI1_HAND_TOOL89"
+      ]
+    },
+    "ZSI1_HEATING_EQP": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "HEATER",
+        "ZSI1_HEATING_EQP9"
+      ]
+    },
+    "ZSI1_HEAVY_EQP": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "HEAVY EQUIPMENT",
+        "ZSI1_HEAVY_EQP1"
+      ]
+    },
+    "ZSI1_HOLLOW_STRCT": {
+      "description": "4",
+      "keywords": [
+        "EN - ENGLISH",
+        "HOLLOW SECTION",
+        "ZSI1_HOLLOW_STRCT4"
+      ]
+    },
+    "ZSI1_HOSE_FITTING": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "NZL HOLD",
+        "ZSI1_HOSE_FITTING9"
+      ]
+    },
+    "ZSI1_HYD_CYLINDER": {
+      "description": "2",
+      "keywords": [
+        "EN - ENGLISH",
+        "HYD CYL",
+        "ZSI1_HYD_CYLINDER2"
+      ]
+    },
+    "ZSI1_HYD_FITTING": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "HYDRAULIC FITTING",
+        "ZSI1_HYD_FITTING9"
+      ]
+    },
+    "ZSI1_HYD_HOSE": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "PRESSURE TEST HOSE",
+        "ZSI1_HYD_HOSE9"
+      ]
+    },
+    "ZSI1_HYD_TOOLS": {
+      "description": "4",
+      "keywords": [
+        "EN - ENGLISH",
+        "HYDRAULIC MOTOR",
+        "ZSI1_HYD_TOOLS4"
+      ]
+    },
+    "ZSI1_ICT_CABLE": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "RJ45",
+        "ZSI1_ICT_CABLE9"
+      ]
+    },
+    "ZSI1_INSULATE_MAT": {
+      "description": "4",
+      "keywords": [
+        "BUBBLE FOIL",
+        "EN - ENGLISH",
+        "ZSI1_INSULATE_MAT4"
+      ]
+    },
+    "ZSI1_INSULATE_PIPE": {
+      "description": "2",
+      "keywords": [
+        "EN - ENGLISH",
+        "INSULATION PIPE",
+        "ZSI1_INSULATE_PIPE2"
+      ]
+    },
+    "ZSI1_INT_LAMINATE": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "HPL",
+        "ZSI1_INT_LAMINATE1"
+      ]
+    },
+    "ZSI1_INVERTER": {
+      "description": "8",
+      "keywords": [
+        "EN - ENGLISH",
+        "FREQUENCY INVERTER",
+        "ZSI1_INVERTER8"
+      ]
+    },
+    "ZSI1_JUMPER_BAR": {
+      "description": "3",
+      "keywords": [
+        "EN - ENGLISH",
+        "PLUG IN BRIDGE",
+        "ZSI1_JUMPER_BAR3"
+      ]
+    },
+    "ZSI1_KAIN_COVER": {
+      "description": "5",
+      "keywords": [
+        "EN - ENGLISH",
+        "KAIN SILO HOPPER",
+        "ZSI1_KAIN_COVER5"
+      ]
+    },
+    "ZSI1_KARPET": {
+      "description": "5",
+      "keywords": [
+        "EN - ENGLISH",
+        "KARPET TILE",
+        "ZSI1_KARPET5"
+      ]
+    },
+    "ZSI1_KARTU": {
+      "description": "4",
+      "keywords": [
+        "EN - ENGLISH",
+        "KANTONG MIKA ID CARD",
+        "ZSI1_KARTU4"
+      ]
+    },
+    "ZSI1_KITCHEN_APPLN": {
+      "description": "8",
+      "keywords": [
+        "EN - ENGLISH",
+        "KEPALA KOMPOR",
+        "ZSI1_KITCHEN_APPLN8"
+      ]
+    },
+    "ZSI1_KUSEN": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "KUSEN",
+        "ZSI1_KUSEN1"
+      ]
+    },
+    "ZSI1_LAB_CULTURE": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "KULTUR SEL",
+        "ZSI1_LAB_CULTURE1"
+      ]
+    },
+    "ZSI1_LAB_EQUIPMENT": {
+      "description": "5",
+      "keywords": [
+        "BIOSAFETY CABINET",
+        "EN - ENGLISH",
+        "ZSI1_LAB_EQUIPMENT5"
+      ]
+    },
+    "ZSI1_LAB_MEDIA": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "VRB AGAR",
+        "ZSI1_LAB_MEDIA9"
+      ]
+    },
+    "ZSI1_LAB_SUPPLY": {
+      "description": "9",
+      "keywords": [
+        "BTL SEMPROT PLS",
+        "EN - ENGLISH",
+        "ZSI1_LAB_SUPPLY9"
+      ]
+    },
+    "ZSI1_LADDER": {
+      "description": "7",
+      "keywords": [
+        "EN - ENGLISH",
+        "SCAFFOLDING JACK BASE",
+        "ZSI1_LADDER7"
+      ]
+    },
+    "ZSI1_LAMP_COMP": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "TRIPOD LAMP STAND",
+        "ZSI1_LAMP_COMP9"
+      ]
+    },
+    "ZSI1_LAMP": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "LED LAMP HALOGEN",
+        "ZSI1_LAMP9"
+      ]
+    },
+    "ZSI1_LAUNDRY_EQP": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "MESIN CUCI",
+        "ZSI1_LAUNDRY_EQP1"
+      ]
+    },
+    "ZSI1_LAUNDRY_SUPP": {
+      "description": "1",
+      "keywords": [
+        "DETERJEN",
+        "EN - ENGLISH",
+        "ZSI1_LAUNDRY_SUPP1"
+      ]
+    },
+    "ZSI1_LIFTING_EQP": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "LIMIT BLOCK HPP",
+        "ZSI1_LIFTING_EQP9"
+      ]
+    },
+    "ZSI1_LIGHT_UNIT": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "LIGHT SHD",
+        "ZSI1_LIGHT_UNIT9"
+      ]
+    },
+    "ZSI1_LIME": {
+      "description": "2",
+      "keywords": [
+        "EN - ENGLISH",
+        "MORTAR",
+        "ZSI1_LIME2"
+      ]
+    },
+    "ZSI1_LOCK_KEY": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "KUNCI LOKER",
+        "ZSI1_LOCK_KEY9"
+      ]
+    },
+    "ZSI1_LOCK_NUT": {
+      "description": "2",
+      "keywords": [
+        "BOWL LOCK NUT",
+        "EN - ENGLISH",
+        "ZSI1_LOCK_NUT2"
+      ]
+    },
+    "ZSI1_LUB_OIL": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "VCM PUMP OIL",
+        "ZSI1_LUB_OIL9"
+      ]
+    },
+    "ZSI1_MANUAL_BOOK": {
+      "description": "1",
+      "keywords": [
+        "BUKU MANUAL",
+        "EN - ENGLISH",
+        "ZSI1_MANUAL_BOOK1"
+      ]
+    },
+    "ZSI1_MATL_HANDLING": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "MATERIAL HANDLING TRANSPORT",
+        "ZSI1_MATL_HANDLING1"
+      ]
+    },
+    "ZSI1_MC_COMPONENT": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "PLAT SHIM",
+        "ZSI1_MC_COMPONENT9"
+      ]
+    },
+    "ZSI1_MDF_BOARD": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "MDF BOARD",
+        "ZSI1_MDF_BOARD1"
+      ]
+    },
+    "ZSI1_MEASURE_INST": {
+      "description": "97",
+      "keywords": [
+        "EN - ENGLISH",
+        "PH METER",
+        "ZSI1_MEASURE_INST97"
+      ]
+    },
+    "ZSI1_MECH_SEAL": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "SEAL",
+        "ZSI1_MECH_SEAL1"
+      ]
+    },
+    "ZSI1_MED_SUPPLIES": {
+      "description": "9",
+      "keywords": [
+        "CETIRIZINE",
+        "EN - ENGLISH",
+        "ZSI1_MED_SUPPLIES9"
+      ]
+    },
+    "ZSI1_MEDICAL_EQUIP": {
+      "description": "9",
+      "keywords": [
+        "AMBU BAG",
+        "EN - ENGLISH",
+        "ZSI1_MEDICAL_EQUIP9"
+      ]
+    },
+    "ZSI1_MISC_CONTAIN": {
+      "description": "9",
+      "keywords": [
+        "BOX CTRL PANEL",
+        "EN - ENGLISH",
+        "ZSI1_MISC_CONTAIN9"
+      ]
+    },
+    "ZSI1_MISC_HARDWARE": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "ENGSEL SNDK",
+        "ZSI1_MISC_HARDWARE9"
+      ]
+    },
+    "ZSI1_MIX_EQP": {
+      "description": "1",
+      "keywords": [
+        "AGITATOR",
+        "EN - ENGLISH",
+        "ZSI1_MIX_EQP1"
+      ]
+    },
+    "ZSI1_MOLDING": {
+      "description": "6",
+      "keywords": [
+        "CORE DRIER",
+        "EN - ENGLISH",
+        "ZSI1_MOLDING6"
+      ]
+    },
+    "ZSI1_MOTOR": {
+      "description": "9",
+      "keywords": [
+        "AC MTR",
+        "EN - ENGLISH",
+        "ZSI1_MOTOR9"
+      ]
+    },
+    "ZSI1_MTR_GEN_COMP": {
+      "description": "3",
+      "keywords": [
+        "EN - ENGLISH",
+        "MICROSTEP DRIVER",
+        "ZSI1_MTR_GEN_COMP3"
+      ]
+    },
+    "ZSI1_NAILS": {
+      "description": "5",
+      "keywords": [
+        "EN - ENGLISH",
+        "PAKU RIVET",
+        "ZSI1_NAILS5"
+      ]
+    },
+    "ZSI1_NETWORK_EQP": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "ETHERNET",
+        "ZSI1_NETWORK_EQP9"
+      ]
+    },
+    "ZSI1_NIPPLE_GREASE": {
+      "description": "2",
+      "keywords": [
+        "EN - ENGLISH",
+        "NPL GREASE",
+        "ZSI1_NIPPLE_GREASE2"
+      ]
+    },
+    "ZSI1_NON_ELEC_WIRE": {
+      "description": "4",
+      "keywords": [
+        "EN - ENGLISH",
+        "KAWAT DURI",
+        "ZSI1_NON_ELEC_WIRE4"
+      ]
+    },
+    "ZSI1_NUT": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "FLG U NUT",
+        "ZSI1_NUT9"
+      ]
+    },
+    "ZSI1_O_RING": {
+      "description": "2",
+      "keywords": [
+        "EN - ENGLISH",
+        "O RING",
+        "ZSI1_O_RING2"
+      ]
+    },
+    "ZSI1_OEM_PART": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "PART ASLI",
+        "ZSI1_OEM_PART9"
+      ]
+    },
+    "ZSI1_OFFICE_EQUIP": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "PAPER SHREDER",
+        "ZSI1_OFFICE_EQUIP9"
+      ]
+    },
+    "ZSI1_OFFICE_SUPP": {
+      "description": "9",
+      "keywords": [
+        "BLOCK NOTE MINI",
+        "EN - ENGLISH",
+        "ZSI1_OFFICE_SUPP9"
+      ]
+    },
+    "ZSI1_OTHER_PIPE": {
+      "description": "3",
+      "keywords": [
+        "EN - ENGLISH",
+        "PIPA KACA",
+        "ZSI1_OTHER_PIPE3"
+      ]
+    },
+    "ZSI1_PACKING_SUPP": {
+      "description": "7",
+      "keywords": [
+        "EN - ENGLISH",
+        "STRAPPING BAND",
+        "ZSI1_PACKING_SUPP7"
+      ]
+    },
+    "ZSI1_PACKING": {
+      "description": "7",
+      "keywords": [
+        "EN - ENGLISH",
+        "FELT PACKING",
+        "ZSI1_PACKING7"
+      ]
+    },
+    "ZSI1_PAINT_ACCS": {
+      "description": "5",
+      "keywords": [
+        "BAK CAT",
+        "EN - ENGLISH",
+        "ZSI1_PAINT_ACCS5"
+      ]
+    },
+    "ZSI1_PAINT_FINISH": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "RESIN CATALYST",
+        "ZSI1_PAINT_FINISH9"
+      ]
+    },
+    "ZSI1_PALLETS": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "PALLET",
+        "ZSI1_PALLETS1"
+      ]
+    },
+    "ZSI1_PANEL_BOX": {
+      "description": "7",
+      "keywords": [
+        "EN - ENGLISH",
+        "PJU LED SOLAR PANEL",
+        "ZSI1_PANEL_BOX7"
+      ]
+    },
+    "ZSI1_PART_MOLDING": {
+      "description": "3",
+      "keywords": [
+        "EN - ENGLISH",
+        "SPAREPART MOLDING",
+        "ZSI1_PART_MOLDING3"
+      ]
+    },
+    "ZSI1_PERSONAL_SAFE": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "FULL BODY HARNESS",
+        "ZSI1_PERSONAL_SAFE9"
+      ]
+    },
+    "ZSI1_PEST_CONTROL": {
+      "description": "8",
+      "keywords": [
+        "EN - ENGLISH",
+        "RACUN TIKUS",
+        "ZSI1_PEST_CONTROL8"
+      ]
+    },
+    "ZSI1_PHOTO_EQP": {
+      "description": "6",
+      "keywords": [
+        "EN - ENGLISH",
+        "KAMERA",
+        "ZSI1_PHOTO_EQP6"
+      ]
+    },
+    "ZSI1_PIPE_CONNECT": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "PIPE UNION",
+        "ZSI1_PIPE_CONNECT9"
+      ]
+    },
+    "ZSI1_PIPE_ELBOW": {
+      "description": "2",
+      "keywords": [
+        "EN - ENGLISH",
+        "PIPE ELBOW",
+        "ZSI1_PIPE_ELBOW2"
+      ]
+    },
+    "ZSI1_PIPE_FLANGE": {
+      "description": "6",
+      "keywords": [
+        "EN - ENGLISH",
+        "WELDING NECK FLANGE",
+        "ZSI1_PIPE_FLANGE6"
+      ]
+    },
+    "ZSI1_PIPE_REDUCER": {
+      "description": "4",
+      "keywords": [
+        "EN - ENGLISH",
+        "PIPE REDUCER",
+        "ZSI1_PIPE_REDUCER4"
+      ]
+    },
+    "ZSI1_PIPE_STRAINER": {
+      "description": "5",
+      "keywords": [
+        "EN - ENGLISH",
+        "PIPE STRAINER",
+        "ZSI1_PIPE_STRAINER5"
+      ]
+    },
+    "ZSI1_PIPE_TEE": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "PIPE TEE CROSS",
+        "ZSI1_PIPE_TEE9"
+      ]
+    },
+    "ZSI1_PIPE_WYE": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "PIPA Y",
+        "ZSI1_PIPE_WYE1"
+      ]
+    },
+    "ZSI1_PIPE": {
+      "description": "4",
+      "keywords": [
+        "EN - ENGLISH",
+        "HYDRAULIC PIPE",
+        "ZSI1_PIPE4"
+      ]
+    },
+    "ZSI1_PLAIN_PLATE": {
+      "description": "5",
+      "keywords": [
+        "EN - ENGLISH",
+        "PLAT CORNER",
+        "ZSI1_PLAIN_PLATE5"
+      ]
+    },
+    "ZSI1_PLANT": {
+      "description": "6",
+      "keywords": [
+        "EN - ENGLISH",
+        "TANAMAN ARTIFICIAL",
+        "ZSI1_PLANT6"
+      ]
+    },
+    "ZSI1_PLASTIC_MC": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "RUBBER & PLASTIC MACHINE",
+        "ZSI1_PLASTIC_MC1"
+      ]
+    },
+    "ZSI1_PLC": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "PLC CPU MODULE",
+        "ZSI1_PLC9"
+      ]
+    },
+    "ZSI1_PLUMBING_FXTR": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "FAUCET",
+        "ZSI1_PLUMBING_FXTR9"
+      ]
+    },
+    "ZSI1_PNEU_CONN": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "PNEUMATIC FITTING",
+        "ZSI1_PNEU_CONN9"
+      ]
+    },
+    "ZSI1_PNEU_CYLINDER": {
+      "description": "5",
+      "keywords": [
+        "EN - ENGLISH",
+        "PNEU CYLINDER",
+        "ZSI1_PNEU_CYLINDER5"
+      ]
+    },
+    "ZSI1_PNEU_HOSE": {
+      "description": "3",
+      "keywords": [
+        "EN - ENGLISH",
+        "PNEU HOSE",
+        "ZSI1_PNEU_HOSE3"
+      ]
+    },
+    "ZSI1_PNEU_TOOL": {
+      "description": "4",
+      "keywords": [
+        "AIR GRIPPER",
+        "EN - ENGLISH",
+        "ZSI1_PNEU_TOOL4"
+      ]
+    },
+    "ZSI1_POWER_CABLE": {
+      "description": "3",
+      "keywords": [
+        "CABLE",
+        "EN - ENGLISH",
+        "ZSI1_POWER_CABLE3"
+      ]
+    },
+    "ZSI1_PRINT_INK_TON": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "RIBBON MASK",
+        "ZSI1_PRINT_INK_TON9"
+      ]
+    },
+    "ZSI1_PUB_SAFE_SUPP": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "TRAFFIC CONE",
+        "ZSI1_PUB_SAFE_SUPP1"
+      ]
+    },
+    "ZSI1_PULLEY": {
+      "description": "9",
+      "keywords": [
+        "DRIVEN PULLEY",
+        "EN - ENGLISH",
+        "ZSI1_PULLEY9"
+      ]
+    },
+    "ZSI1_PUMP": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "IMPELLER PUMP",
+        "ZSI1_PUMP9"
+      ]
+    },
+    "ZSI1_PWR_CONDITION": {
+      "description": "8",
+      "keywords": [
+        "EN - ENGLISH",
+        "POWER FACTOR REGULATOR",
+        "ZSI1_PWR_CONDITION8"
+      ]
+    },
+    "ZSI1_PWR_GENERATOR": {
+      "description": "3",
+      "keywords": [
+        "EN - ENGLISH",
+        "GENERATOR SET",
+        "ZSI1_PWR_GENERATOR3"
+      ]
+    },
+    "ZSI1_PWR_TRANSMISN": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "MIXER SHAFT",
+        "ZSI1_PWR_TRANSMISN9"
+      ]
+    },
+    "ZSI1_RACKING": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "RACKING",
+        "ZSI1_RACKING1"
+      ]
+    },
+    "ZSI1_REAGEN_INDC": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "REAGEN",
+        "ZSI1_REAGEN_INDC1"
+      ]
+    },
+    "ZSI1_REGULATOR": {
+      "description": "5",
+      "keywords": [
+        "EN - ENGLISH",
+        "PRESSURE REGULATOR",
+        "ZSI1_REGULATOR5"
+      ]
+    },
+    "ZSI1_RESISTOR": {
+      "description": "3",
+      "keywords": [
+        "EN - ENGLISH",
+        "REGENERATE RESISTOR",
+        "ZSI1_RESISTOR3"
+      ]
+    },
+    "ZSI1_RETAIN_HARDWR": {
+      "description": "9",
+      "keywords": [
+        "DOWEL PIN",
+        "EN - ENGLISH",
+        "ZSI1_RETAIN_HARDWR9"
+      ]
+    },
+    "ZSI1_ROAD_LANDSCAP": {
+      "description": "3",
+      "keywords": [
+        "BATU KALI",
+        "EN - ENGLISH",
+        "ZSI1_ROAD_LANDSCAP3"
+      ]
+    },
+    "ZSI1_RODA_WHEEL": {
+      "description": "5",
+      "keywords": [
+        "EN - ENGLISH",
+        "HAND PALLET WHEEL",
+        "ZSI1_RODA_WHEEL5"
+      ]
+    },
+    "ZSI1_ROLLER_CHAIN": {
+      "description": "9",
+      "keywords": [
+        "CHAIN ADJUSTER SHAFT",
+        "EN - ENGLISH",
+        "ZSI1_ROLLER_CHAIN9"
+      ]
+    },
+    "ZSI1_ROOFING": {
+      "description": "3",
+      "keywords": [
+        "EN - ENGLISH",
+        "ROOFING SHEET",
+        "ZSI1_ROOFING3"
+      ]
+    },
+    "ZSI1_ROPE": {
+      "description": "4",
+      "keywords": [
+        "EN - ENGLISH",
+        "ROPE REINFORCED SQUARE",
+        "ZSI1_ROPE4"
+      ]
+    },
+    "ZSI1_SCREW": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "HEX SELF DRL SCREW",
+        "ZSI1_SCREW9"
+      ]
+    },
+    "ZSI1_SEAL": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "HYD SEAL KIT",
+        "ZSI1_SEAL9"
+      ]
+    },
+    "ZSI1_SEPARATOR": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "SEPARATOR",
+        "ZSI1_SEPARATOR1"
+      ]
+    },
+    "ZSI1_SHEET": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "SHEET",
+        "ZSI1_SHEET1"
+      ]
+    },
+    "ZSI1_SHELV_STORAGE": {
+      "description": "4",
+      "keywords": [
+        "EN - ENGLISH",
+        "SHUTTLE RACK",
+        "ZSI1_SHELV_STORAGE4"
+      ]
+    },
+    "ZSI1_SHOE_SANDAL": {
+      "description": "7",
+      "keywords": [
+        "BADMINTON SHOES",
+        "EN - ENGLISH",
+        "ZSI1_SHOE_SANDAL7"
+      ]
+    },
+    "ZSI1_SHOWCASE": {
+      "description": "2",
+      "keywords": [
+        "EN - ENGLISH",
+        "SHOCASE",
+        "ZSI1_SHOWCASE2"
+      ]
+    },
+    "ZSI1_SIGHT_GLASS": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "SIGHT GLASS",
+        "ZSI1_SIGHT_GLASS1"
+      ]
+    },
+    "ZSI1_SIGNAL_FILTER": {
+      "description": "2",
+      "keywords": [
+        "EN - ENGLISH",
+        "NOISE FILTER",
+        "ZSI1_SIGNAL_FILTER2"
+      ]
+    },
+    "ZSI1_SLING": {
+      "description": "7",
+      "keywords": [
+        "EN - ENGLISH",
+        "SEGEL SLING",
+        "ZSI1_SLING7"
+      ]
+    },
+    "ZSI1_SLIPSHEET": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "SLIPSHEET",
+        "ZSI1_SLIPSHEET1"
+      ]
+    },
+    "ZSI1_SPRING": {
+      "description": "9",
+      "keywords": [
+        "COMPRESSION SPRING",
+        "EN - ENGLISH",
+        "ZSI1_SPRING9"
+      ]
+    },
+    "ZSI1_SPROCKET": {
+      "description": "8",
+      "keywords": [
+        "EN - ENGLISH",
+        "MODULAR SPROCKET",
+        "ZSI1_SPROCKET8"
+      ]
+    },
+    "ZSI1_STORAGE_TANK": {
+      "description": "4",
+      "keywords": [
+        "BULKHEAD",
+        "EN - ENGLISH",
+        "ZSI1_STORAGE_TANK4"
+      ]
+    },
+    "ZSI1_SURVEILLANCE": {
+      "description": "9",
+      "keywords": [
+        "ACCESS DOOR",
+        "EN - ENGLISH",
+        "ZSI1_SURVEILLANCE9"
+      ]
+    },
+    "ZSI1_TILE": {
+      "description": "3",
+      "keywords": [
+        "EN - ENGLISH",
+        "WALL TILE",
+        "ZSI1_TILE3"
+      ]
+    },
+    "ZSI1_TIMING_BELT": {
+      "description": "2",
+      "keywords": [
+        "EN - ENGLISH",
+        "T-BELT",
+        "ZSI1_TIMING_BELT2"
+      ]
+    },
+    "ZSI1_TIRE_OUTER": {
+      "description": "9",
+      "keywords": [
+        "BAN SEPEDA DALAM",
+        "EN - ENGLISH",
+        "ZSI1_TIRE_OUTER9"
+      ]
+    },
+    "ZSI1_TRAFO": {
+      "description": "9",
+      "keywords": [
+        "CURRENT TRANSFORMER SPLIT CORE",
+        "EN - ENGLISH",
+        "ZSI1_TRAFO9"
+      ]
+    },
+    "ZSI1_TRANSISTOR": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "TRANSISTOR",
+        "ZSI1_TRANSISTOR1"
+      ]
+    },
+    "ZSI1_TRAP_STRAINER": {
+      "description": "4",
+      "keywords": [
+        "EN - ENGLISH",
+        "STEAM TRAP DISC",
+        "ZSI1_TRAP_STRAINER4"
+      ]
+    },
+    "ZSI1_TRP_COMP": {
+      "description": "3",
+      "keywords": [
+        "EN - ENGLISH",
+        "SHOCK ABSORBER",
+        "ZSI1_TRP_COMP3"
+      ]
+    },
+    "ZSI1_TUBE_FITTING": {
+      "description": "1",
+      "keywords": [
+        "CONNECTOR",
+        "EN - ENGLISH",
+        "ZSI1_TUBE_FITTING1"
+      ]
+    },
+    "ZSI1_TUBE": {
+      "description": "2",
+      "keywords": [
+        "CAPILLARY TUBE",
+        "EN - ENGLISH",
+        "ZSI1_TUBE2"
+      ]
+    },
+    "ZSI1_U_CHANNEL": {
+      "description": "2",
+      "keywords": [
+        "EN - ENGLISH",
+        "UNP",
+        "ZSI1_U_CHANNEL2"
+      ]
+    },
+    "ZSI1_V_BELT": {
+      "description": "4",
+      "keywords": [
+        "EN - ENGLISH",
+        "V-BELT",
+        "ZSI1_V_BELT4"
+      ]
+    },
+    "ZSI1_VALVE": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "FOOT VALVE",
+        "ZSI1_VALVE9"
+      ]
+    },
+    "ZSI1_VEH_SERV_MC": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "VEHICLE SERVICE MACHINE",
+        "ZSI1_VEH_SERV_MC1"
+      ]
+    },
+    "ZSI1_VEHICLE": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "XENIA",
+        "ZSI1_VEHICLE9"
+      ]
+    },
+    "ZSI1_VENDING_MC": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "VENDING MACHINE",
+        "ZSI1_VENDING_MC1"
+      ]
+    },
+    "ZSI1_VIS_PRESENT": {
+      "description": "3",
+      "keywords": [
+        "EN - ENGLISH",
+        "WALL SCREEN",
+        "ZSI1_VIS_PRESENT3"
+      ]
+    },
+    "ZSI1_WALLPAPER": {
+      "description": "2",
+      "keywords": [
+        "EN - ENGLISH",
+        "WALL PAPER",
+        "ZSI1_WALLPAPER2"
+      ]
+    },
+    "ZSI1_WAREHSE_EQUIP": {
+      "description": "5",
+      "keywords": [
+        "BOARD ROBOT PALLETIZING",
+        "EN - ENGLISH",
+        "ZSI1_WAREHSE_EQUIP5"
+      ]
+    },
+    "ZSI1_WASHER": {
+      "description": "7",
+      "keywords": [
+        "EN - ENGLISH",
+        "RING MATAHARI",
+        "ZSI1_WASHER7"
+      ]
+    },
+    "ZSI1_WATER_HOSE": {
+      "description": "4",
+      "keywords": [
+        "EN - ENGLISH",
+        "WTR HOSE",
+        "ZSI1_WATER_HOSE4"
+      ]
+    },
+    "ZSI1_WATERMUR": {
+      "description": "2",
+      "keywords": [
+        "EN - ENGLISH",
+        "WTRMUR",
+        "ZSI1_WATERMUR2"
+      ]
+    },
+    "ZSI1_WELDING_EQP": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "SIKU MAGNET LAS",
+        "ZSI1_WELDING_EQP9"
+      ]
+    },
+    "ZSI1_WELDSLDR_WIRE": {
+      "description": "7",
+      "keywords": [
+        "EN - ENGLISH",
+        "KAWAT LAS TIG",
+        "ZSI1_WELDSLDR_WIRE7"
+      ]
+    },
+    "ZSI1_WIRE_ROPE": {
+      "description": "3",
+      "keywords": [
+        "EN - ENGLISH",
+        "WIRE ROPE ASSEMBLY",
+        "ZSI1_WIRE_ROPE3"
+      ]
+    },
+    "ZSI1_WIRING_HARNES": {
+      "description": "1",
+      "keywords": [
+        "EN - ENGLISH",
+        "WIRING HARNESS",
+        "ZSI1_WIRING_HARNES1"
+      ]
+    },
+    "ZSI1_WOOD_STRCTR": {
+      "description": "3",
+      "keywords": [
+        "EN - ENGLISH",
+        "TRIPLEK",
+        "ZSI1_WOOD_STRCTR3"
+      ]
+    },
+    "ZSI1_WRITE_ERASE": {
+      "description": "8",
+      "keywords": [
+        "EN - ENGLISH",
+        "PULPEN",
+        "ZSI1_WRITE_ERASE8"
+      ]
+    },
+    "ZSI1_WWT_SUPPLY": {
+      "description": "9",
+      "keywords": [
+        "ACTV CARBON",
+        "EN - ENGLISH",
+        "ZSI1_WWT_SUPPLY9"
+      ]
+    },
+    "ZSI2_PALLETS": {
+      "description": "2",
+      "keywords": [
+        "EN - ENGLISH",
+        "PALLET PLASTIK",
+        "ZSI2_PALLETS2"
+      ]
+    },
+    "ZSI1_RETURN_ITEMS": {
+      "description": "9",
+      "keywords": [
+        "EN - ENGLISH",
+        "PARTS RETURN",
+        "ZSI1_RETURN_ITEMS9"
+      ]
+    }
+  },
+  "object_dependencies": [],
+  "object_dependencies_by_class": {},
   "char_desc": {
     "ADDITIONAL_INFO_BOLT": "Additional Info",
     "ADDITIONAL_INFO_LAMP": "Additional Info",
