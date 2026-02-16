@@ -44441,6 +44441,11 @@
         "description": "Celemek Bayi"
       },
       {
+        "value": "CERMIN MEJA",
+        "default": false,
+        "description": "Cermin Meja"
+      },
+      {
         "value": "CERMIN GENGGAM",
         "default": false,
         "description": "Cermin Genggam"
@@ -55125,6 +55130,11 @@
         "value": "AQUARIUM",
         "default": false,
         "description": "Aquarium"
+      },
+      {
+        "value": "POP SOCKET",
+        "default": false,
+        "description": "Pop Socket"
       },
       {
         "value": "PAPAN HADIAH",
