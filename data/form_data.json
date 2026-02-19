@@ -49,6 +49,15 @@
       },
       {
         "sequence": 6,
+        "characteristic": "VARIANT_BRAND_WINGS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 7,
         "characteristic": "EXTERNAL_BRAND",
         "case": "",
         "prefix": "",
@@ -57,7 +66,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 7,
+        "sequence": 8,
         "characteristic": "BRAND_EXTERNAL_PI",
         "case": "P",
         "prefix": "",
@@ -66,7 +75,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 8,
+        "sequence": 9,
         "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
         "case": "U",
         "prefix": "",
@@ -75,7 +84,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 9,
+        "sequence": 10,
         "characteristic": "SIZE_UNIT_PAKAIAN",
         "case": "U",
         "prefix": "",
@@ -84,7 +93,25 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 10,
+        "sequence": 11,
+        "characteristic": "ITEM_CAPACITY",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 12,
+        "characteristic": "ITEM_CAPACITY_UNIT",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 13,
         "characteristic": "ITEM_SHAPE",
         "case": "",
         "prefix": "",
@@ -93,7 +120,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 11,
+        "sequence": 14,
         "characteristic": "DIAMETER_PCS_PI",
         "case": "P",
         "prefix": "D=",
@@ -102,7 +129,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 12,
+        "sequence": 15,
         "characteristic": "LENGTH_PCS_PI",
         "case": "P",
         "prefix": "",
@@ -111,7 +138,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 13,
+        "sequence": 16,
         "characteristic": "WIDTH_PCS_PI",
         "case": "P",
         "prefix": "x",
@@ -120,7 +147,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 14,
+        "sequence": 17,
         "characteristic": "HEIGHT_PCS_PI",
         "case": "P",
         "prefix": "x",
@@ -129,7 +156,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 15,
+        "sequence": 18,
         "characteristic": "SIZE_UNIT_DIMENSI",
         "case": "P",
         "prefix": "",
@@ -138,7 +165,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 16,
+        "sequence": 19,
         "characteristic": "HAS_SPESIFIC_COLOUR",
         "case": "",
         "prefix": "",
@@ -147,7 +174,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 17,
+        "sequence": 20,
         "characteristic": "COLOUR",
         "case": "U",
         "prefix": "",
@@ -156,7 +183,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 18,
+        "sequence": 21,
         "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
         "case": "",
         "prefix": "",
@@ -165,7 +192,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 19,
+        "sequence": 22,
         "characteristic": "DESAIN_NAME",
         "case": "P",
         "prefix": "",
@@ -174,7 +201,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 20,
+        "sequence": 23,
         "characteristic": "DESAIN_MONTH",
         "case": "P",
         "prefix": "",
@@ -183,7 +210,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 21,
+        "sequence": 24,
         "characteristic": "DESAIN_YEAR",
         "case": "P",
         "prefix": "",
@@ -192,7 +219,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 22,
+        "sequence": 25,
         "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
         "case": "",
         "prefix": "",
@@ -201,7 +228,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 16,
+        "sequence": 26,
         "characteristic": "QTY_IN_ONE_BUNDLE",
         "case": "P",
         "prefix": "@",
@@ -210,10 +237,10 @@
         "mat_desc": "Y"
       }
     ],
-    "ZPI1_ALAT_KEBRSIHAN": [
+    "ZPI1_ALAT_KEBRSIHN": [
       {
         "sequence": 1,
-        "characteristic": "ITEM_NAME_ALAT_KEBERSIHN",
+        "characteristic": "ITEM_NAME_ALAT_KEBRSIHAN",
         "case": "P",
         "prefix": "",
         "suffix": "",
@@ -222,7 +249,7 @@
       },
       {
         "sequence": 2,
-        "characteristic": "MATERIAL_ALAT_KEBERSIHN",
+        "characteristic": "MATERIAL_ALAT_KEBRSIHAN",
         "case": "P",
         "prefix": "",
         "suffix": "",
@@ -258,6 +285,15 @@
       },
       {
         "sequence": 6,
+        "characteristic": "VARIANT_BRAND_WINGS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 7,
         "characteristic": "EXTERNAL_BRAND",
         "case": "",
         "prefix": "",
@@ -266,7 +302,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 7,
+        "sequence": 8,
         "characteristic": "BRAND_EXTERNAL_PI",
         "case": "P",
         "prefix": "",
@@ -275,7 +311,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 8,
+        "sequence": 9,
         "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
         "case": "U",
         "prefix": "",
@@ -284,7 +320,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 9,
+        "sequence": 10,
         "characteristic": "ITEM_SHAPE",
         "case": "",
         "prefix": "",
@@ -293,7 +329,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 10,
+        "sequence": 11,
         "characteristic": "DIAMETER_PCS_PI",
         "case": "P",
         "prefix": "D=",
@@ -302,7 +338,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 11,
+        "sequence": 12,
         "characteristic": "LENGTH_PCS_PI",
         "case": "P",
         "prefix": "",
@@ -311,7 +347,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 12,
+        "sequence": 13,
         "characteristic": "WIDTH_PCS_PI",
         "case": "P",
         "prefix": "x",
@@ -320,7 +356,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 13,
+        "sequence": 14,
         "characteristic": "HEIGHT_PCS_PI",
         "case": "P",
         "prefix": "x",
@@ -329,7 +365,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 14,
+        "sequence": 15,
         "characteristic": "SIZE_UNIT_DIMENSI",
         "case": "P",
         "prefix": "",
@@ -338,7 +374,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 15,
+        "sequence": 16,
         "characteristic": "HAS_SPESIFIC_COLOUR",
         "case": "",
         "prefix": "",
@@ -347,7 +383,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 16,
+        "sequence": 17,
         "characteristic": "COLOUR",
         "case": "U",
         "prefix": "",
@@ -356,7 +392,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 17,
+        "sequence": 18,
         "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
         "case": "",
         "prefix": "",
@@ -365,7 +401,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 18,
+        "sequence": 19,
         "characteristic": "DESAIN_NAME",
         "case": "P",
         "prefix": "",
@@ -374,7 +410,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 19,
+        "sequence": 20,
         "characteristic": "DESAIN_MONTH",
         "case": "P",
         "prefix": "",
@@ -383,7 +419,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 20,
+        "sequence": 21,
         "characteristic": "DESAIN_YEAR",
         "case": "P",
         "prefix": "",
@@ -392,7 +428,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 21,
+        "sequence": 22,
         "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
         "case": "",
         "prefix": "",
@@ -401,7 +437,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 22,
+        "sequence": 23,
         "characteristic": "QTY_IN_ONE_BUNDLE",
         "case": "P",
         "prefix": "@",
@@ -458,6 +494,15 @@
       },
       {
         "sequence": 6,
+        "characteristic": "VARIANT_BRAND_WINGS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 7,
         "characteristic": "EXTERNAL_BRAND",
         "case": "",
         "prefix": "",
@@ -466,7 +511,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 7,
+        "sequence": 8,
         "characteristic": "BRAND_EXTERNAL_PI",
         "case": "P",
         "prefix": "",
@@ -475,7 +520,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 8,
+        "sequence": 9,
         "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
         "case": "U",
         "prefix": "",
@@ -484,7 +529,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 9,
+        "sequence": 10,
         "characteristic": "ITEM_SHAPE",
         "case": "",
         "prefix": "",
@@ -493,7 +538,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 10,
+        "sequence": 11,
         "characteristic": "DIAMETER_PCS_PI",
         "case": "P",
         "prefix": "D=",
@@ -502,7 +547,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 11,
+        "sequence": 12,
         "characteristic": "LENGTH_PCS_PI",
         "case": "P",
         "prefix": "",
@@ -511,7 +556,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 12,
+        "sequence": 13,
         "characteristic": "WIDTH_PCS_PI",
         "case": "P",
         "prefix": "x",
@@ -520,7 +565,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 13,
+        "sequence": 14,
         "characteristic": "HEIGHT_PCS_PI",
         "case": "P",
         "prefix": "x",
@@ -529,7 +574,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 14,
+        "sequence": 15,
         "characteristic": "SIZE_UNIT_DIMENSI",
         "case": "P",
         "prefix": "",
@@ -538,7 +583,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 15,
+        "sequence": 16,
         "characteristic": "HAS_SPESIFIC_COLOUR",
         "case": "",
         "prefix": "",
@@ -547,7 +592,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 16,
+        "sequence": 17,
         "characteristic": "COLOUR",
         "case": "U",
         "prefix": "",
@@ -556,7 +601,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 17,
+        "sequence": 18,
         "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
         "case": "",
         "prefix": "",
@@ -565,7 +610,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 18,
+        "sequence": 19,
         "characteristic": "DESAIN_NAME",
         "case": "P",
         "prefix": "",
@@ -574,7 +619,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 19,
+        "sequence": 20,
         "characteristic": "DESAIN_MONTH",
         "case": "P",
         "prefix": "",
@@ -583,7 +628,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 20,
+        "sequence": 21,
         "characteristic": "DESAIN_YEAR",
         "case": "P",
         "prefix": "",
@@ -592,7 +637,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 21,
+        "sequence": 22,
         "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
         "case": "",
         "prefix": "",
@@ -601,7 +646,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 22,
+        "sequence": 23,
         "characteristic": "QTY_IN_ONE_BUNDLE",
         "case": "P",
         "prefix": "@",
@@ -658,6 +703,15 @@
       },
       {
         "sequence": 6,
+        "characteristic": "VARIANT_BRAND_WINGS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 7,
         "characteristic": "EXTERNAL_BRAND",
         "case": "",
         "prefix": "",
@@ -666,7 +720,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 7,
+        "sequence": 8,
         "characteristic": "BRAND_EXTERNAL_PI",
         "case": "P",
         "prefix": "",
@@ -675,7 +729,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 8,
+        "sequence": 9,
         "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
         "case": "U",
         "prefix": "",
@@ -684,7 +738,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 9,
+        "sequence": 10,
         "characteristic": "ITEM_SHAPE",
         "case": "",
         "prefix": "",
@@ -693,7 +747,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 10,
+        "sequence": 11,
         "characteristic": "DIAMETER_PCS_PI",
         "case": "P",
         "prefix": "D=",
@@ -702,7 +756,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 11,
+        "sequence": 12,
         "characteristic": "LENGTH_PCS_PI",
         "case": "P",
         "prefix": "",
@@ -711,7 +765,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 12,
+        "sequence": 13,
         "characteristic": "WIDTH_PCS_PI",
         "case": "P",
         "prefix": "x",
@@ -720,7 +774,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 13,
+        "sequence": 14,
         "characteristic": "HEIGHT_PCS_PI",
         "case": "P",
         "prefix": "x",
@@ -729,7 +783,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 14,
+        "sequence": 15,
         "characteristic": "SIZE_UNIT_DIMENSI",
         "case": "P",
         "prefix": "",
@@ -738,7 +792,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 15,
+        "sequence": 16,
         "characteristic": "HAS_SPESIFIC_COLOUR",
         "case": "",
         "prefix": "",
@@ -747,7 +801,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 16,
+        "sequence": 17,
         "characteristic": "COLOUR",
         "case": "U",
         "prefix": "",
@@ -756,7 +810,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 17,
+        "sequence": 18,
         "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
         "case": "",
         "prefix": "",
@@ -765,7 +819,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 18,
+        "sequence": 19,
         "characteristic": "DESAIN_NAME",
         "case": "P",
         "prefix": "",
@@ -774,7 +828,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 19,
+        "sequence": 20,
         "characteristic": "DESAIN_MONTH",
         "case": "P",
         "prefix": "",
@@ -783,7 +837,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 20,
+        "sequence": 21,
         "characteristic": "DESAIN_YEAR",
         "case": "P",
         "prefix": "",
@@ -792,7 +846,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 21,
+        "sequence": 22,
         "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
         "case": "",
         "prefix": "",
@@ -801,7 +855,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 22,
+        "sequence": 23,
         "characteristic": "QTY_IN_ONE_BUNDLE",
         "case": "P",
         "prefix": "@",
@@ -858,6 +912,215 @@
       },
       {
         "sequence": 6,
+        "characteristic": "VARIANT_BRAND_WINGS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 7,
+        "characteristic": "EXTERNAL_BRAND",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 8,
+        "characteristic": "BRAND_EXTERNAL_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 9,
+        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 10,
+        "characteristic": "ITEM_SHAPE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 11,
+        "characteristic": "DIAMETER_PCS_PI",
+        "case": "P",
+        "prefix": "D=",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 12,
+        "characteristic": "LENGTH_PCS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 13,
+        "characteristic": "WIDTH_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 14,
+        "characteristic": "HEIGHT_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 15,
+        "characteristic": "SIZE_UNIT_DIMENSI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 16,
+        "characteristic": "HAS_SPESIFIC_COLOUR",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 17,
+        "characteristic": "COLOUR",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 18,
+        "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 19,
+        "characteristic": "DESAIN_NAME",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 20,
+        "characteristic": "DESAIN_MONTH",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 21,
+        "characteristic": "DESAIN_YEAR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 22,
+        "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 23,
+        "characteristic": "QTY_IN_ONE_BUNDLE",
+        "case": "P",
+        "prefix": "@",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZPI1_JAM": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_JAM",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "SPECIAL_ACTIVITY",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 3,
+        "characteristic": "EMBOSSED_BRAND_WINGS",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 4,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 5,
+        "characteristic": "VARIANT_BRAND_WINGS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 6,
         "characteristic": "EXTERNAL_BRAND",
         "case": "",
         "prefix": "",
@@ -881,7 +1144,7 @@
         "prefix": "",
         "suffix": "",
         "without_space": "",
-        "mat_desc": ""
+        "mat_desc": "Y"
       },
       {
         "sequence": 9,
@@ -1010,197 +1273,6 @@
         "mat_desc": "Y"
       }
     ],
-    "ZPI1_JAM": [
-      {
-        "sequence": 1,
-        "characteristic": "ITEM_NAME_JAM",
-        "case": "P",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 2,
-        "characteristic": "SPECIAL_ACTIVITY",
-        "case": "",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": ""
-      },
-      {
-        "sequence": 3,
-        "characteristic": "EMBOSSED_BRAND_WINGS",
-        "case": "",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": ""
-      },
-      {
-        "sequence": 4,
-        "characteristic": "BRAND_WINGS_SIPI",
-        "case": "U",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 5,
-        "characteristic": "EXTERNAL_BRAND",
-        "case": "",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": ""
-      },
-      {
-        "sequence": 6,
-        "characteristic": "BRAND_EXTERNAL_PI",
-        "case": "P",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 7,
-        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
-        "case": "U",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 8,
-        "characteristic": "ITEM_SHAPE",
-        "case": "",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": ""
-      },
-      {
-        "sequence": 9,
-        "characteristic": "DIAMETER_PCS_PI",
-        "case": "P",
-        "prefix": "D=",
-        "suffix": "",
-        "without_space": "Y",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 10,
-        "characteristic": "LENGTH_PCS_PI",
-        "case": "P",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "Y",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 11,
-        "characteristic": "WIDTH_PCS_PI",
-        "case": "P",
-        "prefix": "x",
-        "suffix": "",
-        "without_space": "Y",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 12,
-        "characteristic": "HEIGHT_PCS_PI",
-        "case": "P",
-        "prefix": "x",
-        "suffix": "",
-        "without_space": "Y",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 13,
-        "characteristic": "SIZE_UNIT_DIMENSI",
-        "case": "P",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 14,
-        "characteristic": "HAS_SPESIFIC_COLOUR",
-        "case": "",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": ""
-      },
-      {
-        "sequence": 15,
-        "characteristic": "COLOUR",
-        "case": "U",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 16,
-        "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
-        "case": "",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": ""
-      },
-      {
-        "sequence": 17,
-        "characteristic": "DESAIN_NAME",
-        "case": "P",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 18,
-        "characteristic": "DESAIN_MONTH",
-        "case": "P",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "Y",
-        "mat_desc": ""
-      },
-      {
-        "sequence": 19,
-        "characteristic": "DESAIN_YEAR",
-        "case": "P",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": ""
-      },
-      {
-        "sequence": 20,
-        "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
-        "case": "",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": ""
-      },
-      {
-        "sequence": 21,
-        "characteristic": "QTY_IN_ONE_BUNDLE",
-        "case": "P",
-        "prefix": "@",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": "Y"
-      }
-    ],
     "ZPI1_LOGAM_MULIA": [
       {
         "sequence": 1,
@@ -1240,6 +1312,15 @@
       },
       {
         "sequence": 5,
+        "characteristic": "VARIANT_BRAND_WINGS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 6,
         "characteristic": "EXTERNAL_BRAND",
         "case": "",
         "prefix": "",
@@ -1248,7 +1329,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 6,
+        "sequence": 7,
         "characteristic": "BRAND_EXTERNAL_PI",
         "case": "P",
         "prefix": "",
@@ -1257,7 +1338,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 7,
+        "sequence": 8,
         "characteristic": "SIZE_INPUT",
         "case": "P",
         "prefix": "",
@@ -1266,7 +1347,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 8,
+        "sequence": 9,
         "characteristic": "SIZE_UNIT_LOGAM_MULIA",
         "case": "P",
         "prefix": "",
@@ -1275,7 +1356,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 9,
+        "sequence": 10,
         "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
         "case": "",
         "prefix": "",
@@ -1284,7 +1365,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 10,
+        "sequence": 11,
         "characteristic": "DESAIN_NAME",
         "case": "P",
         "prefix": "",
@@ -1293,7 +1374,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 11,
+        "sequence": 12,
         "characteristic": "DESAIN_MONTH",
         "case": "P",
         "prefix": "",
@@ -1302,7 +1383,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 12,
+        "sequence": 13,
         "characteristic": "DESAIN_YEAR",
         "case": "P",
         "prefix": "",
@@ -1359,6 +1440,15 @@
       },
       {
         "sequence": 6,
+        "characteristic": "VARIANT_BRAND_WINGS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 7,
         "characteristic": "EXTERNAL_BRAND",
         "case": "",
         "prefix": "",
@@ -1367,7 +1457,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 7,
+        "sequence": 8,
         "characteristic": "BRAND_EXTERNAL_PI",
         "case": "P",
         "prefix": "",
@@ -1376,7 +1466,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 8,
+        "sequence": 9,
         "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
         "case": "U",
         "prefix": "",
@@ -1385,7 +1475,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 9,
+        "sequence": 10,
         "characteristic": "ITEM_SHAPE",
         "case": "",
         "prefix": "",
@@ -1394,7 +1484,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 10,
+        "sequence": 11,
         "characteristic": "DIAMETER_PCS_PI",
         "case": "P",
         "prefix": "D=",
@@ -1403,7 +1493,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 11,
+        "sequence": 12,
         "characteristic": "LENGTH_PCS_PI",
         "case": "P",
         "prefix": "",
@@ -1412,7 +1502,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 12,
+        "sequence": 13,
         "characteristic": "WIDTH_PCS_PI",
         "case": "P",
         "prefix": "x",
@@ -1421,7 +1511,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 13,
+        "sequence": 14,
         "characteristic": "HEIGHT_PCS_PI",
         "case": "P",
         "prefix": "x",
@@ -1430,7 +1520,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 14,
+        "sequence": 15,
         "characteristic": "SIZE_UNIT_DIMENSI",
         "case": "P",
         "prefix": "",
@@ -1439,7 +1529,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 15,
+        "sequence": 16,
         "characteristic": "HAS_SPESIFIC_COLOUR",
         "case": "",
         "prefix": "",
@@ -1448,7 +1538,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 16,
+        "sequence": 17,
         "characteristic": "COLOUR",
         "case": "U",
         "prefix": "",
@@ -1457,7 +1547,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 17,
+        "sequence": 18,
         "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
         "case": "",
         "prefix": "",
@@ -1466,7 +1556,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 18,
+        "sequence": 19,
         "characteristic": "DESAIN_NAME",
         "case": "P",
         "prefix": "",
@@ -1475,7 +1565,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 19,
+        "sequence": 20,
         "characteristic": "DESAIN_MONTH",
         "case": "P",
         "prefix": "",
@@ -1484,7 +1574,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 20,
+        "sequence": 21,
         "characteristic": "DESAIN_YEAR",
         "case": "P",
         "prefix": "",
@@ -1493,7 +1583,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 21,
+        "sequence": 22,
         "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
         "case": "",
         "prefix": "",
@@ -1502,7 +1592,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 22,
+        "sequence": 23,
         "characteristic": "QTY_IN_ONE_BUNDLE",
         "case": "P",
         "prefix": "@",
@@ -1559,6 +1649,15 @@
       },
       {
         "sequence": 6,
+        "characteristic": "VARIANT_BRAND_WINGS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 7,
         "characteristic": "EXTERNAL_BRAND",
         "case": "",
         "prefix": "",
@@ -1567,7 +1666,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 7,
+        "sequence": 8,
         "characteristic": "BRAND_EXTERNAL_PI",
         "case": "P",
         "prefix": "",
@@ -1576,7 +1675,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 8,
+        "sequence": 9,
         "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
         "case": "U",
         "prefix": "",
@@ -1585,7 +1684,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 9,
+        "sequence": 10,
         "characteristic": "SIZE_UNIT_PAKAIAN",
         "case": "U",
         "prefix": "",
@@ -1594,7 +1693,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 10,
+        "sequence": 11,
         "characteristic": "HAS_SPESIFIC_COLOUR",
         "case": "",
         "prefix": "",
@@ -1603,7 +1702,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 11,
+        "sequence": 12,
         "characteristic": "COLOUR",
         "case": "U",
         "prefix": "",
@@ -1612,7 +1711,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 12,
+        "sequence": 13,
         "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
         "case": "",
         "prefix": "",
@@ -1621,7 +1720,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 13,
+        "sequence": 14,
         "characteristic": "DESAIN_NAME",
         "case": "P",
         "prefix": "",
@@ -1630,7 +1729,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 14,
+        "sequence": 15,
         "characteristic": "DESAIN_MONTH",
         "case": "P",
         "prefix": "",
@@ -1639,7 +1738,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 15,
+        "sequence": 16,
         "characteristic": "DESAIN_YEAR",
         "case": "P",
         "prefix": "",
@@ -1648,7 +1747,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 16,
+        "sequence": 17,
         "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
         "case": "",
         "prefix": "",
@@ -1657,7 +1756,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 17,
+        "sequence": 18,
         "characteristic": "QTY_IN_ONE_BUNDLE",
         "case": "P",
         "prefix": "@",
@@ -1714,6 +1813,15 @@
       },
       {
         "sequence": 6,
+        "characteristic": "VARIANT_BRAND_WINGS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 7,
         "characteristic": "EXTERNAL_BRAND",
         "case": "",
         "prefix": "",
@@ -1722,7 +1830,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 7,
+        "sequence": 8,
         "characteristic": "BRAND_EXTERNAL_PI",
         "case": "P",
         "prefix": "",
@@ -1731,7 +1839,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 8,
+        "sequence": 9,
         "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
         "case": "U",
         "prefix": "",
@@ -1740,7 +1848,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 9,
+        "sequence": 10,
         "characteristic": "ITEM_CAPACITY",
         "case": "P",
         "prefix": "",
@@ -1749,9 +1857,227 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 10,
+        "sequence": 11,
         "characteristic": "ITEM_CAPACITY_UNIT",
         "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 12,
+        "characteristic": "ITEM_SHAPE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 13,
+        "characteristic": "DIAMETER_PCS_PI",
+        "case": "P",
+        "prefix": "D=",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 14,
+        "characteristic": "LENGTH_PCS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 15,
+        "characteristic": "WIDTH_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 16,
+        "characteristic": "HEIGHT_PCS_PI",
+        "case": "P",
+        "prefix": "x",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 17,
+        "characteristic": "SIZE_UNIT_DIMENSI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 18,
+        "characteristic": "HAS_SPESIFIC_COLOUR",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 19,
+        "characteristic": "COLOUR",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 20,
+        "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 21,
+        "characteristic": "DESAIN_NAME",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 22,
+        "characteristic": "DESAIN_MONTH",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "Y",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 23,
+        "characteristic": "DESAIN_YEAR",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 24,
+        "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 25,
+        "characteristic": "QTY_IN_ONE_BUNDLE",
+        "case": "P",
+        "prefix": "@",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      }
+    ],
+    "ZPI1_PERLKP_HUJAN": [
+      {
+        "sequence": 1,
+        "characteristic": "ITEM_NAME_PERLKP_HUJAN",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 2,
+        "characteristic": "MATERIAL_PERLKP_HUJAN",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 3,
+        "characteristic": "SPECIAL_ACTIVITY",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 4,
+        "characteristic": "EMBOSSED_BRAND_WINGS",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 5,
+        "characteristic": "BRAND_WINGS_SIPI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 6,
+        "characteristic": "VARIANT_BRAND_WINGS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 7,
+        "characteristic": "EXTERNAL_BRAND",
+        "case": "",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 8,
+        "characteristic": "BRAND_EXTERNAL_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 9,
+        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
+        "case": "U",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": ""
+      },
+      {
+        "sequence": 10,
+        "characteristic": "SIZE_UNIT_PAKAIAN",
+        "case": "U",
         "prefix": "",
         "suffix": "",
         "without_space": "",
@@ -1884,10 +2210,10 @@
         "mat_desc": "Y"
       }
     ],
-    "ZPI1_PERLKP_HUJAN": [
+    "ZPI1_PERLKP_OLHRGA": [
       {
         "sequence": 1,
-        "characteristic": "ITEM_NAME_PERLKP_HUJAN",
+        "characteristic": "ITEM_NAME_PERLKP_OLHRAGA",
         "case": "P",
         "prefix": "",
         "suffix": "",
@@ -1896,7 +2222,7 @@
       },
       {
         "sequence": 2,
-        "characteristic": "MATERIAL_PERLKP_HUJAN",
+        "characteristic": "MATERIAL_PERLKP_OLHRAGA",
         "case": "P",
         "prefix": "",
         "suffix": "",
@@ -1932,6 +2258,15 @@
       },
       {
         "sequence": 6,
+        "characteristic": "VARIANT_BRAND_WINGS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 7,
         "characteristic": "EXTERNAL_BRAND",
         "case": "",
         "prefix": "",
@@ -1940,7 +2275,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 7,
+        "sequence": 8,
         "characteristic": "BRAND_EXTERNAL_PI",
         "case": "P",
         "prefix": "",
@@ -1949,17 +2284,8 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 8,
-        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
-        "case": "U",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": ""
-      },
-      {
         "sequence": 9,
-        "characteristic": "SIZE_UNIT_PAKAIAN",
+        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
         "case": "U",
         "prefix": "",
         "suffix": "",
@@ -2093,206 +2419,6 @@
         "mat_desc": "Y"
       }
     ],
-    "ZPI1_PERLKP_OLHRGA": [
-      {
-        "sequence": 1,
-        "characteristic": "ITEM_NAME_PERLKP_OLHRAGA",
-        "case": "P",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 2,
-        "characteristic": "MATERIAL_PERLKP_OLHRAGA",
-        "case": "P",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 3,
-        "characteristic": "SPECIAL_ACTIVITY",
-        "case": "",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": ""
-      },
-      {
-        "sequence": 4,
-        "characteristic": "EMBOSSED_BRAND_WINGS",
-        "case": "",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": ""
-      },
-      {
-        "sequence": 5,
-        "characteristic": "BRAND_WINGS_SIPI",
-        "case": "U",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 6,
-        "characteristic": "EXTERNAL_BRAND",
-        "case": "",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": ""
-      },
-      {
-        "sequence": 7,
-        "characteristic": "BRAND_EXTERNAL_PI",
-        "case": "P",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 8,
-        "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
-        "case": "U",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 9,
-        "characteristic": "ITEM_SHAPE",
-        "case": "",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": ""
-      },
-      {
-        "sequence": 10,
-        "characteristic": "DIAMETER_PCS_PI",
-        "case": "P",
-        "prefix": "D=",
-        "suffix": "",
-        "without_space": "Y",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 11,
-        "characteristic": "LENGTH_PCS_PI",
-        "case": "P",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "Y",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 12,
-        "characteristic": "WIDTH_PCS_PI",
-        "case": "P",
-        "prefix": "x",
-        "suffix": "",
-        "without_space": "Y",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 13,
-        "characteristic": "HEIGHT_PCS_PI",
-        "case": "P",
-        "prefix": "x",
-        "suffix": "",
-        "without_space": "Y",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 14,
-        "characteristic": "SIZE_UNIT_DIMENSI",
-        "case": "P",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 15,
-        "characteristic": "HAS_SPESIFIC_COLOUR",
-        "case": "",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": ""
-      },
-      {
-        "sequence": 16,
-        "characteristic": "COLOUR",
-        "case": "U",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 17,
-        "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
-        "case": "",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": ""
-      },
-      {
-        "sequence": 18,
-        "characteristic": "DESAIN_NAME",
-        "case": "P",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": "Y"
-      },
-      {
-        "sequence": 19,
-        "characteristic": "DESAIN_MONTH",
-        "case": "P",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "Y",
-        "mat_desc": ""
-      },
-      {
-        "sequence": 20,
-        "characteristic": "DESAIN_YEAR",
-        "case": "P",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": ""
-      },
-      {
-        "sequence": 21,
-        "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
-        "case": "",
-        "prefix": "",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": ""
-      },
-      {
-        "sequence": 22,
-        "characteristic": "QTY_IN_ONE_BUNDLE",
-        "case": "P",
-        "prefix": "@",
-        "suffix": "",
-        "without_space": "",
-        "mat_desc": "Y"
-      }
-    ],
     "ZPI1_POSM_DISPLAY": [
       {
         "sequence": 1,
@@ -2341,6 +2467,15 @@
       },
       {
         "sequence": 6,
+        "characteristic": "VARIANT_BRAND_WINGS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 7,
         "characteristic": "EXTERNAL_BRAND",
         "case": "",
         "prefix": "",
@@ -2349,7 +2484,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 7,
+        "sequence": 8,
         "characteristic": "BRAND_EXTERNAL_PI",
         "case": "P",
         "prefix": "",
@@ -2358,7 +2493,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 8,
+        "sequence": 9,
         "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
         "case": "U",
         "prefix": "",
@@ -2367,7 +2502,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 9,
+        "sequence": 10,
         "characteristic": "ITEM_SHAPE",
         "case": "",
         "prefix": "",
@@ -2376,7 +2511,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 10,
+        "sequence": 11,
         "characteristic": "DIAMETER_PCS_PI",
         "case": "P",
         "prefix": "D=",
@@ -2385,7 +2520,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 11,
+        "sequence": 12,
         "characteristic": "LENGTH_PCS_PI",
         "case": "P",
         "prefix": "",
@@ -2394,7 +2529,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 12,
+        "sequence": 13,
         "characteristic": "WIDTH_PCS_PI",
         "case": "P",
         "prefix": "x",
@@ -2403,7 +2538,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 13,
+        "sequence": 14,
         "characteristic": "HEIGHT_PCS_PI",
         "case": "P",
         "prefix": "x",
@@ -2412,7 +2547,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 14,
+        "sequence": 15,
         "characteristic": "SIZE_UNIT_DIMENSI",
         "case": "P",
         "prefix": "",
@@ -2421,7 +2556,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 15,
+        "sequence": 16,
         "characteristic": "HAS_SPESIFIC_COLOUR",
         "case": "",
         "prefix": "",
@@ -2430,7 +2565,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 16,
+        "sequence": 17,
         "characteristic": "COLOUR",
         "case": "U",
         "prefix": "",
@@ -2439,7 +2574,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 17,
+        "sequence": 18,
         "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
         "case": "",
         "prefix": "",
@@ -2448,7 +2583,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 18,
+        "sequence": 19,
         "characteristic": "DESAIN_NAME",
         "case": "P",
         "prefix": "",
@@ -2457,7 +2592,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 19,
+        "sequence": 20,
         "characteristic": "DESAIN_MONTH",
         "case": "P",
         "prefix": "",
@@ -2466,7 +2601,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 20,
+        "sequence": 21,
         "characteristic": "DESAIN_YEAR",
         "case": "P",
         "prefix": "",
@@ -2475,7 +2610,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 21,
+        "sequence": 22,
         "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
         "case": "",
         "prefix": "",
@@ -2484,7 +2619,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 22,
+        "sequence": 23,
         "characteristic": "QTY_IN_ONE_BUNDLE",
         "case": "P",
         "prefix": "@",
@@ -2541,6 +2676,15 @@
       },
       {
         "sequence": 6,
+        "characteristic": "VARIANT_BRAND_WINGS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 7,
         "characteristic": "EXTERNAL_BRAND",
         "case": "",
         "prefix": "",
@@ -2549,7 +2693,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 7,
+        "sequence": 8,
         "characteristic": "BRAND_EXTERNAL_PI",
         "case": "P",
         "prefix": "",
@@ -2558,7 +2702,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 8,
+        "sequence": 9,
         "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
         "case": "U",
         "prefix": "",
@@ -2567,7 +2711,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 9,
+        "sequence": 10,
         "characteristic": "ITEM_SHAPE",
         "case": "",
         "prefix": "",
@@ -2576,7 +2720,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 10,
+        "sequence": 11,
         "characteristic": "DIAMETER_PCS_PI",
         "case": "P",
         "prefix": "D=",
@@ -2585,7 +2729,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 11,
+        "sequence": 12,
         "characteristic": "LENGTH_PCS_PI",
         "case": "P",
         "prefix": "",
@@ -2594,7 +2738,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 12,
+        "sequence": 13,
         "characteristic": "WIDTH_PCS_PI",
         "case": "P",
         "prefix": "x",
@@ -2603,7 +2747,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 13,
+        "sequence": 14,
         "characteristic": "HEIGHT_PCS_PI",
         "case": "P",
         "prefix": "x",
@@ -2612,7 +2756,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 14,
+        "sequence": 15,
         "characteristic": "SIZE_UNIT_DIMENSI",
         "case": "P",
         "prefix": "",
@@ -2621,7 +2765,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 15,
+        "sequence": 16,
         "characteristic": "HAS_SPESIFIC_COLOUR",
         "case": "",
         "prefix": "",
@@ -2630,7 +2774,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 16,
+        "sequence": 17,
         "characteristic": "COLOUR",
         "case": "U",
         "prefix": "",
@@ -2639,7 +2783,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 17,
+        "sequence": 18,
         "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
         "case": "",
         "prefix": "",
@@ -2648,7 +2792,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 18,
+        "sequence": 19,
         "characteristic": "DESAIN_NAME",
         "case": "P",
         "prefix": "",
@@ -2657,7 +2801,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 19,
+        "sequence": 20,
         "characteristic": "DESAIN_MONTH",
         "case": "P",
         "prefix": "",
@@ -2666,7 +2810,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 20,
+        "sequence": 21,
         "characteristic": "DESAIN_YEAR",
         "case": "P",
         "prefix": "",
@@ -2675,7 +2819,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 21,
+        "sequence": 22,
         "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
         "case": "",
         "prefix": "",
@@ -2684,7 +2828,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 22,
+        "sequence": 23,
         "characteristic": "QTY_IN_ONE_BUNDLE",
         "case": "P",
         "prefix": "@",
@@ -2887,6 +3031,15 @@
       },
       {
         "sequence": 6,
+        "characteristic": "VARIANT_BRAND_WINGS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 7,
         "characteristic": "EXTERNAL_BRAND",
         "case": "",
         "prefix": "",
@@ -2895,7 +3048,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 7,
+        "sequence": 8,
         "characteristic": "BRAND_EXTERNAL_PI",
         "case": "P",
         "prefix": "",
@@ -2904,7 +3057,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 8,
+        "sequence": 9,
         "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
         "case": "U",
         "prefix": "",
@@ -2913,7 +3066,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 9,
+        "sequence": 10,
         "characteristic": "ITEM_SHAPE",
         "case": "",
         "prefix": "",
@@ -2922,7 +3075,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 10,
+        "sequence": 11,
         "characteristic": "DIAMETER_PCS_PI",
         "case": "P",
         "prefix": "D=",
@@ -2931,7 +3084,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 11,
+        "sequence": 12,
         "characteristic": "LENGTH_PCS_PI",
         "case": "P",
         "prefix": "",
@@ -2940,7 +3093,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 12,
+        "sequence": 13,
         "characteristic": "WIDTH_PCS_PI",
         "case": "P",
         "prefix": "x",
@@ -2949,7 +3102,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 13,
+        "sequence": 14,
         "characteristic": "HEIGHT_PCS_PI",
         "case": "P",
         "prefix": "x",
@@ -2958,7 +3111,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 14,
+        "sequence": 15,
         "characteristic": "SIZE_UNIT_DIMENSI",
         "case": "P",
         "prefix": "",
@@ -2967,7 +3120,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 15,
+        "sequence": 16,
         "characteristic": "HAS_SPESIFIC_COLOUR",
         "case": "",
         "prefix": "",
@@ -2976,7 +3129,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 16,
+        "sequence": 17,
         "characteristic": "COLOUR",
         "case": "U",
         "prefix": "",
@@ -2985,7 +3138,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 17,
+        "sequence": 18,
         "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
         "case": "",
         "prefix": "",
@@ -2994,7 +3147,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 18,
+        "sequence": 19,
         "characteristic": "DESAIN_NAME",
         "case": "P",
         "prefix": "",
@@ -3003,7 +3156,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 19,
+        "sequence": 20,
         "characteristic": "DESAIN_MONTH",
         "case": "P",
         "prefix": "",
@@ -3012,7 +3165,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 20,
+        "sequence": 21,
         "characteristic": "DESAIN_YEAR",
         "case": "P",
         "prefix": "",
@@ -3021,7 +3174,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 21,
+        "sequence": 22,
         "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
         "case": "",
         "prefix": "",
@@ -3030,7 +3183,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 22,
+        "sequence": 23,
         "characteristic": "QTY_IN_ONE_BUNDLE",
         "case": "P",
         "prefix": "@",
@@ -3087,6 +3240,15 @@
       },
       {
         "sequence": 6,
+        "characteristic": "VARIANT_BRAND_WINGS_PI",
+        "case": "P",
+        "prefix": "",
+        "suffix": "",
+        "without_space": "",
+        "mat_desc": "Y"
+      },
+      {
+        "sequence": 7,
         "characteristic": "EXTERNAL_BRAND",
         "case": "",
         "prefix": "",
@@ -3095,7 +3257,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 7,
+        "sequence": 8,
         "characteristic": "BRAND_EXTERNAL_PI",
         "case": "P",
         "prefix": "",
@@ -3104,7 +3266,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 8,
+        "sequence": 9,
         "characteristic": "NO_SERI_BRAND_EXTERNAL_PI",
         "case": "U",
         "prefix": "",
@@ -3113,7 +3275,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 9,
+        "sequence": 10,
         "characteristic": "ITEM_SHAPE",
         "case": "",
         "prefix": "",
@@ -3122,7 +3284,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 10,
+        "sequence": 11,
         "characteristic": "DIAMETER_PCS_PI",
         "case": "P",
         "prefix": "D=",
@@ -3131,7 +3293,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 11,
+        "sequence": 12,
         "characteristic": "LENGTH_PCS_PI",
         "case": "P",
         "prefix": "",
@@ -3140,7 +3302,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 12,
+        "sequence": 13,
         "characteristic": "WIDTH_PCS_PI",
         "case": "P",
         "prefix": "x",
@@ -3149,7 +3311,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 13,
+        "sequence": 14,
         "characteristic": "HEIGHT_PCS_PI",
         "case": "P",
         "prefix": "x",
@@ -3158,7 +3320,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 14,
+        "sequence": 15,
         "characteristic": "SIZE_UNIT_DIMENSI",
         "case": "P",
         "prefix": "",
@@ -3167,7 +3329,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 15,
+        "sequence": 16,
         "characteristic": "HAS_SPESIFIC_COLOUR",
         "case": "",
         "prefix": "",
@@ -3176,7 +3338,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 16,
+        "sequence": 17,
         "characteristic": "COLOUR",
         "case": "U",
         "prefix": "",
@@ -3185,7 +3347,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 17,
+        "sequence": 18,
         "characteristic": "EMBOSSED_SPESIFIC_DESAIN",
         "case": "",
         "prefix": "",
@@ -3194,7 +3356,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 18,
+        "sequence": 19,
         "characteristic": "DESAIN_NAME",
         "case": "P",
         "prefix": "",
@@ -3203,7 +3365,7 @@
         "mat_desc": "Y"
       },
       {
-        "sequence": 19,
+        "sequence": 20,
         "characteristic": "DESAIN_MONTH",
         "case": "P",
         "prefix": "",
@@ -3212,7 +3374,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 20,
+        "sequence": 21,
         "characteristic": "DESAIN_YEAR",
         "case": "P",
         "prefix": "",
@@ -3221,7 +3383,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 21,
+        "sequence": 22,
         "characteristic": "SPEC_QTY_IN_ONE_BUNDLE",
         "case": "",
         "prefix": "",
@@ -3230,7 +3392,7 @@
         "mat_desc": ""
       },
       {
-        "sequence": 22,
+        "sequence": 23,
         "characteristic": "QTY_IN_ONE_BUNDLE",
         "case": "P",
         "prefix": "@",
@@ -21780,6 +21942,7 @@
     "BASE_LAMP": "Base",
     "BRAND_EXTERNAL_PI": "Brand External",
     "BRAND_WINGS_SIPI": "Brand Wings",
+    "VARIANT_BRAND_WINGS_PI": "Variant Brand Wings",
     "BRUSH_DIMENSION_PAINT_ACCS": "Brush Dimension",
     "BRUSH_SIZE_IN_PAINT_ACCS": "Brush Size (In)",
     "BRUSH_SIZE_MM_PAINT_ACCS": "Brush Size (Mm)",
@@ -22536,6 +22699,7 @@
     "ITEM_CAPACITY": "Jumlah Kapasitas",
     "ITEM_CAPACITY_UNIT": "Kapasitas Unit",
     "ITEM_NAME_ACC_PAKAIAN": "Nama Item",
+    "ITEM_NAME_ALAT_KEBRSIHAN": "Nama Item",
     "ITEM_NAME_BANTAL_SELIMUT": "Nama Item",
     "ITEM_NAME_BUKU_KERTAS": "Nama Item",
     "ITEM_NAME_HANDUK": "Nama Item",
@@ -22553,6 +22717,7 @@
     "ITEM_SHAPE": "Bentuk Item Per Pcs",
     "LENGTH_PCS_PI": "Panjang Per Pcs",
     "MATERIAL_ACC_PAKAIAN": "Bahan Item",
+    "MATERIAL_ALAT_KEBRSIHAN": "Bahan Item",
     "MATERIAL_BANTAL_SELIMUT": "Bahan Item",
     "MATERIAL_BUKU_KERTAS": "Bahan Item",
     "MATERIAL_HANDUK": "Bahan Item",
@@ -23549,6 +23714,10 @@
       "entry_required": false,
       "additional_values": false
     },
+    "VARIANT_BRAND_WINGS_PI": {
+      "entry_required": false,
+      "additional_values": false
+    },
     "COLOUR": {
       "entry_required": false,
       "additional_values": false
@@ -23606,6 +23775,10 @@
       "additional_values": false
     },
     "ITEM_NAME_ACC_PAKAIAN": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "ITEM_NAME_ALAT_KEBRSIHAN": {
       "entry_required": false,
       "additional_values": true
     },
@@ -23674,6 +23847,10 @@
       "additional_values": false
     },
     "MATERIAL_ACC_PAKAIAN": {
+      "entry_required": false,
+      "additional_values": true
+    },
+    "MATERIAL_ALAT_KEBRSIHAN": {
       "entry_required": false,
       "additional_values": true
     },
@@ -28437,6 +28614,10 @@
         "default": false
       },
       {
+        "value": "AL-HAYYUN",
+        "default": false
+      },
+      {
         "value": "AL-ARABIA",
         "default": false
       },
@@ -28573,11 +28754,31 @@
         "default": false
       },
       {
+        "value": "GAJAH BLUEBRY",
+        "default": false
+      },
+      {
+        "value": "GAJAH DIAMOND",
+        "default": false
+      },
+      {
+        "value": "GAJAH LUBUK",
+        "default": false
+      },
+      {
+        "value": "GAJAH MUTIARA",
+        "default": false
+      },
+      {
         "value": "GARDA",
         "default": false
       },
       {
         "value": "GARMIN",
+        "default": false
+      },
+      {
+        "value": "GIOK",
         "default": false
       },
       {
@@ -29002,6 +29203,10 @@
       },
       {
         "value": "VIENTO",
+        "default": false
+      },
+      {
+        "value": "WADIMIN",
         "default": false
       },
       {
@@ -43371,11 +43576,19 @@
         "default": false
       },
       {
+        "value": "BTL ROLL ON",
+        "default": false
+      },
+      {
         "value": "CARABINER",
         "default": false
       },
       {
         "value": "CELEMEK BAYI",
+        "default": false
+      },
+      {
+        "value": "CERMIN MEJA",
         "default": false
       },
       {
@@ -43684,6 +43897,160 @@
       },
       {
         "value": "AC Split",
+        "default": false
+      }
+    ],
+    "ITEM_NAME_ALAT_KEBRSIHAN": [
+      {
+        "value": "ALAT PEL",
+        "default": false
+      },
+      {
+        "value": "BASKOM",
+        "default": false
+      },
+      {
+        "value": "DISPENSER SPON",
+        "default": false
+      },
+      {
+        "value": "DUST MOP",
+        "default": false
+      },
+      {
+        "value": "EMBER",
+        "default": false
+      },
+      {
+        "value": "GANT ALAT KEBERSIHAN",
+        "default": false
+      },
+      {
+        "value": "GAYUNG",
+        "default": false
+      },
+      {
+        "value": "GEROBAK SAMPAH",
+        "default": false
+      },
+      {
+        "value": "HAND PAD",
+        "default": false
+      },
+      {
+        "value": "KAIN LAP",
+        "default": false
+      },
+      {
+        "value": "KEMOCENG",
+        "default": false
+      },
+      {
+        "value": "KESET",
+        "default": false
+      },
+      {
+        "value": "KTG SAMPAH",
+        "default": false
+      },
+      {
+        "value": "KTG SAMPAH ROL",
+        "default": false
+      },
+      {
+        "value": "PENGKI",
+        "default": false
+      },
+      {
+        "value": "REFILL DUST MOP",
+        "default": false
+      },
+      {
+        "value": "REFILL KAIN PEL",
+        "default": false
+      },
+      {
+        "value": "SAPU",
+        "default": false
+      },
+      {
+        "value": "SAPU LIDI",
+        "default": false
+      },
+      {
+        "value": "SAPU SAWANG",
+        "default": false
+      },
+      {
+        "value": "SAPU&PENGKI SET",
+        "default": false
+      },
+      {
+        "value": "SHOWER PUFF",
+        "default": false
+      },
+      {
+        "value": "SIKAT BOTOL",
+        "default": false
+      },
+      {
+        "value": "SIKAT CUCI",
+        "default": false
+      },
+      {
+        "value": "SIKAT DORONG",
+        "default": false
+      },
+      {
+        "value": "SIKAT LANTAI",
+        "default": false
+      },
+      {
+        "value": "SIKAT TOILET",
+        "default": false
+      },
+      {
+        "value": "SPON CUCI PIRING",
+        "default": false
+      },
+      {
+        "value": "SPON KAWAT",
+        "default": false
+      },
+      {
+        "value": "TATAKAN BARSOAP",
+        "default": false
+      },
+      {
+        "value": "TMPT SAMPAH",
+        "default": false
+      },
+      {
+        "value": "TMPT SAMPAH DORONG",
+        "default": false
+      },
+      {
+        "value": "TMPT SAMPAH PEDAL",
+        "default": false
+      },
+      {
+        "value": "TMPT SAMPAH PILAH 2IN1",
+        "default": false
+      },
+      {
+        "value": "TMPT SAMPAH PILAH 3IN1",
+        "default": false
+      },
+      {
+        "value": "TOILET PORTABLE",
+        "default": false
+      },
+      {
+        "value": "WIPER JENDELA",
+        "default": false
+      },
+      {
+        "value": "WIPER SPRAY",
         "default": false
       }
     ],
@@ -52807,6 +53174,10 @@
         "default": false
       },
       {
+        "value": "POP SOCKET",
+        "default": false
+      },
+      {
         "value": "PAPAN HADIAH",
         "default": false
       },
@@ -55102,6 +55473,48 @@
       },
       {
         "value": "BOPP",
+        "default": false
+      }
+    ],
+    "MATERIAL_ALAT_KEBRSIHAN": [
+      {
+        "value": "IJUK",
+        "default": false
+      },
+      {
+        "value": "KANEBO",
+        "default": false
+      },
+      {
+        "value": "KARET",
+        "default": false
+      },
+      {
+        "value": "KATUN",
+        "default": false
+      },
+      {
+        "value": "KAYU",
+        "default": false
+      },
+      {
+        "value": "MICROFIBER",
+        "default": false
+      },
+      {
+        "value": "NYLON",
+        "default": false
+      },
+      {
+        "value": "PLASTIK",
+        "default": false
+      },
+      {
+        "value": "SERABUT KELAPA",
+        "default": false
+      },
+      {
+        "value": "STAINLESS",
         "default": false
       }
     ],
@@ -62050,7 +62463,7 @@
           },
           {
             "attr": "QTEUNIT",
-            "desc": "Alternative UoM",
+            "desc": "Alternate UoM",
             "type": "lov",
             "lov_key": "Alternative UoM"
           },
@@ -62098,19 +62511,19 @@
           },
           {
             "attr": "ILOOS",
-            "desc": "Not Relevant for Notification",
+            "desc": "In Bulk/Liquid",
             "type": "lov",
             "lov_key": "std_ILOOS"
           },
           {
             "attr": "IHIVI",
-            "desc": "Relevant for Hazardous Substance",
+            "desc": "Highly Viscous",
             "type": "lov",
             "lov_key": "std_IHIVI"
           },
           {
             "attr": "DOKNR",
-            "desc": "Document Number",
+            "desc": "Document",
             "type": "text"
           },
           {
@@ -62146,7 +62559,7 @@
           },
           {
             "attr": "MEGSALES",
-            "desc": "Unit of Measure Group (Sales)",
+            "desc": "Unit of Measure Grp",
             "type": "text"
           },
           {
@@ -62261,17 +62674,17 @@
           },
           {
             "attr": "MAGRVMARA",
-            "desc": "Material Freight Group",
+            "desc": "Matl Grp Pack. Matls",
             "type": "text"
           },
           {
             "attr": "MFRGR",
-            "desc": "Material Group (Manufacturer)",
+            "desc": "Material Freight Grp",
             "type": "text"
           },
           {
             "attr": "NRFHG",
-            "desc": "Log Handling Unit Variant",
+            "desc": "Qual. F. FreeGoodsDis.",
             "type": "lov",
             "lov_key": "std_NRFHG"
           }
@@ -62293,7 +62706,7 @@
           },
           {
             "attr": "TAIPURTAX",
-            "desc": "Tax Indicator (Purchasing)",
+            "desc": "Tax Ind. F. Material",
             "type": "text"
           },
           {
@@ -62304,7 +62717,7 @@
           },
           {
             "attr": "VABME",
-            "desc": "Variable Order Unit",
+            "desc": "Var. OUn",
             "type": "lov",
             "lov_key": "std_VABME"
           },
@@ -62396,13 +62809,13 @@
           },
           {
             "attr": "SOBMRPSP",
-            "desc": "Special Procurement Type",
+            "desc": "Special Procurement",
             "type": "lov",
             "lov_key": "std_SOBMRPSP"
           },
           {
             "attr": "KZECH",
-            "desc": "Batch Management Determination",
+            "desc": "Batch Entry",
             "type": "lov",
             "lov_key": "std_KZECH"
           },
@@ -62418,7 +62831,7 @@
           },
           {
             "attr": "WEBAZ",
-            "desc": "GR Processing Time (Days)",
+            "desc": "GR Processing Time (days)",
             "type": "text"
           },
           {
@@ -62428,7 +62841,7 @@
           },
           {
             "attr": "PLIFZ",
-            "desc": "Planned Delivery Time",
+            "desc": "Planned Deliv. Time (days)",
             "type": "text"
           },
           {
@@ -62443,7 +62856,7 @@
           },
           {
             "attr": "PERMRPFC",
-            "desc": "Period Indicator (Forecast)",
+            "desc": "Period Indicator",
             "type": "lov",
             "lov_key": "std_PERMRPFC"
           },
@@ -62461,35 +62874,35 @@
           },
           {
             "attr": "VINT2",
-            "desc": "Consumption Period (Forward)",
+            "desc": "Fwd Consumption Per.",
             "type": "text"
           },
           {
             "attr": "VINT1",
-            "desc": "Consumption Period (Backward)",
+            "desc": "Bwd Consumption Per.",
             "type": "text"
           },
           {
             "attr": "MISKZ",
-            "desc": "Mixed MRP Indicator",
+            "desc": "Mixed MRP",
             "type": "lov",
             "lov_key": "std_MISKZ"
           },
           {
             "attr": "MTVFP",
-            "desc": "Availability Check Group",
+            "desc": "Availability Check",
             "type": "lov",
             "lov_key": "Availability Check"
           },
           {
             "attr": "SBDKZ",
-            "desc": "Individual/Collective Requirements",
+            "desc": "Individual/Coll.",
             "type": "lov",
             "lov_key": "std_SBDKZ"
           },
           {
             "attr": "KZAUS",
-            "desc": "Discontinuation Indicator",
+            "desc": "Discontin. Ind.",
             "type": "lov",
             "lov_key": "std_KZAUS"
           },
@@ -62505,7 +62918,7 @@
           },
           {
             "attr": "WEBAZ",
-            "desc": "GR Processing Time (Days)",
+            "desc": "Quota Arr. Usage",
             "type": "text"
           }
         ]
@@ -62515,17 +62928,17 @@
         "fields": [
           {
             "attr": "DZEIT",
-            "desc": "In-House Production Time (Days)",
+            "desc": "In-House Production (days)",
             "type": "text"
           },
           {
             "attr": "UNETO",
-            "desc": "Underdelivery Tolerance (%)",
+            "desc": "Underdel. Tolerance (%)",
             "type": "text"
           },
           {
             "attr": "UEETO",
-            "desc": "Overdelivery Tolerance (%)",
+            "desc": "Overdeliv. Tolerance (%)",
             "type": "text"
           },
           {
@@ -62535,22 +62948,22 @@
           },
           {
             "attr": "FEVMARCWR",
-            "desc": "Production Scheduling Profile",
+            "desc": "Prodn Supervisor",
             "type": "text"
           },
           {
             "attr": "SFCMARCWR",
-            "desc": "Production Supervisor",
+            "desc": "Prod. Sched. Profile",
             "type": "text"
           },
           {
             "attr": "MATGR",
-            "desc": "Material Authorization Group",
+            "desc": "Mat. Grouping",
             "type": "text"
           },
           {
             "attr": "UEETK",
-            "desc": "Unlimited Overdelivery",
+            "desc": "Unlimited",
             "type": "text"
           }
         ]
@@ -62560,7 +62973,7 @@
         "fields": [
           {
             "attr": "QMATA",
-            "desc": "QM Control Key (Material)",
+            "desc": "QM Control Key",
             "type": "lov",
             "lov_key": "std_QMATA"
           },
@@ -62571,104 +62984,104 @@
           },
           {
             "attr": "QMATV",
-            "desc": "QM in Sales",
+            "desc": "Inspection Setup",
             "type": "text"
           },
           {
             "attr": "APA",
-            "desc": "Preferred Vendor",
+            "desc": "Inspection Type",
             "type": "text"
           },
           {
             "attr": "KZDKZ",
-            "desc": "Documentation Required",
+            "desc": "Documentation Reqd",
             "type": "lov",
             "lov_key": "std_KZDKZ"
           },
           {
             "attr": "PRFRQ",
-            "desc": "Inspection Interval (Batches)",
+            "desc": "Inspection Interval (days)",
             "type": "text"
           },
           {
             "attr": "INSMK_Q",
-            "desc": "Post to Inspection Stock",
+            "desc": "Post to Insp. Stock",
             "type": "lov",
             "lov_key": "std_INSMK_Q"
           },
           {
             "attr": "AFR",
-            "desc": "Reference Material for QM",
+            "desc": "Insp. for HU",
             "type": "text"
           },
           {
             "attr": "PPL",
-            "desc": "Physical Sample Required",
+            "desc": "Insp. with Task List",
             "type": "text"
           },
           {
             "attr": "APP",
-            "desc": "Approval Required",
+            "desc": "Automatic Assignment",
             "type": "text"
           },
           {
             "attr": "MER",
-            "desc": "QM Material Authorization",
+            "desc": "Check Chars",
             "type": "text"
           },
           {
             "attr": "STICHPRVE",
-            "desc": "Inspection Setup (Sample)",
+            "desc": "Smpl. Procedure",
             "type": "text"
           },
           {
             "attr": "HPZ",
-            "desc": "Certificate Type",
+            "desc": "100% Inspection",
             "type": "text"
           },
           {
             "attr": "SPROZ",
-            "desc": "Sample Percentage",
+            "desc": "Inspection %",
             "type": "text"
           },
           {
             "attr": "MST",
-            "desc": "Material Specification",
+            "desc": "Manual Sample Calc.",
             "type": "text"
           },
           {
             "attr": "MPB",
-            "desc": "Quality Management in Procurement",
+            "desc": "Manual Sample Entry",
             "type": "text"
           },
           {
             "attr": "DYNREGEL",
-            "desc": "Dynamic Modification Rule",
+            "desc": "Dyn. Mod. Rule",
             "type": "text"
           },
           {
             "attr": "DYN",
-            "desc": "Modification Level",
+            "desc": "Skips Allowed",
             "type": "text"
           },
           {
             "attr": "AVE",
-            "desc": "Quality Inspection Type",
+            "desc": "Automatic UD",
             "type": "text"
           },
           {
             "attr": "MPDAU",
-            "desc": "Mean Inspection Duration",
+            "desc": "Avg. Insp. Duration",
             "type": "text"
           },
           {
             "attr": "QKZVERF",
-            "desc": "QM Procurement Active",
+            "desc": "Q-Score Procedure",
             "type": "text"
           },
           {
             "attr": "CHG",
-            "desc": "Batch Record Required",
+            "desc": "Control insLot",
             "type": "text"
           },
           {
@@ -62679,7 +63092,7 @@
           },
           {
             "attr": "SSQSS",
-            "desc": "QM System Required",
+            "desc": "QM Control Key",
             "type": "text"
           }
         ]
@@ -62695,13 +63108,13 @@
           },
           {
             "attr": "MBEWMLAST",
-            "desc": "ML Active/Settle",
+            "desc": "Price Determ.",
             "type": "lov",
             "lov_key": "std_MBEWMLAST"
           },
           {
             "attr": "MLMAA",
-            "desc": "ML Valuation",
+            "desc": "ML Act.",
             "type": "text"
           },
           {
@@ -62711,12 +63124,12 @@
           },
           {
             "attr": "EKLAS",
-            "desc": "Valuation Class (External)",
+            "desc": "VC : Sales Order Stk",
             "type": "text"
           },
           {
             "attr": "QKLAS",
-            "desc": "Valuation Class (QI)",
+            "desc": "Proj. Stk Val. Class",
             "type": "text"
           },
           {
@@ -62727,12 +63140,12 @@
           },
           {
             "attr": "VERPR",
-            "desc": "Moving Average Price",
+            "desc": "Moving Price",
             "type": "text"
           },
           {
             "attr": "ZKPRS",
-            "desc": "Future Planned Price",
+            "desc": "Future Price",
             "type": "text"
           },
           {
@@ -62752,7 +63165,7 @@
           },
           {
             "attr": "DATUV_VAL",
-            "desc": "Price Valid From",
+            "desc": "Valid From",
             "type": "text"
           },
           {
@@ -62787,17 +63200,17 @@
           },
           {
             "attr": "ABWKZ",
-            "desc": "Variance Key",
+            "desc": "Devaluation Ind.",
             "type": "text"
           },
           {
             "attr": "FZPLPR",
-            "desc": "Future Planned Price 1",
+            "desc": "Planned Price",
             "type": "text"
           },
           {
             "attr": "FZPLP1",
-            "desc": "Future Planned Price 2",
+            "desc": "Planned Price 1",
             "type": "text"
           }
         ]
@@ -62807,7 +63220,7 @@
         "fields": [
           {
             "attr": "PRCMARCBA",
-            "desc": "Cost Lot Size",
+            "desc": "Profit Center",
             "type": "text"
           },
           {
@@ -62830,12 +63243,12 @@
           },
           {
             "attr": "AWSMARCCS",
-            "desc": "Variance Key (Costing)",
+            "desc": "Variance Key",
             "type": "text"
           },
           {
             "attr": "SOBMARCCS",
-            "desc": "Special Procurement (Costing)",
+            "desc": "Spec Procurem Costing",
             "type": "text"
           },
           {
@@ -62856,7 +63269,7 @@
           },
           {
             "attr": "SERNP",
-            "desc": "Serial Number Profile",
+            "desc": "Serial No. Profile",
             "type": "text"
           },
           {
@@ -62872,7 +63285,7 @@
           },
           {
             "attr": "TEMPB",
-            "desc": "Temperature Conditions",
+            "desc": "Temp. Conditions",
             "type": "text"
           },
           {
@@ -62898,7 +63311,7 @@
           },
           {
             "attr": "IPRKZ",
-            "desc": "Period Indicator (Shelf Life)",
+            "desc": "Period Ind. for SLED",
             "type": "lov",
             "lov_key": "std_IPRKZ"
           },
@@ -62909,7 +63322,7 @@
           },
           {
             "attr": "XMCNG",
-            "desc": "Batch Management Active",
+            "desc": "Neg. Stocks in Plant",
             "type": "lov",
             "lov_key": "std_XMCNG"
           },
@@ -68237,6 +68650,14 @@
         "X - Post to Insp Stock",
         "  - Not Required"
       ],
+      "std_VABME": [
+        "X - Variable",
+        "  - Fixed"
+      ],
+      "std_TATYP": [
+        "MWST - Output Tax",
+        "UTAX - Unplanned"
+      ],
       "std_LADGR": [
         "0001 - Standard Loading",
         "0002 - Alternate Loading"
@@ -68256,14 +68677,6 @@
       "std_KTGRM": [
         "0 - Normal",
         "1 - Surcharge"
-      ],
-      "std_TATYP": [
-        "MWST - Output Tax",
-        "UTAX - Unplanned"
-      ],
-      "std_VABME": [
-        "X - Variable",
-        "  - Fixed"
       ]
     }
   }
